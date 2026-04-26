@@ -1,0 +1,981 @@
+ID,MSLG,SPA,input_text,target_text,task
+220,PEZ COLOR AZUL MI FAVORITO,Los peces azules son mis favoritos.,Los peces azules son mis favoritos.,PEZ COLOR AZUL MI FAVORITO,mslg-spa
+749,YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER,"Estoy feliz, mi hijo ya tiene licencia de conducir.","Estoy feliz, mi hijo ya tiene licencia de conducir.",YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER,mslg-spa
+180,SU LIBRO MATEMÁTICAS USTEDES SACAR,Saquen su libro de Matemáticas.,Saquen su libro de Matemáticas.,SU LIBRO MATEMÁTICAS USTEDES SACAR,mslg-spa
+239,YO NECESITAR PAPEL PARA AGUA ABSORBER,Necesito papel para absorber el agua.,Necesito papel para absorber el agua.,YO NECESITAR PAPEL PARA AGUA ABSORBER,mslg-spa
+673,ISABEL TENER SU CORONA ORO,Isabel tiene una corona de oro.,Isabel tiene una corona de oro.,ISABEL TENER SU CORONA ORO,mslg-spa
+659,ESTE JUGUETE BARATO,Este juguete está barato.,Este juguete está barato.,ESTE JUGUETE BARATO,mslg-spa
+402,¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?,¿Le pusiste atención a tu maestra?,¿Le pusiste atención a tu maestra?,¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?,mslg-spa
+132,MI MAMÁ USA CREMA-DE-COSMÉTICO,Mi mamá usa crema para la cara.,Mi mamá usa crema para la cara.,MI MAMÁ USA CREMA-DE-COSMÉTICO,mslg-spa
+568,SIEMPRE BEBÉ EXPRESAR EXPRESAR,El bebé siempre es muy expresivo.,El bebé siempre es muy expresivo.,SIEMPRE BEBÉ EXPRESAR EXPRESAR,mslg-spa
+613,AYER MI TIO SAN FRANCISCO YA LLEGAR,Ayer llegó mi tío de San Francisco.,Ayer llegó mi tío de San Francisco.,AYER MI TIO SAN FRANCISCO YA LLEGAR,mslg-spa
+520,A-FUERZA TÚ DEBER TÚ PAGAR MÍ,Debes pagarme a fuerza.,Debes pagarme a fuerza.,A-FUERZA TÚ DEBER TÚ PAGAR MÍ,mslg-spa
+258,ESA ANTENA CARA VERDAD,Esa antena es muy cara.,Esa antena es muy cara.,ESA ANTENA CARA VERDAD,mslg-spa
+638,TEPITO LUGAR FAMOSO,Tepito es un lugar muy conocido.,Tepito es un lugar muy conocido.,TEPITO LUGAR FAMOSO,mslg-spa
+666,YO YA GANAR CAMPEONATO,Yo gané el campeonato.,Yo gané el campeonato.,YO YA GANAR CAMPEONATO,mslg-spa
+308,SACAR-COPIA TÚ DEBER,Debes sacar una copia.,Debes sacar una copia.,SACAR-COPIA TÚ DEBER,mslg-spa
+316,YA ÉL ARRESTADO ESO FEO VERDAD,"Él fue arrestado, qué feo.","Él fue arrestado, qué feo.",YA ÉL ARRESTADO ESO FEO VERDAD,mslg-spa
+372,MI SOBRINO ALTO,Mi sobrino es muy alto.,Mi sobrino es muy alto.,MI SOBRINO ALTO,mslg-spa
+560,SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER,El hijo de mi vecino siempre es muy desobediente.,El hijo de mi vecino siempre es muy desobediente.,SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER,mslg-spa
+884,MI HIJO+MUJER ELLA GUSTAR PATO MUCHO,A mi hija le gustan los patos.,A mi hija le gustan los patos.,MI HIJO+MUJER ELLA GUSTAR PATO MUCHO,mslg-spa
+310,SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER,"Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.","Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.",SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER,mslg-spa
+121,DOMINGO YO CONFIRMACIÓN YO IR,Iré a una confirmación el domingo.,Iré a una confirmación el domingo.,DOMINGO YO CONFIRMACIÓN YO IR,mslg-spa
+264,¿TÚ YA CONOCER ARGENTINA?,¿Tú ya conoces Argentina?,¿Tú ya conoces Argentina?,¿TÚ YA CONOCER ARGENTINA?,mslg-spa
+703,ÁFRICA ADENTRO GHANA,Ghana está en África.,Ghana está en África.,ÁFRICA ADENTRO GHANA,mslg-spa
+270,"AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO","Tú tienes unos audífonos, ¿me los prestas?","Tú tienes unos audífonos, ¿me los prestas?","AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO",mslg-spa
+143,CHAPULTEPEC YO YA VER ALGUNO DELFÍN,En Chapultepec vi algunos delfines.,En Chapultepec vi algunos delfines.,CHAPULTEPEC YO YA VER ALGUNO DELFÍN,mslg-spa
+922,MAESTRA MATEMÁTICAS MUCHAS BROMAS,La maestra de matemáticas dice muchas bromas.,La maestra de matemáticas dice muchas bromas.,MAESTRA MATEMÁTICAS MUCHAS BROMAS,mslg-spa
+620,¿TÚ DECIR ESO SEGURO?,¿Estás seguro de lo que dices?,¿Estás seguro de lo que dices?,¿TÚ DECIR ESO SEGURO?,mslg-spa
+445,AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR,Mi primo se peleó conmigo ayer.,Mi primo se peleó conmigo ayer.,AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR,mslg-spa
+629,MI SUEGRO TRABAJO TRABAJO,Mi suegro es muy trabajador.,Mi suegro es muy trabajador.,MI SUEGRO TRABAJO TRABAJO,mslg-spa
+553,YO OLVIDAR CONTRASEÑA,Olvidé mi contraseña.,Olvidé mi contraseña.,YO OLVIDAR CONTRASEÑA,mslg-spa
+669,ÚNICO MUJER TENER SU CLITORIS,Sólo las mujeres tienen clítoris.,Sólo las mujeres tienen clítoris.,ÚNICO MUJER TENER SU CLITORIS,mslg-spa
+427,CANADÁ CASCADA CATARATAS DEL NIÁGARA BONITA,"En Canadá están las Cataratas del Niágara, que son hermosas.","En Canadá están las Cataratas del Niágara, que son hermosas.",CANADÁ CASCADA CATARATAS DEL NIÁGARA BONITA,mslg-spa
+503,HOY NUEVO SACERDOTE YO YA CONOCER ÉL,Hoy conocí al nuevo sacerdote.,Hoy conocí al nuevo sacerdote.,HOY NUEVO SACERDOTE YO YA CONOCER ÉL,mslg-spa
+773,ESE ELEFANTE OREJÓN CHISTOSO,Ese elefante orejón es muy chistoso.,Ese elefante orejón es muy chistoso.,ESE ELEFANTE OREJÓN CHISTOSO,mslg-spa
+224,ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO,Alondra le prometió a su mamá ser médico.,Alondra le prometió a su mamá ser médico.,ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO,mslg-spa
+383,MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA,Mis amigos argentinos estudiaron antropología.,Mis amigos argentinos estudiaron antropología.,MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA,mslg-spa
+877,CUADERNO YO NECESITAR,Necesito un cuaderno.,Necesito un cuaderno.,CUADERNO YO NECESITAR,mslg-spa
+890,YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ,Mi papá nos abandonó en México.,Mi papá nos abandonó en México.,YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ,mslg-spa
+475,CHUPÓN DEBE DAR BEBÉ,Dale el chupón al bebé.,Dale el chupón al bebé.,CHUPÓN DEBE DAR BEBÉ,mslg-spa
+109,MI HERMANO TENER DIENTE DIENTE CHUECO,Mi hermanito tiene los dientes chuecos.,Mi hermanito tiene los dientes chuecos.,MI HERMANO TENER DIENTE DIENTE CHUECO,mslg-spa
+859,AYER COCA-COLA YO COMPRAR,Yo compré una Coca Cola ayer.,Yo compré una Coca Cola ayer.,AYER COCA-COLA YO COMPRAR,mslg-spa
+478,AHORITA NIÑO DIOS YA MECER,Es hora de mecer al niño Dios.,Es hora de mecer al niño Dios.,AHORITA NIÑO DIOS YA MECER,mslg-spa
+601,EJERCER-REMAR AYUDA CUERPO SANO,Remar es un ejercicio que ayuda a la salud.,Remar es un ejercicio que ayuda a la salud.,EJERCER-REMAR AYUDA CUERPO SANO,mslg-spa
+820,TUS OJOS HERMOSOS COLOR CAFÉ,Tú tienes unos hermosos ojos color café.,Tú tienes unos hermosos ojos color café.,TUS OJOS HERMOSOS COLOR CAFÉ,mslg-spa
+292,AYER NOCHE METRO CAOS,Anoche el metro era un caos.,Anoche el metro era un caos.,AYER NOCHE METRO CAOS,mslg-spa
+407,MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO,La hija de mi vecina tiene autismo.,La hija de mi vecina tiene autismo.,MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO,mslg-spa
+542,CARRETILLA-DE-CARGA COSTALES LLEVAR,Lleva los costales en la carretilla.,Lleva los costales en la carretilla.,CARRETILLA-DE-CARGA COSTALES LLEVAR,mslg-spa
+215,LLOVER TARDE PARECE,Al parecer va a llover en la tarde.,Al parecer va a llover en la tarde.,LLOVER TARDE PARECE,mslg-spa
+869,¿TÚ CONTESTAR MI PREGUNTA PODER?,¿Puedes contestar mi pregunta?,¿Puedes contestar mi pregunta?,¿TÚ CONTESTAR MI PREGUNTA PODER?,mslg-spa
+624,SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR,El senador explica por qué la gasolina está cara.,El senador explica por qué la gasolina está cara.,SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR,mslg-spa
+840,¿TÚ YA CENAR?,¿Ya cenaste?,¿Ya cenaste?,¿TÚ YA CENAR?,mslg-spa
+464,CREDENCIAL VOTAR HABER MI HUELLA,La credencial del INE tiene mi huella.,La credencial del INE tiene mi huella.,CREDENCIAL VOTAR HABER MI HUELLA,mslg-spa
+417,MI PUERTA COLOR AZUL YO YA PINTAR,Pinté mi puerta de color azul.,Pinté mi puerta de color azul.,MI PUERTA COLOR AZUL YO YA PINTAR,mslg-spa
+441,PLAYA MUCHOS COCOS YO ENCONTRAR YA,En la playa encontré muchos cocos.,En la playa encontré muchos cocos.,PLAYA MUCHOS COCOS YO ENCONTRAR YA,mslg-spa
+583,PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR,Nosotros viajaremos el próximo año al Lago de Pátzcuaro.,Nosotros viajaremos el próximo año al Lago de Pátzcuaro.,PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR,mslg-spa
+908,YO TENER-CULPA,Yo no tengo la culpa.,Yo no tengo la culpa.,YO TENER-CULPA,mslg-spa
+932,NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO,No te he visto desde la última navidad.,No te he visto desde la última navidad.,NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO,mslg-spa
+844,10 MAÑANA NOS-VEMOS METRO CHABACANO,Nos vemos en el metro chabacano a las 10 de la mañana,Nos vemos en el metro chabacano a las 10 de la mañana,10 MAÑANA NOS-VEMOS METRO CHABACANO,mslg-spa
+559,VACUNAS PROTEGER ENFERMEDAD,Las vacunas te protegen de las enfermedades.,Las vacunas te protegen de las enfermedades.,VACUNAS PROTEGER ENFERMEDAD,mslg-spa
+66,BARRERAS COMUNICACIÓN QUITAR PODER,Las barreras de comunicación pueden eliminarse.,Las barreras de comunicación pueden eliminarse.,BARRERAS COMUNICACIÓN QUITAR PODER,mslg-spa
+973,EDGAR MAESTRO,Edgar es maestro.,Edgar es maestro.,EDGAR MAESTRO,mslg-spa
+41,SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO,Sofía se aprovechó del apoyo de sus papás.,Sofía se aprovechó del apoyo de sus papás.,SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO,mslg-spa
+733,JAPÓN ESE ISLA BONITO,Japón es una isla bonita.,Japón es una isla bonita.,JAPÓN ESE ISLA BONITO,mslg-spa
+800,ESO FEO PARECE VULGAR,"Eso es feo, parece vulgar.","Eso es feo, parece vulgar.",ESO FEO PARECE VULGAR,mslg-spa
+720,MI TÍO GUATEMALA VIVIR,Mi tío vive en Guatemala.,Mi tío vive en Guatemala.,MI TÍO GUATEMALA VIVIR,mslg-spa
+13,"¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!","¡Rompí el jarrón, perdón, fue un accidente!","¡Rompí el jarrón, perdón, fue un accidente!","¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!",mslg-spa
+672,SIEMPRE NIÑO SUEÑO,El niño siempre tiene sueño.,El niño siempre tiene sueño.,SIEMPRE NIÑO SUEÑO,mslg-spa
+141,BLOQUEAR PROTEGER SOL,El bloqueador me protege del sol.,El bloqueador me protege del sol.,BLOQUEAR PROTEGER SOL,mslg-spa
+57,BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO,Las playas de Baja California Sur son muy limpias.,Las playas de Baja California Sur son muy limpias.,BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO,mslg-spa
+415,ADORNAR NAVIDAD MI ABUELO AYUDAR,Mi abuelo ayuda a la colecta navideña.,Mi abuelo ayuda a la colecta navideña.,ADORNAR NAVIDAD MI ABUELO AYUDAR,mslg-spa
+655,12% SUELDO YA AUMENTAR,Aumentó el sueldo en un 12%.,Aumentó el sueldo en un 12%.,12% SUELDO YA AUMENTAR,mslg-spa
+785,DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA,"Diario manejo mi auto, debo ponerle gasolina.","Diario manejo mi auto, debo ponerle gasolina.",DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA,mslg-spa
+647,WINDSURF NECESITAR VIENTO MAR,El windsurf necesita del aire para deslizarse.,El windsurf necesita del aire para deslizarse.,WINDSURF NECESITAR VIENTO MAR,mslg-spa
+323,MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR,Debes esforzarte mucho para alcanzar tu meta.,Debes esforzarte mucho para alcanzar tu meta.,MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR,mslg-spa
+697,YO GUSTAR GALLETA DIFERENTE GAMESA,Me gustan las galletas Gamesa.,Me gustan las galletas Gamesa.,YO GUSTAR GALLETA DIFERENTE GAMESA,mslg-spa
+635,TAIWÁN ISLA,Taiwán es una isla.,Taiwán es una isla.,TAIWÁN ISLA,mslg-spa
+450,SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE,Tu control de videojuego se descompuso la semana pasada.,Tu control de videojuego se descompuso la semana pasada.,SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE,mslg-spa
+184,MESA NUEVA YO QUERER,Quiero una mesa nueva.,Quiero una mesa nueva.,MESA NUEVA YO QUERER,mslg-spa
+430,CESÁREA YO NACER YA,Yo nací por cesárea.,Yo nací por cesárea.,CESÁREA YO NACER YA,mslg-spa
+668,CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR,MI Mí familia y yo fuimos a Celaya.,MI Mí familia y yo fuimos a Celaya.,CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR,mslg-spa
+518,MUJER TENER VÁGINA,Las mujeres tienen vágina.,Las mujeres tienen vágina.,MUJER TENER VÁGINA,mslg-spa
+811,CASA AZOTEAARRIBA YO LIMPIAR YA,Yo limpié la azotea de la casa.,Yo limpié la azotea de la casa.,CASA AZOTEAARRIBA YO LIMPIAR YA,mslg-spa
+682,NUEVO CD YO YA PERDER,Perdí mi nuevo CD.,Perdí mi nuevo CD.,NUEVO CD YO YA PERDER,mslg-spa
+486,OTRO LIBRO YO TENER,Tengo otro libro.,Tengo otro libro.,OTRO LIBRO YO TENER,mslg-spa
+259,APAGAR LUZ POR-FAVOR,"Por favor, apaga la luz.","Por favor, apaga la luz.",APAGAR LUZ POR-FAVOR,mslg-spa
+612,PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO,Quiero ir a estudiar el próximo año la universidad en San Diego.,Quiero ir a estudiar el próximo año la universidad en San Diego.,PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO,mslg-spa
+510,PONTE-SUDADERA NOSOTROS IR CORRER,Vamos a correr ponte la sudadera.,Vamos a correr ponte la sudadera.,PONTE-SUDADERA NOSOTROS IR CORRER,mslg-spa
+685,EFECTIVO NINGÚN YO TRAER,No traigo efectivo.,No traigo efectivo.,EFECTIVO NINGÚN YO TRAER,mslg-spa
+889,ANA SUYO PERRO ABANDONAR YA,Ana abandonó a su perro.,Ana abandonó a su perro.,ANA SUYO PERRO ABANDONAR YA,mslg-spa
+135,CANCÚN HABER CRUCERO,En Cancún hay un crucero.,En Cancún hay un crucero.,CANCÚN HABER CRUCERO,mslg-spa
+200,YO YA VISITAR MURAL DIEGO-RIVERA,Visité el mural de Diego Rivera.,Visité el mural de Diego Rivera.,YO YA VISITAR MURAL DIEGO-RIVERA,mslg-spa
+708,GOBIERNO CUIDAR PERSONA,El gobierno cuida a los ciudadanos.,El gobierno cuida a los ciudadanos.,GOBIERNO CUIDAR PERSONA,mslg-spa
+965,ESTADOS UNIDOS DIFÍCIL VIVIR,Vivir en Estados Unidos es difícil.,Vivir en Estados Unidos es difícil.,ESTADOS UNIDOS DIFÍCIL VIVIR,mslg-spa
+146,CASA AMIGO DETRÁS MI CASA,La casa de mi amigo está detrás de la mía.,La casa de mi amigo está detrás de la mía.,CASA AMIGO DETRÁS MI CASA,mslg-spa
+204,TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL,Los alumnos cantan el himno nacional los lunes.,Los alumnos cantan el himno nacional los lunes.,TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL,mslg-spa
+972,LLUVIA TUBO ROMPER,Con la lluvia el tubo se rompió.,Con la lluvia el tubo se rompió.,LLUVIA TUBO ROMPER,mslg-spa
+182,COMIDA MENOS YO QUERER,Yo quiero menos comida.,Yo quiero menos comida.,COMIDA MENOS YO QUERER,mslg-spa
+251,NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!,"Compré una almohada nueva, ¡qué suerte!","Compré una almohada nueva, ¡qué suerte!",NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!,mslg-spa
+863,COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD,Compraré la cena de Navidad en la Comercial Mexicana.,Compraré la cena de Navidad en la Comercial Mexicana.,COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD,mslg-spa
+751,AYER YO PERDER MI LIGA,Ayer perdí mi liga.,Ayer perdí mi liga.,AYER YO PERDER MI LIGA,mslg-spa
+850,CHINA HABER MUCHAS PERSONAS,En China hay sobrepoblación.,En China hay sobrepoblación.,CHINA HABER MUCHAS PERSONAS,mslg-spa
+217,ODONTOLOGÍA YO PENSAR ESTUDIAR,Pienso estudiar odontología.,Pienso estudiar odontología.,ODONTOLOGÍA YO PENSAR ESTUDIAR,mslg-spa
+494,MESA FIERRO PESADO,La mesa de fierro está muy pesada.,La mesa de fierro está muy pesada.,MESA FIERRO PESADO,mslg-spa
+939,IMPUESTOS PAGAR TUYO OBLIGACIÓN,Es tu obligación pagar impuestos.,Es tu obligación pagar impuestos.,IMPUESTOS PAGAR TUYO OBLIGACIÓN,mslg-spa
+600,RASURADORA YO QUERER COMPRAR,Quiero comprar una rasuradora.,Quiero comprar una rasuradora.,RASURADORA YO QUERER COMPRAR,mslg-spa
+293,BARCO CAPITÁN ÉL INTELIGENTE,El capitán del barco es muy inteligente.,El capitán del barco es muy inteligente.,BARCO CAPITÁN ÉL INTELIGENTE,mslg-spa
+311,ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER,No te juntes con personas enfermas te pueden contagiar.,No te juntes con personas enfermas te pueden contagiar.,ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER,mslg-spa
+165,NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR,Estudiamos para el examen.,Estudiamos para el examen.,NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR,mslg-spa
+412,SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA,La semana pasada pedí un aventón a la caseta.,La semana pasada pedí un aventón a la caseta.,SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA,mslg-spa
+451,SAPO YA CONVERTIR PERSONA PRÍNCIPE,El sapo se convirtió en príncipe.,El sapo se convirtió en príncipe.,SAPO YA CONVERTIR PERSONA PRÍNCIPE,mslg-spa
+363,DIARIO MI HERMANO AGENDA REVISAR,Mi hermano revisa su agenda diario.,Mi hermano revisa su agenda diario.,DIARIO MI HERMANO AGENDA REVISAR,mslg-spa
+502,SEXTO-PRIMARIA MI HIJO YA REPROBAR,Mi hijo reprobó el sexto de primaria.,Mi hijo reprobó el sexto de primaria.,SEXTO-PRIMARIA MI HIJO YA REPROBAR,mslg-spa
+924,MI PRIMO UNIVERSIDAD YA INGRESAR,Mi primo ingresó a la universidad.,Mi primo ingresó a la universidad.,MI PRIMO UNIVERSIDAD YA INGRESAR,mslg-spa
+541,IGLESIA CAMPANA GRANDE,En la iglesia hay una campana muy grande.,En la iglesia hay una campana muy grande.,IGLESIA CAMPANA GRANDE,mslg-spa
+823,¡CAFÉ CALIENTE!,¡El café está muy caliente!,¡El café está muy caliente!,¡CAFÉ CALIENTE!,mslg-spa
+361,ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR,Los Adventistas descansan los sábados y adoran a Dios.,Los Adventistas descansan los sábados y adoran a Dios.,ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR,mslg-spa
+619,YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR,Voy a estudiar hasta secundaria y después quiero trabajar.,Voy a estudiar hasta secundaria y después quiero trabajar.,YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR,mslg-spa
+547,NEZAHUALCÓYOTL MUCHO CHOLO,En Nezahualcóyotl hay muchos cholos,En Nezahualcóyotl hay muchos cholos,NEZAHUALCÓYOTL MUCHO CHOLO,mslg-spa
+43,ROSALÍA TRABAJAR ARCHIVO HOSPITAL,Rosalía trabaja en el archivo del hospital.,Rosalía trabaja en el archivo del hospital.,ROSALÍA TRABAJAR ARCHIVO HOSPITAL,mslg-spa
+307,YO TENER TRABAJO YA CONTENTO YO,"Ya tengo trabajo, estoy contento.","Ya tengo trabajo, estoy contento.",YO TENER TRABAJO YA CONTENTO YO,mslg-spa
+931,DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE,No hay nadie en mi casa los domingos.,No hay nadie en mi casa los domingos.,DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE,mslg-spa
+712,ÉL GRAVE,Él está muy grave.,Él está muy grave.,ÉL GRAVE,mslg-spa
+71,"#VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA",En Bélgica hay dos lenguas de señas: VGT y LSFB.,En Bélgica hay dos lenguas de señas: VGT y LSFB.,"#VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA",mslg-spa
+631,SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR,En Suiza se hablan diferentes idiomas.,En Suiza se hablan diferentes idiomas.,SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR,mslg-spa
+539,DIARIO PARQUE SALVADOR BOX EJERCER,Salvador entrena box diario en el parque.,Salvador entrena box diario en el parque.,DIARIO PARQUE SALVADOR BOX EJERCER,mslg-spa
+536,AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR,"En diciembre del año pasado, mi jefe viajó a Bogotá.","En diciembre del año pasado, mi jefe viajó a Bogotá.",AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR,mslg-spa
+256,ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!,"Ese profesor siempre está amargado, ¡qué feo!","Ese profesor siempre está amargado, ¡qué feo!",ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!,mslg-spa
+633,CARNE YO COMPRAR SUPERMERCADO,Yo compro carne en el supermercado.,Yo compro carne en el supermercado.,CARNE YO COMPRAR SUPERMERCADO,mslg-spa
+795,SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI,Acostumbro usar taxi siempre.,Acostumbro usar taxi siempre.,SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI,mslg-spa
+747,ESE LIBRO YO GUSTAR,Ese libro me gusta.,Ese libro me gusta.,ESE LIBRO YO GUSTAR,mslg-spa
+446,AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER,Ayer mi primo conquistó a mi amiga en el cine.,Ayer mi primo conquistó a mi amiga en el cine.,AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER,mslg-spa
+117,CARRERA MEDICINA CONCENTRACIÓN A-FUERZA,La medicina es una carrera que exige concentración.,La medicina es una carrera que exige concentración.,CARRERA MEDICINA CONCENTRACIÓN A-FUERZA,mslg-spa
+686,HOSPITALACÁ TODA ENFERMERA AMABLE,Todas las enfermeras del hospital son muy amables.,Todas las enfermeras del hospital son muy amables.,HOSPITALACÁ TODA ENFERMERA AMABLE,mslg-spa
+110,YO CLAVADO HÁBIL YO,Soy muy bueno para los clavados.,Soy muy bueno para los clavados.,YO CLAVADO HÁBIL YO,mslg-spa
+154,MI HERMANO+MUJER YA EMBARAZADA,Mi hermana está embarazada.,Mi hermana está embarazada.,MI HERMANO+MUJER YA EMBARAZADA,mslg-spa
+358,ADÁN PRIMER HOMBRE MUNDO DIOS HACER,Adán es el primer hombre creado por Dios en el mundo.,Adán es el primer hombre creado por Dios en el mundo.,ADÁN PRIMER HOMBRE MUNDO DIOS HACER,mslg-spa
+348,ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA,El cumpleaños de mi tía es en abril y le haremos fiesta.,El cumpleaños de mi tía es en abril y le haremos fiesta.,ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA,mslg-spa
+806,YO YA COMPRAR NUEVA ALMOHADA PARA CAMA,Compré una almohada nueva para la cama.,Compré una almohada nueva para la cama.,YO YA COMPRAR NUEVA ALMOHADA PARA CAMA,mslg-spa
+876,MALTRATO ANIMAL CRIMEN,El maltrato animal es un crimen.,El maltrato animal es un crimen.,MALTRATO ANIMAL CRIMEN,mslg-spa
+211,VACACIONES LUIS IR PANAMÁ,Luis fue de vacaciones a Panamá.,Luis fue de vacaciones a Panamá.,VACACIONES LUIS IR PANAMÁ,mslg-spa
+346,MI HIJO YO ABANDONAR,Yo abandoné a mi hijo.,Yo abandoné a mi hijo.,MI HIJO YO ABANDONAR,mslg-spa
+913,DESIERTO DIFÍCIL VIVIR,Vivir en el desierto es difícil.,Vivir en el desierto es difícil.,DESIERTO DIFÍCIL VIVIR,mslg-spa
+312,AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE,Compré este celular ayer pero está muy corriente.,Compré este celular ayer pero está muy corriente.,AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE,mslg-spa
+702,AÑO-PASADO MI GENERACIÓN GRADUAR,Mi generación se graduó el año pasado.,Mi generación se graduó el año pasado.,AÑO-PASADO MI GENERACIÓN GRADUAR,mslg-spa
+63,YO IR BAÑO,Voy al baño.,Voy al baño.,YO IR BAÑO,mslg-spa
+691,ÉL MI EX NOVIO,Él es mi ex novio.,Él es mi ex novio.,ÉL MI EX NOVIO,mslg-spa
+898,CINE MI AMIGO ÉL BESAR MÍ YA,Mi amigo me besó en el cine.,Mi amigo me besó en el cine.,CINE MI AMIGO ÉL BESAR MÍ YA,mslg-spa
+717,¿TÚ GRUPO NÚMERO CUÁL?,¿Cuál es el número de tu grupo?,¿Cuál es el número de tu grupo?,¿TÚ GRUPO NÚMERO CUÁL?,mslg-spa
+419,MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO,Mañana habrá descuentos en bolsas de mano en Liverpool.,Mañana habrá descuentos en bolsas de mano en Liverpool.,MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO,mslg-spa
+399,LUGAR TOKIO SU ASIA,Tokio se ubica en Asia.,Tokio se ubica en Asia.,LUGAR TOKIO SU ASIA,mslg-spa
+208,FRASCO DULCES NO-HAY,No hay dulces en el frasco.,No hay dulces en el frasco.,FRASCO DULCES NO-HAY,mslg-spa
+970,TABLE-DANCE MUJER DIFERENTE BAILA MESA,"En el table dance, las mujeres bailan sobre la mesa","En el table dance, las mujeres bailan sobre la mesa",TABLE-DANCE MUJER DIFERENTE BAILA MESA,mslg-spa
+587,MALETA TÚ PODER LLEVAR,Puedes llevar una maleta.,Puedes llevar una maleta.,MALETA TÚ PODER LLEVAR,mslg-spa
+495,NIÑO NIÑO TENER PIOJO,Los niños tienen piojos.,Los niños tienen piojos.,NIÑO NIÑO TENER PIOJO,mslg-spa
+606,COMIDA FALTA SAL POQUITO,A la comida le faltó un poco de sal.,A la comida le faltó un poco de sal.,COMIDA FALTA SAL POQUITO,mslg-spa
+193,ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA,Compraré ropa nueva. Yo estoy a la moda.,Compraré ropa nueva. Yo estoy a la moda.,ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA,mslg-spa
+548,CUATRO CILINDRO MI CARRO USAR,Mi carro usa cuatro cilindros.,Mi carro usa cuatro cilindros.,CUATRO CILINDRO MI CARRO USAR,mslg-spa
+152,HOMBRE EGIPCIO NO RESPONDER,El egipcio no respondió.,El egipcio no respondió.,HOMBRE EGIPCIO NO RESPONDER,mslg-spa
+905,HOY YO ARROZ COMER,Hoy no comí arroz.,Hoy no comí arroz.,HOY YO ARROZ COMER,mslg-spa
+14,MI HERMANO ACTIVO,Mi hermano es activo.,Mi hermano es activo.,MI HERMANO ACTIVO,mslg-spa
+112,MI TÍO+MUJER DELICIOSO COCINAR,Mi tía cocina delicioso.,Mi tía cocina delicioso.,MI TÍO+MUJER DELICIOSO COCINAR,mslg-spa
+53,LUZ BABY-SHOWER MAÑANA,Mañana será el Baby Shower de Luz.,Mañana será el Baby Shower de Luz.,LUZ BABY-SHOWER MAÑANA,mslg-spa
+42,JUANA SU AMIGO ÁRABE,El amigo de Juana es árabe.,El amigo de Juana es árabe.,JUANA SU AMIGO ÁRABE,mslg-spa
+104,MI TÍO TENER CASA CUERNAVACA,Mi tío tiene una casa en Cuernavaca.,Mi tío tiene una casa en Cuernavaca.,MI TÍO TENER CASA CUERNAVACA,mslg-spa
+928,YO TENER ESCUELA MUCHO AMIGO AMIGO,Tengo muchos amigos en la escuela.,Tengo muchos amigos en la escuela.,YO TENER ESCUELA MUCHO AMIGO AMIGO,mslg-spa
+78,AYER YO PASEAR SENTIR BIEN,Ayer fui a pasear y me senti muy bien,Ayer fui a pasear y me senti muy bien,AYER YO PASEAR SENTIR BIEN,mslg-spa
+664,MÍ MAMÁ COMPRAR CALZÓN,Mi mamá me compró un calzón.,Mi mamá me compró un calzón.,MÍ MAMÁ COMPRAR CALZÓN,mslg-spa
+893,YO DECIR NO-PODER YO DEBER AGUANTAR,"No puedo decirlo, debo aguantarme.","No puedo decirlo, debo aguantarme.",YO DECIR NO-PODER YO DEBER AGUANTAR,mslg-spa
+335,AYER SU ROPA SUCIA MI HERMANO LAVAR,Ayer mi hermano lavó su ropa sucia.,Ayer mi hermano lavó su ropa sucia.,AYER SU ROPA SUCIA MI HERMANO LAVAR,mslg-spa
+192,MI JEFE ÉL PAGAR MÍ SUELDO MITAD,Mi jefe me pagó la mitad del sueldo.,Mi jefe me pagó la mitad del sueldo.,MI JEFE ÉL PAGAR MÍ SUELDO MITAD,mslg-spa
+16,JEHOVÁ YO ADORAR,Adoro a Jehová.,Adoro a Jehová.,JEHOVÁ YO ADORAR,mslg-spa
+966,YO NO-FUI COMPUTADORA NO-SIRVE,Yo no fui quien descompuso la computadora.,Yo no fui quien descompuso la computadora.,YO NO-FUI COMPUTADORA NO-SIRVE,mslg-spa
+567,POLVO YO MUCHO ESTORNUDAR,"Con mucho polvo, yo estornudo mucho.","Con mucho polvo, yo estornudo mucho.",POLVO YO MUCHO ESTORNUDAR,mslg-spa
+322,YO SUERTE LOGRAR YO PODER,"Yo tuve suerte, lo pude lograr.","Yo tuve suerte, lo pude lograr.",YO SUERTE LOGRAR YO PODER,mslg-spa
+479,NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ,Me mandas un mensaje de whatsapp en la noche.,Me mandas un mensaje de whatsapp en la noche.,NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ,mslg-spa
+714,TROMBÓN SONIDO GRAVE TENER,El trombón tiene un sonido muy grave.,El trombón tiene un sonido muy grave.,TROMBÓN SONIDO GRAVE TENER,mslg-spa
+138,MÉXICO BIBLIOTECA GRANDE,La Biblioteca de México es muy grande.,La Biblioteca de México es muy grande.,MÉXICO BIBLIOTECA GRANDE,mslg-spa
+181,MADRUGADA EXPLOSIÓN YO ESCUCHAR,En la madrugada escuché una explosión.,En la madrugada escuché una explosión.,MADRUGADA EXPLOSIÓN YO ESCUCHAR,mslg-spa
+329,PULPO YO YA COMER DELICOSO,"Yo comí pulpo, es delicioso.","Yo comí pulpo, es delicioso.",PULPO YO YA COMER DELICOSO,mslg-spa
+729,YO YA SABER LEER INGLÉS IDIOMA,Yo sé leer en idioma inglés.,Yo sé leer en idioma inglés.,YO YA SABER LEER INGLÉS IDIOMA,mslg-spa
+578,TÚ HURAÑO TÚ,Eres un huraño con todos.,Eres un huraño con todos.,TÚ HURAÑO TÚ,mslg-spa
+238,A-VECES YO IR CASA SIEMPRE NO,"No siempre voy a casa, sólo a veces.","No siempre voy a casa, sólo a veces.",A-VECES YO IR CASA SIEMPRE NO,mslg-spa
+344,COLADERA TÚ A-SALVO CAER,Estuviste a salvo de caer en la coladera.,Estuviste a salvo de caer en la coladera.,COLADERA TÚ A-SALVO CAER,mslg-spa
+822,SU #SEP CALENDARIO AGOSTO TERMINAR,El calendario de la SEP termina en agosto.,El calendario de la SEP termina en agosto.,SU #SEP CALENDARIO AGOSTO TERMINAR,mslg-spa
+473,LLANTA COCHE TÚ DEBER CAMBIAR,Debes cambiar la llanta del coche.,Debes cambiar la llanta del coche.,LLANTA COCHE TÚ DEBER CAMBIAR,mslg-spa
+628,ALICIA YA VIAJAR SUDÁFRICA,Alicia viajó a Sudáfrica.,Alicia viajó a Sudáfrica.,ALICIA YA VIAJAR SUDÁFRICA,mslg-spa
+83,SANTIAGO MONEDA GUARDAR-BOLSILLO,Santiago guarda en su bolsillo una moneda.,Santiago guarda en su bolsillo una moneda.,SANTIAGO MONEDA GUARDAR-BOLSILLO,mslg-spa
+212,MOCHILA ROJA HABER DOS PAÑAL,En la mochila roja hay dos pañales.,En la mochila roja hay dos pañales.,MOCHILA ROJA HABER DOS PAÑAL,mslg-spa
+349,MÍ ABUELO+MUJER 90 EDAD,Mi abuela tiene 90 años.,Mi abuela tiene 90 años.,MÍ ABUELO+MUJER 90 EDAD,mslg-spa
+855,CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY,Mi auto no tiene cinturón de seguridad.,Mi auto no tiene cinturón de seguridad.,CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY,mslg-spa
+554,ESE HOMBRE JOVEN BUEN CORREDOR,Ese muchacho es muy buen corredor.,Ese muchacho es muy buen corredor.,ESE HOMBRE JOVEN BUEN CORREDOR,mslg-spa
+468,IRÁN BANDERA COLOR VERDE BLANCO ROJO,Los colores de la bandera de Irán son verde blanco y rojo.,Los colores de la bandera de Irán son verde blanco y rojo.,IRÁN BANDERA COLOR VERDE BLANCO ROJO,mslg-spa
+596,#TV PUBLICIDAD HABER MUCHO,En la TV hay mucha publicidad.,En la TV hay mucha publicidad.,#TV PUBLICIDAD HABER MUCHO,mslg-spa
+570,FRONTERA TIJUANA MÍ TÍO VIVIR,"Mi tío vive en la frontera, en Tijuana.","Mi tío vive en la frontera, en Tijuana.",FRONTERA TIJUANA MÍ TÍO VIVIR,mslg-spa
+326,AIMÉ SALTAR PARACAIDAS,Aimé saltó en paracaídas.,Aimé saltó en paracaídas.,AIMÉ SALTAR PARACAIDAS,mslg-spa
+977,EDGAR FUTURO MAESTRO,Edgar será maestro.,Edgar será maestro.,EDGAR FUTURO MAESTRO,mslg-spa
+106,POLICÍA AMBULANCIA PASO ÉL CEDER,El policía cedió el paso a la ambulancia.,El policía cedió el paso a la ambulancia.,POLICÍA AMBULANCIA PASO ÉL CEDER,mslg-spa
+261,YO QUERER APRENDER MUCHO COSA,Yo quiero aprender muchas cosas.,Yo quiero aprender muchas cosas.,YO QUERER APRENDER MUCHO COSA,mslg-spa
+82,SUÉTER BLANCO YO PERDER,Perdí el suéter blanco.,Perdí el suéter blanco.,SUÉTER BLANCO YO PERDER,mslg-spa
+964,TODAVÍA MI TAREA YO NO TERMINAR,No termino mi tarea todavía.,No termino mi tarea todavía.,TODAVÍA MI TAREA YO NO TERMINAR,mslg-spa
+721,GUERRERO ESTADO BONITO,Guerrero es un estado bonito.,Guerrero es un estado bonito.,GUERRERO ESTADO BONITO,mslg-spa
+524,CANTAR+MUJER MADONNA ELLOS ADMIRAR ELLA,Ellos admiran a la cantante Madonna.,Ellos admiran a la cantante Madonna.,CANTAR+MUJER MADONNA ELLOS ADMIRAR ELLA,mslg-spa
+240,YA MUCHO ÉL ABUSAR YO,Él ya abusó mucho de mí.,Él ya abusó mucho de mí.,YA MUCHO ÉL ABUSAR YO,mslg-spa
+22,AHORA TÚ RECÁMARA TÚ LIMPIAR,Ahora tú limpia tu recámara.,Ahora tú limpia tu recámara.,AHORA TÚ RECÁMARA TÚ LIMPIAR,mslg-spa
+173,DINERO NADA ESO GRATIS,"Eso no cuesta nada, es gratis.","Eso no cuesta nada, es gratis.",DINERO NADA ESO GRATIS,mslg-spa
+544,TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR,Mi amiga y su novio van los sábados al casino.,Mi amiga y su novio van los sábados al casino.,TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR,mslg-spa
+416,PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR,Vamos al parque de Azcapotzalco.,Vamos al parque de Azcapotzalco.,PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR,mslg-spa
+374,ÁLVARO OBREGÓN YO VIVIR,Yo vivo en la Delegación Álvaro Obregón.,Yo vivo en la Delegación Álvaro Obregón.,ÁLVARO OBREGÓN YO VIVIR,mslg-spa
+534,BERLÍN CAPITAL SU ALEMANIA,Berlín es la capital de Alemania.,Berlín es la capital de Alemania.,BERLÍN CAPITAL SU ALEMANIA,mslg-spa
+797,UNIVERSIDAD GALLAUDET FAMOSA,La Universidad Gallaudet es muy famosa.,La Universidad Gallaudet es muy famosa.,UNIVERSIDAD GALLAUDET FAMOSA,mslg-spa
+0,TARDE ¿POR QUÉ?,¿Por qué llegaste tarde?,¿Por qué llegaste tarde?,TARDE ¿POR QUÉ?,mslg-spa
+866,CONGRESO NUEVA LEY APROBAR YA,El Congreso aprobó la nueva ley.,El Congreso aprobó la nueva ley.,CONGRESO NUEVA LEY APROBAR YA,mslg-spa
+244,TÚ YA DEBER RESPONSABLE TÚ YA ADULTO,"Tú ya debes ser responsable, ya eres un adulto.","Tú ya debes ser responsable, ya eres un adulto.",TÚ YA DEBER RESPONSABLE TÚ YA ADULTO,mslg-spa
+760,ESE CARRO NUEVO LUJOSO,Ese carro nuevo es muy lujoso.,Ese carro nuevo es muy lujoso.,ESE CARRO NUEVO LUJOSO,mslg-spa
+782,MUCHOS POLICÍA HABER MANIFESTACIÓN,Hay muchos policías en la manifestación.,Hay muchos policías en la manifestación.,MUCHOS POLICÍA HABER MANIFESTACIÓN,mslg-spa
+838,PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR,Mi hermana se casa el próximo domingo.,Mi hermana se casa el próximo domingo.,PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR,mslg-spa
+904,PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN,Las próximas vacaciones iré de viaje a Ciudad Obregón.,Las próximas vacaciones iré de viaje a Ciudad Obregón.,PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN,mslg-spa
+589,TÚ MALO NO DEBER,No debes ser malo.,No debes ser malo.,TÚ MALO NO DEBER,mslg-spa
+648,PAYASO ZAPATO SUYO COLOR AMARILLO,Los zapatos del payaso son amarillos.,Los zapatos del payaso son amarillos.,PAYASO ZAPATO SUYO COLOR AMARILLO,mslg-spa
+771,OJALÁ TÚ ÉXITO,Ojalá tengas éxito.,Ojalá tengas éxito.,OJALÁ TÚ ÉXITO,mslg-spa
+540,CAJÓN HOJAS BLANCAS HAY,Hay hojas blancas en el cajón.,Hay hojas blancas en el cajón.,CAJÓN HOJAS BLANCAS HAY,mslg-spa
+755,¿DÓNDE TUYO LOCAL?,¿Dónde está tu local?,¿Dónde está tu local?,¿DÓNDE TUYO LOCAL?,mslg-spa
+452,MI CRONÓMETRO YA PERDER,Mi cronómetro se perdió.,Mi cronómetro se perdió.,MI CRONÓMETRO YA PERDER,mslg-spa
+119,DOMINGO IGLESIA YO IR CONFESAR YO,El domingo me iré a confesar a la iglesia.,El domingo me iré a confesar a la iglesia.,DOMINGO IGLESIA YO IR CONFESAR YO,mslg-spa
+386,TOMÁS APÓSTOL JESÚS,Tomás fue un apóstol de Jesús.,Tomás fue un apóstol de Jesús.,TOMÁS APÓSTOL JESÚS,mslg-spa
+38,JUAN ASUNTO APARTE,"Con Juan, es un asunto aparte.","Con Juan, es un asunto aparte.",JUAN ASUNTO APARTE,mslg-spa
+77,DIARIO BIBLIA ARTURO LEER,Arturo lee la biblia diariamente.,Arturo lee la biblia diariamente.,DIARIO BIBLIA ARTURO LEER,mslg-spa
+318,TÚ ENOJAR NO POR-FAVOR,"No te enojes, por favor.","No te enojes, por favor.",TÚ ENOJAR NO POR-FAVOR,mslg-spa
+615,#TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE,En la TV vi una noticia fea que pasó en Santiago de Chile.,En la TV vi una noticia fea que pasó en Santiago de Chile.,#TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE,mslg-spa
+719,AÑO-PASADO YO VIAJAR GUANAJUATO,El año pasado viajé a Guanajuato.,El año pasado viajé a Guanajuato.,AÑO-PASADO YO VIAJAR GUANAJUATO,mslg-spa
+791,MI HERMANO+MUJER SNORKELING ELLA PRACTICAR,Mi hermana practica snorkeling.,Mi hermana practica snorkeling.,MI HERMANO+MUJER SNORKELING ELLA PRACTICAR,mslg-spa
+756,ESE HOMBRE LOCO PARECER,Ese hombre parece loco.,Ese hombre parece loco.,ESE HOMBRE LOCO PARECER,mslg-spa
+979,SOPA CALIENTE,La sopa está caliente.,La sopa está caliente.,SOPA CALIENTE,mslg-spa
+4,¿QUÉ-PASO?,¿Qué te pasó?,¿Qué te pasó?,¿QUÉ-PASO?,mslg-spa
+937,MÉXICO PAPA ÉL REGAÑAR OBISPO,El papa regañó a los obispos en México.,El papa regañó a los obispos en México.,MÉXICO PAPA ÉL REGAÑAR OBISPO,mslg-spa
+281,ESO BONITO SÍ YO GUSTAR,"Eso es muy bonito, sí me gusta.","Eso es muy bonito, sí me gusta.",ESO BONITO SÍ YO GUSTAR,mslg-spa
+953,MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR,Mi papá llena el formato para tramitar su licencia de manejo.,Mi papá llena el formato para tramitar su licencia de manejo.,MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR,mslg-spa
+51,MARIBEL DIPLOMA NIVEL AVANZADO,Maribel cursa el nivel avanzado en el diplomado.,Maribel cursa el nivel avanzado en el diplomado.,MARIBEL DIPLOMA NIVEL AVANZADO,mslg-spa
+405,AUSTRALIA DECIR HABER MUCHO CANGURO,Dicen que en Australia hay muchos canguros.,Dicen que en Australia hay muchos canguros.,AUSTRALIA DECIR HABER MUCHO CANGURO,mslg-spa
+15,ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO,Adolfo López Mateos fue presidente de México.,Adolfo López Mateos fue presidente de México.,ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO,mslg-spa
+456,YA TÚ DECIR MÍ NO ELUDIR PREGUNTA,"Ya dime la verdad, no eludas la pregunta.","Ya dime la verdad, no eludas la pregunta.",YA TÚ DECIR MÍ NO ELUDIR PREGUNTA,mslg-spa
+216,MIGUEL PECHO ÉL DOLER,Miguel tiene dolor en el pecho.,Miguel tiene dolor en el pecho.,MIGUEL PECHO ÉL DOLER,mslg-spa
+108,MI ABUELO+MUJER HACER RICO CHOCOLATE,Mi abuela hace un chocolate muy rico.,Mi abuela hace un chocolate muy rico.,MI ABUELO+MUJER HACER RICO CHOCOLATE,mslg-spa
+662,BRASILIA BONITO,Brasilia es bonita.,Brasilia es bonita.,BRASILIA BONITO,mslg-spa
+228,JUANA LSM ELLA SABER,Juana sabe LSM.,Juana sabe LSM.,JUANA LSM ELLA SABER,mslg-spa
+807,ALMOHADA CÓMODA ALMOHADA PARA DORMIR,La almohada es muy cómoda para dormir.,La almohada es muy cómoda para dormir.,ALMOHADA CÓMODA ALMOHADA PARA DORMIR,mslg-spa
+872,MUCHO PERSONA CORÁN ELLOS CREER,Muchas personas creen en el Corán.,Muchas personas creen en el Corán.,MUCHO PERSONA CORÁN ELLOS CREER,mslg-spa
+250,ESE SUAVE PARECE ALGODÓN,"Eso es muy suave, parece algodón.","Eso es muy suave, parece algodón.",ESE SUAVE PARECE ALGODÓN,mslg-spa
+946,MARATÓN MI PRIMO MEDALLA ORO YA GANAR,Mi primo ganó medalla de oro en el maratón.,Mi primo ganó medalla de oro en el maratón.,MARATÓN MI PRIMO MEDALLA ORO YA GANAR,mslg-spa
+766,YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR,"Te aviso, me las vas a pagar.","Te aviso, me las vas a pagar.",YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR,mslg-spa
+373,ÉL BUENO ALUMNO ÉL,Él es un buen alumno.,Él es un buen alumno.,ÉL BUENO ALUMNO ÉL,mslg-spa
+681,YO NECESITAR DINERO PAGAR GASOLINA,Necesito dinero para poder pagar la gasolina.,Necesito dinero para poder pagar la gasolina.,YO NECESITAR DINERO PAGAR GASOLINA,mslg-spa
+218,CAJA PEQUEÑA SU COLOR ROJO,La caja pequeña es de color rojo.,La caja pequeña es de color rojo.,CAJA PEQUEÑA SU COLOR ROJO,mslg-spa
+674,CORONA-DE-OLIVO ELLOS PONER ÉL,Le pusieron la corona de olivo.,Le pusieron la corona de olivo.,CORONA-DE-OLIVO ELLOS PONER ÉL,mslg-spa
+711,COMIDA TENER MUCHO GRASA,La comida tiene mucha grasa.,La comida tiene mucha grasa.,COMIDA TENER MUCHO GRASA,mslg-spa
+516,PLAYA TORTUGA HABER,Hay una tortuga en la playa.,Hay una tortuga en la playa.,PLAYA TORTUGA HABER,mslg-spa
+357,BIBLIA DENTRO ADÁN NOMBRE HABER,En la biblia está el nombre de Adán.,En la biblia está el nombre de Adán.,BIBLIA DENTRO ADÁN NOMBRE HABER,mslg-spa
+636,MI TARJETA-DE-CRÉDITO YO PAGAR,Yo pago con mi tarjeta de crédito.,Yo pago con mi tarjeta de crédito.,MI TARJETA-DE-CRÉDITO YO PAGAR,mslg-spa
+387,¿CÓMO SEÑA APÓSTOLES?,¿Cómo haces la seña de apóstoles?,¿Cómo haces la seña de apóstoles?,¿CÓMO SEÑA APÓSTOLES?,mslg-spa
+891,SU HIJO ÉL ABANDONAR,Él abandonó a su hijo.,Él abandonó a su hijo.,SU HIJO ÉL ABANDONAR,mslg-spa
+377,YO SIEMPRE ORAR YO DECIR AMÉN,Siempre que rezo digo amén.,Siempre que rezo digo amén.,YO SIEMPRE ORAR YO DECIR AMÉN,mslg-spa
+579,MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA,Mi compañero de trabajo insiste en hacer una fiesta.,Mi compañero de trabajo insiste en hacer una fiesta.,MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA,mslg-spa
+834,ELLA CARA BONITA,Ella tiene una cara bonita.,Ella tiene una cara bonita.,ELLA CARA BONITA,mslg-spa
+148,SIEMPRE ÉL DISTRAÍDO,Él siempre está muy distraído.,Él siempre está muy distraído.,SIEMPRE ÉL DISTRAÍDO,mslg-spa
+231,ESTA SERVILLETA SUCIA,Esta servilleta está sucia.,Esta servilleta está sucia.,ESTA SERVILLETA SUCIA,mslg-spa
+257,ANIMAL DIFERENTES DIFERENTES BONITO VERDAD,Los animales son muy bonitos en verdad.,Los animales son muy bonitos en verdad.,ANIMAL DIFERENTES DIFERENTES BONITO VERDAD,mslg-spa
+623,"SEMANA PASADA, YO IR PLAZA UNIVERSIDAD",La semana pasada fui a Plaza Universidad.,La semana pasada fui a Plaza Universidad.,"SEMANA PASADA, YO IR PLAZA UNIVERSIDAD",mslg-spa
+87,BOSNIA-HERZEGOVINA ESE PAÍS LEJOS,Bosnia y Herzegovina es un país muy lejano.,Bosnia y Herzegovina es un país muy lejano.,BOSNIA-HERZEGOVINA ESE PAÍS LEJOS,mslg-spa
+499,HOY MÍ CELULAR YO YA TENER SALDO,Hoy mi celular ya tiene saldo.,Hoy mi celular ya tiene saldo.,HOY MÍ CELULAR YO YA TENER SALDO,mslg-spa
+900,ELLA TENER CABELLO-LACÍO,Ella tiene cabello lacio.,Ella tiene cabello lacio.,ELLA TENER CABELLO-LACÍO,mslg-spa
+532,AÑO-PASADO UNIVERSIDAD YO TERMINAR,El año pasado terminé la universidad.,El año pasado terminé la universidad.,AÑO-PASADO UNIVERSIDAD YO TERMINAR,mslg-spa
+460,ESTONIA FRONTERA RUSIA,Estonia tiene una frontera con Rusia.,Estonia tiene una frontera con Rusia.,ESTONIA FRONTERA RUSIA,mslg-spa
+565,MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER,En el mercado venden muchas escobas baratas.,En el mercado venden muchas escobas baratas.,MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER,mslg-spa
+920,PABLO FLOJO,Pablo es flojo.,Pablo es flojo.,PABLO FLOJO,mslg-spa
+783,POLICÍA AGENTE NOSOTROS PROTEGER MÍ,La policia judicial nos protege.,La policia judicial nos protege.,POLICÍA AGENTE NOSOTROS PROTEGER MÍ,mslg-spa
+107,TODO-SÁBADO TODO-SÁBADO CEPAMEX RAÚL ENTRENAR,Raúl entrena los sábados en CEPAMEX.,Raúl entrena los sábados en CEPAMEX.,TODO-SÁBADO TODO-SÁBADO CEPAMEX RAÚL ENTRENAR,mslg-spa
+694,ÉL EJERCER EJERCER FORTALECER,Él hace mucho ejercicio para fortalecerse.,Él hace mucho ejercicio para fortalecerse.,ÉL EJERCER EJERCER FORTALECER,mslg-spa
+594,MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO,Mi mamá cocina en la olla express caldo de pollo sabroso.,Mi mamá cocina en la olla express caldo de pollo sabroso.,MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO,mslg-spa
+436,SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO,La semana pasada compré cinta canela en el Centro.,La semana pasada compré cinta canela en el Centro.,SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO,mslg-spa
+605,LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS,En la fábrica de Sabritas buscan personal para trabajar.,En la fábrica de Sabritas buscan personal para trabajar.,LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS,mslg-spa
+397,CONSTITUCIÓN TENER MUCHOS ARTÍCULOS,La Constitución tiene muchos artículos.,La Constitución tiene muchos artículos.,CONSTITUCIÓN TENER MUCHOS ARTÍCULOS,mslg-spa
+727,HUNGRÍA ESE PAÍS LEJOS,Hungría es un país que está muy lejos.,Hungría es un país que está muy lejos.,HUNGRÍA ESE PAÍS LEJOS,mslg-spa
+470,YO IR TIENDA COMPRAR JABÓN YA,Fui a comprar jabón a la tienda.,Fui a comprar jabón a la tienda.,YO IR TIENDA COMPRAR JABÓN YA,mslg-spa
+319,BANDERA MÉXICO ESCUDO ESE MUCHO BONITO,El escudo de la bandera de México es muy bonito.,El escudo de la bandera de México es muy bonito.,BANDERA MÉXICO ESCUDO ESE MUCHO BONITO,mslg-spa
+225,PRÓXIMO CONFERENCIA LUGAR MONTERREY,La próxima conferencia será en Monterrey.,La próxima conferencia será en Monterrey.,PRÓXIMO CONFERENCIA LUGAR MONTERREY,mslg-spa
+233,MARÍA DANIEL AMBOS IR TEATRO,María y Daniel van al teatro.,María y Daniel van al teatro.,MARÍA DANIEL AMBOS IR TEATRO,mslg-spa
+689,MI ABUELO TENER RIFLE VIEJO,Mi abuelo tiene un rifle viejo.,Mi abuelo tiene un rifle viejo.,MI ABUELO TENER RIFLE VIEJO,mslg-spa
+762,ELLA TENER LUNAR BONITO,Ella tiene una lunar bonito.,Ella tiene una lunar bonito.,ELLA TENER LUNAR BONITO,mslg-spa
+242,AYER ADIÓS TÚ DECIR NADA,Ayer no me dijiste adiós.,Ayer no me dijiste adiós.,AYER ADIÓS TÚ DECIR NADA,mslg-spa
+693,CUADERNO FEO,El cuaderno es feo.,El cuaderno es feo.,CUADERNO FEO,mslg-spa
+744,LEY ROBAR PROHIBIR,La ley prohíbe robar.,La ley prohíbe robar.,LEY ROBAR PROHIBIR,mslg-spa
+55,MARIANA BAILAR ELLA GUSTAR,A Mariana le gusta bailar.,A Mariana le gusta bailar.,MARIANA BAILAR ELLA GUSTAR,mslg-spa
+381,ANTIER PALACIO-DE-LOS-DEPORTES MAGNETO CANTAR AUDITORIO YO IR,Antier fui a un concierto de Magneto en el Palacio de los Deportes.,Antier fui a un concierto de Magneto en el Palacio de los Deportes.,ANTIER PALACIO-DE-LOS-DEPORTES MAGNETO CANTAR AUDITORIO YO IR,mslg-spa
+896,PAYASO MUCHO MAQUILLAJE,El payaso usa mucho maquillaje.,El payaso usa mucho maquillaje.,PAYASO MUCHO MAQUILLAJE,mslg-spa
+809,AYER MAMÁ PREPARAR ATOLE,Ayer mi mamá preparó atole.,Ayer mi mamá preparó atole.,AYER MAMÁ PREPARAR ATOLE,mslg-spa
+199,SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR,"Me pasé un semáforo, ahora tengo que pagar una multa.","Me pasé un semáforo, ahora tengo que pagar una multa.",SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR,mslg-spa
+968,MONTAÑA RUSA TÚ COBARDE NO,"Súbete a la montaña rusa, no seas cobarde.","Súbete a la montaña rusa, no seas cobarde.",MONTAÑA RUSA TÚ COBARDE NO,mslg-spa
+919,YO EMOCIONADO NUEVO INGRESAR TRABAJO,Estoy emocionado por ingresar a mi nuevo trabajo.,Estoy emocionado por ingresar a mi nuevo trabajo.,YO EMOCIONADO NUEVO INGRESAR TRABAJO,mslg-spa
+974,ANTES MIGUEL NOVIO,Miguel fue mi novio.,Miguel fue mi novio.,ANTES MIGUEL NOVIO,mslg-spa
+28,SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR,Sara encontró muchas almejas en el mar.,Sara encontró muchas almejas en el mar.,SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR,mslg-spa
+963,MI PERRO SUMISO MOLESTAR,"Mi perro es sumiso, no molesta.","Mi perro es sumiso, no molesta.",MI PERRO SUMISO MOLESTAR,mslg-spa
+133,FRESAS CON CREMA YO GUSTAR,Me gustan las fresas con crema.,Me gustan las fresas con crema.,FRESAS CON CREMA YO GUSTAR,mslg-spa
+378,IGLESIA NOSOTROS-DE-DOS DECIR AMÉN,En la iglesia decimos amén.,En la iglesia decimos amén.,IGLESIA NOSOTROS-DE-DOS DECIR AMÉN,mslg-spa
+505,PERRO MUCHO SED,El perro tiene mucha sed.,El perro tiene mucha sed.,PERRO MUCHO SED,mslg-spa
+101,MI TRABAJO MUCHO CANSAR CANSAR,Mi trabajo es muy cansado.,Mi trabajo es muy cansado.,MI TRABAJO MUCHO CANSAR CANSAR,mslg-spa
+804,TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE,Tengo que acostumbrarme a despertarme a correr temprano.,Tengo que acostumbrarme a despertarme a correr temprano.,TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE,mslg-spa
+634,NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR,Caminemos hacia el sur para encontrar agua.,Caminemos hacia el sur para encontrar agua.,NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR,mslg-spa
+575,NOSOTROS ABRIR-HORNO PARA PASTEL,Nosotros abrimos el horno para meter los pasteles.,Nosotros abrimos el horno para meter los pasteles.,NOSOTROS ABRIR-HORNO PARA PASTEL,mslg-spa
+392,MI NOVIO NACER LUGAR ARGENTINA,Mi novio nació en Argentina.,Mi novio nació en Argentina.,MI NOVIO NACER LUGAR ARGENTINA,mslg-spa
+918,YO VIAJE FRANCIA YO EMOCIONAR YA,Mi viaje a Francia me emocionó.,Mi viaje a Francia me emocionó.,YO VIAJE FRANCIA YO EMOCIONAR YA,mslg-spa
+493,POLICÍA PERSEGUIR JOVEN,El policía persigue a un joven.,El policía persigue a un joven.,POLICÍA PERSEGUIR JOVEN,mslg-spa
+732,JOSÉ APRENDER IDIOMA ITALIA,José aprende la lengua de Italia.,José aprende la lengua de Italia.,JOSÉ APRENDER IDIOMA ITALIA,mslg-spa
+650,¡YO ASUSTAR ALMA DESAPARECER!,¡Del susto se me escapó el alma!,¡Del susto se me escapó el alma!,¡YO ASUSTAR ALMA DESAPARECER!,mslg-spa
+604,PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE,El sábado pasado hubo un grave accidente en la carretera.,El sábado pasado hubo un grave accidente en la carretera.,PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE,mslg-spa
+537,COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER,Mete en la bolsa las cosas que compraste en la tienda.,Mete en la bolsa las cosas que compraste en la tienda.,COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER,mslg-spa
+506,DOS-DE-NOSOTROS YA SEPARAR,Él y yo ya nos separamos.,Él y yo ya nos separamos.,DOS-DE-NOSOTROS YA SEPARAR,mslg-spa
+878,CUBA CALOR,En Cuba hace mucho calor,En Cuba hace mucho calor,CUBA CALOR,mslg-spa
+284,ESA PIEDRA BONITA BRILLO MUCHO,"Esa piedra está muy bonita, brilla mucho.","Esa piedra está muy bonita, brilla mucho.",ESA PIEDRA BONITA BRILLO MUCHO,mslg-spa
+454,NADA YO NO-QUERER NADA,No quiero nada.,No quiero nada.,NADA YO NO-QUERER NADA,mslg-spa
+337,MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE,"Miguel quiere declarse a su amiga, pero no se atreve.","Miguel quiere declarse a su amiga, pero no se atreve.",MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE,mslg-spa
+735,CHAPULTEPEC HABER LAGO,En Chapultepec hay un lago.,En Chapultepec hay un lago.,CHAPULTEPEC HABER LAGO,mslg-spa
+298,ENTRAR ANIMAL NIÑO VER MONO,El niño ve un mono en el zoológico.,El niño ve un mono en el zoológico.,ENTRAR ANIMAL NIÑO VER MONO,mslg-spa
+334,PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER,Mi novio y yo vemos películas con subtítulos.,Mi novio y yo vemos películas con subtítulos.,PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER,mslg-spa
+31,MAÑANA AMANECER NOSOTROS ENCONTRAR,Nosotros nos encontraremos mañana al amanecer.,Nosotros nos encontraremos mañana al amanecer.,MAÑANA AMANECER NOSOTROS ENCONTRAR,mslg-spa
+640,TÚ BASURA TIRAR,Tira la basura.,Tira la basura.,TÚ BASURA TIRAR,mslg-spa
+352,DELEGACIÓN YO YA IR ACTA LEVANTAR,Yo fui a levantar un acta a la delegación.,Yo fui a levantar un acta a la delegación.,DELEGACIÓN YO YA IR ACTA LEVANTAR,mslg-spa
+145,QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR,"Si llego tarde al trabajo, me pueden despedir.","Si llego tarde al trabajo, me pueden despedir.",QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR,mslg-spa
+463,HOY CUMPLEAÑOS MÍ,Hoy es mi cumpleaños.,Hoy es mi cumpleaños.,HOY CUMPLEAÑOS MÍ,mslg-spa
+353,MI AMIGO JULIO TENER ACTA-DEMANDA,Mi amigo Julio tiene un acta de demanda.,Mi amigo Julio tiene un acta de demanda.,MI AMIGO JULIO TENER ACTA-DEMANDA,mslg-spa
+739,"LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA","Las lenguas más habladas son el chino, el inglés y el español.","Las lenguas más habladas son el chino, el inglés y el español.","LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA",mslg-spa
+67,PAVO COMIDA BASICA NAVIDAD,Los pavos son la comida básica en Navidad,Los pavos son la comida básica en Navidad,PAVO COMIDA BASICA NAVIDAD,mslg-spa
+947,NOCHE OSCURA,La noche está muy oscura.,La noche está muy oscura.,NOCHE OSCURA,mslg-spa
+466,INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO,La India es el séptimo país más grande del mundo.,La India es el séptimo país más grande del mundo.,INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO,mslg-spa
+356,ACTOR TOM CRUICE FAMOSO,Tom Cruice es un actor muy famoso.,Tom Cruice es un actor muy famoso.,ACTOR TOM CRUICE FAMOSO,mslg-spa
+489,PANADERÍA YO IR,Yo voy a la panadería.,Yo voy a la panadería.,PANADERÍA YO IR,mslg-spa
+969,SUBURBANO VIAJAR VELOCIDAD,En suburbano se viaja más rápido.,En suburbano se viaja más rápido.,SUBURBANO VIAJAR VELOCIDAD,mslg-spa
+675,YO JUGAR PARTICIPAR DEPORTIVO-GALEANA,Tengo un partido en el Deportivo Galeana.,Tengo un partido en el Deportivo Galeana.,YO JUGAR PARTICIPAR DEPORTIVO-GALEANA,mslg-spa
+245,MAÑANA YO VIAJAR ÁFRICA,Mañana voy a viajar a África.,Mañana voy a viajar a África.,MAÑANA YO VIAJAR ÁFRICA,mslg-spa
+909,AYER MI HERMANO PASTEL ÉL DAR MÍ,Mi hermano no me dio pastel ayer.,Mi hermano no me dio pastel ayer.,AYER MI HERMANO PASTEL ÉL DAR MÍ,mslg-spa
+927,VECINO ÉL PEDIR MI CARRO MOVER,El vecino me pidió mover mi carro.,El vecino me pidió mover mi carro.,VECINO ÉL PEDIR MI CARRO MOVER,mslg-spa
+368,ALCOHOL YO NO-GUSTAR,A mí no me gusta el alcohol.,A mí no me gusta el alcohol.,ALCOHOL YO NO-GUSTAR,mslg-spa
+768,DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE,Nos vemos mañana en la noche.,Nos vemos mañana en la noche.,DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE,mslg-spa
+26,TODOS IGLESIA GRITAR ¡ALELUYA!,Todos en la iglesia gritan ¡aleluya!,Todos en la iglesia gritan ¡aleluya!,TODOS IGLESIA GRITAR ¡ALELUYA!,mslg-spa
+687,CIUDAD-DE-MÉXICO ENORME,La Ciudad de México es enorme.,La Ciudad de México es enorme.,CIUDAD-DE-MÉXICO ENORME,mslg-spa
+195,MI AMIGO+MUJER MODELO SU REVISTA,Mi amiga es modelo de una revista.,Mi amiga es modelo de una revista.,MI AMIGO+MUJER MODELO SU REVISTA,mslg-spa
+599,JOVEN HOMBRE DEPORTE RAFTING,El deportista de rafting es joven.,El deportista de rafting es joven.,JOVEN HOMBRE DEPORTE RAFTING,mslg-spa
+125,YO YA CONVENCER MI AMIGO IR FIESTA,Convencí a mi amigo de ir a la fiesta.,Convencí a mi amigo de ir a la fiesta.,YO YA CONVENCER MI AMIGO IR FIESTA,mslg-spa
+50,ESCUELA CONSTRUCCIÓN YA AVANZADA,La construcción de la escuela ya está avanzada.,La construcción de la escuela ya está avanzada.,ESCUELA CONSTRUCCIÓN YA AVANZADA,mslg-spa
+65,MAÑANA BARCO YA LLEGAR,El barco llegó en la mañana.,El barco llegó en la mañana.,MAÑANA BARCO YA LLEGAR,mslg-spa
+235,INVIERNO JOSÉ TOS ENFERMAR,José se enfermó de tos en invierno.,José se enfermó de tos en invierno.,INVIERNO JOSÉ TOS ENFERMAR,mslg-spa
+576,SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR,La semana pasada mi papá cortó la hierba con la hoz.,La semana pasada mi papá cortó la hierba con la hoz.,SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR,mslg-spa
+895,SIEMPRE ELLOS DISCUTIR,Ellos siempre discuten.,Ellos siempre discuten.,SIEMPRE ELLOS DISCUTIR,mslg-spa
+227,PIZZA OCHO ELLOS REBANAR,Ellos rebanaron la pizza en ocho partes.,Ellos rebanaron la pizza en ocho partes.,PIZZA OCHO ELLOS REBANAR,mslg-spa
+796,MI HERMANO+MUJER NO NACER TEXAS,Mi hermana no nació en Texas.,Mi hermana no nació en Texas.,MI HERMANO+MUJER NO NACER TEXAS,mslg-spa
+275,YO CONOCER BANGLADESH YA BONITO VERDAD,"Yo conozco Bangladesh, es muy bonito de verdad.","Yo conozco Bangladesh, es muy bonito de verdad.",YO CONOCER BANGLADESH YA BONITO VERDAD,mslg-spa
+769,ESE VESTIDO FEO YO NO-GUSTAR,"Ese vestido es feo, no me gusta.","Ese vestido es feo, no me gusta.",ESE VESTIDO FEO YO NO-GUSTAR,mslg-spa
+788,YO IR BANCO DINERO RETIRAR,Voy al banco a retirar dinero.,Voy al banco a retirar dinero.,YO IR BANCO DINERO RETIRAR,mslg-spa
+857,JUAN GABRIEL NACER CIUDAD JUÁREZ,Juan Gabriel nació en Ciudad Juárez.,Juan Gabriel nació en Ciudad Juárez.,JUAN GABRIEL NACER CIUDAD JUÁREZ,mslg-spa
+513,MI NÚMERO TELÉFONO SUSPENDER YA,Ya suspendieron mi número de teléfono.,Ya suspendieron mi número de teléfono.,MI NÚMERO TELÉFONO SUSPENDER YA,mslg-spa
+3,¿Y-ESO?,¿Y eso?,¿Y eso?,¿Y-ESO?,mslg-spa
+404,TUYO SOBRINO ATRÁS MI ESPOSO,Tu sobrino está atrás de mi esposo.,Tu sobrino está atrás de mi esposo.,TUYO SOBRINO ATRÁS MI ESPOSO,mslg-spa
+710,LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA,Nosotros aprendemos gramática en la escuela.,Nosotros aprendemos gramática en la escuela.,LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA,mslg-spa
+253,"TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR","Tú estás embarazada, después vas a amamantar.","Tú estás embarazada, después vas a amamantar.","TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR",mslg-spa
+566,DICIEMBRE MUCHAS PERSONAS ESQUIAR IR,En diciembre muchas personas van a esquiar.,En diciembre muchas personas van a esquiar.,DICIEMBRE MUCHAS PERSONAS ESQUIAR IR,mslg-spa
+558,SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN,Tu esposo siempre me da el avión en todo.,Tu esposo siempre me da el avión en todo.,SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN,mslg-spa
+331,ESE BLANCO GATO RASGUÑAR,Ese gato blanco rasguña.,Ese gato blanco rasguña.,ESE BLANCO GATO RASGUÑAR,mslg-spa
+597,HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES,El gobernador colocó mucha publicidad por las calles.,El gobernador colocó mucha publicidad por las calles.,HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES,mslg-spa
+512,AYER SUÉTER YO COMPRAR,Ayer compré un suéter.,Ayer compré un suéter.,AYER SUÉTER YO COMPRAR,mslg-spa
+614,ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL,Alguna persona que quiera donar sangre puede venir al hospital.,Alguna persona que quiera donar sangre puede venir al hospital.,ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL,mslg-spa
+314,ÉL YA COMPRAR #TV CONTADO,Él compró esa televisión de contado.,Él compró esa televisión de contado.,ÉL YA COMPRAR #TV CONTADO,mslg-spa
+86,TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR,Borré los contactos de mi teléfono.,Borré los contactos de mi teléfono.,TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR,mslg-spa
+944,MI PRIMO ORIZABA VIVIR,Mi primo vive en Orizaba.,Mi primo vive en Orizaba.,MI PRIMO ORIZABA VIVIR,mslg-spa
+880,AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE,Ayer entregué el enganche de mi auto.,Ayer entregué el enganche de mi auto.,AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE,mslg-spa
+379,ALGUNAS PERSONAS ANALFABETO,Algunas personas son analfabetas.,Algunas personas son analfabetas.,ALGUNAS PERSONAS ANALFABETO,mslg-spa
+588,MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER,"Usa maleta de ruedas mejor, no lastima el cuerpo.","Usa maleta de ruedas mejor, no lastima el cuerpo.",MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER,mslg-spa
+573,HOY YO IR ZOOLOGICO YO VER YA GORILA,Hoy fuí al zoológico y vi un gorila.,Hoy fuí al zoológico y vi un gorila.,HOY YO IR ZOOLOGICO YO VER YA GORILA,mslg-spa
+435,SUEGRO MI PRIMO SAMUEL ÉL CIEGO ÉL,El suegro de mi primo Samuel es ciego.,El suegro de mi primo Samuel es ciego.,SUEGRO MI PRIMO SAMUEL ÉL CIEGO ÉL,mslg-spa
+406,AUSTRÍA SU PAÍS HERMOSO,Austria es un país hermoso.,Austria es un país hermoso.,AUSTRÍA SU PAÍS HERMOSO,mslg-spa
+488,PAN BOLILLO TÚ COMPRAR,Compra pan bolillo.,Compra pan bolillo.,PAN BOLILLO TÚ COMPRAR,mslg-spa
+801,ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR,"Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.","Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.",ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR,mslg-spa
+798,VAGINA ADENTRO CUERPO ORIGINAL MUJER,La vagina es un órgano femenino.,La vagina es un órgano femenino.,VAGINA ADENTRO CUERPO ORIGINAL MUJER,mslg-spa
+449,YO VIAJAR CONTIGO,Yo no viajo contigo.,Yo no viajo contigo.,YO VIAJAR CONTIGO,mslg-spa
+122,MI GATO ACARICIAR TRANQUILO,"Yo acaricio a mi gato, él es muy tranquilo.","Yo acaricio a mi gato, él es muy tranquilo.",MI GATO ACARICIAR TRANQUILO,mslg-spa
+424,CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR,En la escuela cada niño tiene una computadora para trabajar.,En la escuela cada niño tiene una computadora para trabajar.,CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR,mslg-spa
+6,NO ABOFETEAR MI,No me abofetees.,No me abofetees.,NO ABOFETEAR MI,mslg-spa
+269,YO ASUSTAR ARAÑAS YO MIEDO,"Me asusto con las arañas, me dan miedo.","Me asusto con las arañas, me dan miedo.",YO ASUSTAR ARAÑAS YO MIEDO,mslg-spa
+839,MI MAMÁ CATÓLICA,Mi mamá es católica.,Mi mamá es católica.,MI MAMÁ CATÓLICA,mslg-spa
+610,NECESITAR EJERCICIO EJERCICIO PARA SALUD,Es necesario hacer ejercicio para estar sano.,Es necesario hacer ejercicio para estar sano.,NECESITAR EJERCICIO EJERCICIO PARA SALUD,mslg-spa
+916,SIEMPRE MI FAMILIA TELETÓN DONAR DONAR,Mi familia siempre dona a Teletón.,Mi familia siempre dona a Teletón.,SIEMPRE MI FAMILIA TELETÓN DONAR DONAR,mslg-spa
+262,YO NO GUSTAR ARAÑA,A mí no me gustan las arañas.,A mí no me gustan las arañas.,YO NO GUSTAR ARAÑA,mslg-spa
+213,DISFRAZ HACER. PAPEL,El disfraz está hecho de papel,El disfraz está hecho de papel,DISFRAZ HACER. PAPEL,mslg-spa
+306,YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS,Te confundo a ti y a tu mamá porque se parecen.,Te confundo a ti y a tu mamá porque se parecen.,YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS,mslg-spa
+688,HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO,El dueño de esa fábrica fue acusado de enriquecimiento ilícito.,El dueño de esa fábrica fue acusado de enriquecimiento ilícito.,HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO,mslg-spa
+134,HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA,Cristóbal Colón descubrió América hace años.,Cristóbal Colón descubrió América hace años.,HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA,mslg-spa
+679,SUYO SECRETO YO YA DESCUBRIRSE YA,Ya descubrí su secreto.,Ya descubrí su secreto.,SUYO SECRETO YO YA DESCUBRIRSE YA,mslg-spa
+854,MI PAPÁ CINTURÓN YO REGALAR ÉL,Le regalé un cinturón a mi papá.,Le regalé un cinturón a mi papá.,MI PAPÁ CINTURÓN YO REGALAR ÉL,mslg-spa
+61,BANDERA MEXICANA TENER TRES COLORES,La bandera mexicana tiene tres colores.,La bandera mexicana tiene tres colores.,BANDERA MEXICANA TENER TRES COLORES,mslg-spa
+80,PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE,Las personas sordas tienen derecho a una educación bilingüe.,Las personas sordas tienen derecho a una educación bilingüe.,PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE,mslg-spa
+490,YO GUSTAR PAPA,Me gustan las papas.,Me gustan las papas.,YO GUSTAR PAPA,mslg-spa
+19,CITA DOCTOR ESCRIBIR ANOTAR-AGENDA,El doctor anota la cita en la agenda.,El doctor anota la cita en la agenda.,CITA DOCTOR ESCRIBIR ANOTAR-AGENDA,mslg-spa
+93,¡BUENA NOCHE TÚ DESCANSAR!,"¡Buenas noches, que descanses!","¡Buenas noches, que descanses!",¡BUENA NOCHE TÚ DESCANSAR!,mslg-spa
+530,AYER METRO AMETRALLADORA SOLDADO YO VER,Ayer en el metro vi a un soldado con su ametralladora.,Ayer en el metro vi a un soldado con su ametralladora.,AYER METRO AMETRALLADORA SOLDADO YO VER,mslg-spa
+423,CACAHUATES CON LIMÓN SAL YO ENCANTA COMER,Me encanta comer cacahuates con limón y sal.,Me encanta comer cacahuates con limón y sal.,CACAHUATES CON LIMÓN SAL YO ENCANTA COMER,mslg-spa
+784,POLLO YO QUERER COMER,Quiero comer pollo.,Quiero comer pollo.,POLLO YO QUERER COMER,mslg-spa
+765,TÚ CUIDAR MUCHO MAÑANA VERNOS,"Cuídate mucho, nos vemos mañana.","Cuídate mucho, nos vemos mañana.",TÚ CUIDAR MUCHO MAÑANA VERNOS,mslg-spa
+849,CHIMENEA TÚ ENCENDERFUEGO,Enciende la chimenea.,Enciende la chimenea.,CHIMENEA TÚ ENCENDERFUEGO,mslg-spa
+846,CHARLES-MICHEL-L´ÉPÉE PADRE SORDO,Charles-Michel de l’Épée es el “Padre de los Sordos”.,Charles-Michel de l’Épée es el “Padre de los Sordos”.,CHARLES-MICHEL-L´ÉPÉE PADRE SORDO,mslg-spa
+265,ESA MÁQUINA FALLA COMPONER NECESITA,"Esa máquina falla mucho, se necesita que la compongan.","Esa máquina falla mucho, se necesita que la compongan.",ESA MÁQUINA FALLA COMPONER NECESITA,mslg-spa
+630,TÚ SUERTE OJALÁ,Deseo que tengas mucha suerte.,Deseo que tengas mucha suerte.,TÚ SUERTE OJALÁ,mslg-spa
+7,PERSONA ÉL ABOFETEAR MÍ,Esa persona me abofeteó.,Esa persona me abofeteó.,PERSONA ÉL ABOFETEAR MÍ,mslg-spa
+305,MI COMPUTADORA PRENDER NO YO PREOCUPADO,"Mi computadora no prende, estoy preocupado.","Mi computadora no prende, estoy preocupado.",MI COMPUTADORA PRENDER NO YO PREOCUPADO,mslg-spa
+394,TODO CORREO-ELECTRÓNICO USAR ARROBA,Todos los correos usan arroba.,Todos los correos usan arroba.,TODO CORREO-ELECTRÓNICO USAR ARROBA,mslg-spa
+696,AYER YO YA IR GALERÍA,Ayer fui a la galería.,Ayer fui a la galería.,AYER YO YA IR GALERÍA,mslg-spa
+136,TIENDA CERCA DOS CUADRAS,La tienda más cercana está a dos cuadras.,La tienda más cercana está a dos cuadras.,TIENDA CERCA DOS CUADRAS,mslg-spa
+507,MI HERMANO SUYA NOVIO+MUJER SEPARAR YA,Mi hermano terminó con su novia.,Mi hermano terminó con su novia.,MI HERMANO SUYA NOVIO+MUJER SEPARAR YA,mslg-spa
+69,CÉSAR SU BEBÉ BONITO,El bebé de César es muy bonito.,El bebé de César es muy bonito.,CÉSAR SU BEBÉ BONITO,mslg-spa
+538,HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR,Hoy compré en Wal-Mart una bomba de aire para mi papá.,Hoy compré en Wal-Mart una bomba de aire para mi papá.,HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR,mslg-spa
+561,SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE,Cuando me acabo de bañar siempre me pongo desodorante.,Cuando me acabo de bañar siempre me pongo desodorante.,SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE,mslg-spa
+266,YA ELLOS ARRESTAR ÉL,Ellos lo arrestaron.,Ellos lo arrestaron.,YA ELLOS ARRESTAR ÉL,mslg-spa
+60,AYER BANCO ROCÍO DINERO RETIRAR,Rocío retiró dinero ayer en el banco.,Rocío retiró dinero ayer en el banco.,AYER BANCO ROCÍO DINERO RETIRAR,mslg-spa
+370,¿TÚ CREER TODOS ALMA TENER?,¿Crees que todos tenemos alma?,¿Crees que todos tenemos alma?,¿TÚ CREER TODOS ALMA TENER?,mslg-spa
+901,MAÑANA MI TÍO MUDARSE CASA,Mi tío se mudará de casa mañana.,Mi tío se mudará de casa mañana.,MAÑANA MI TÍO MUDARSE CASA,mslg-spa
+367,"DIARIO ALABANZA DIOS, NOSOTROS HACER",Todos los días hacemos alabanzas a Dios.,Todos los días hacemos alabanzas a Dios.,"DIARIO ALABANZA DIOS, NOSOTROS HACER",mslg-spa
+799,VILLAHERMOSA MUCHO CALOR,En Villahermosa hace mucho calor.,En Villahermosa hace mucho calor.,VILLAHERMOSA MUCHO CALOR,mslg-spa
+359,ADMINISTRACIÓN DELEGACIÓN ELLOS IR,Ellos fueron a la administración de la delegación.,Ellos fueron a la administración de la delegación.,ADMINISTRACIÓN DELEGACIÓN ELLOS IR,mslg-spa
+967,YO NO-FUI VIDRIO ROMPER ROMPER,Yo no fui el que rompió el vidrio.,Yo no fui el que rompió el vidrio.,YO NO-FUI VIDRIO ROMPER ROMPER,mslg-spa
+230,SEÑORA MARÍA TENER COCINA,La señora María tiene una cocina.,La señora María tiene una cocina.,SEÑORA MARÍA TENER COCINA,mslg-spa
+690,YO CREER ESPÍRITU SANTO,Yo creo en el Espíritu Santo.,Yo creo en el Espíritu Santo.,YO CREER ESPÍRITU SANTO,mslg-spa
+113,TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER,Todos los productos se etiquetan con un código de barras.,Todos los productos se etiquetan con un código de barras.,TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER,mslg-spa
+881,HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO,Enrique Peña Nieto fue gobernador del Estado de México.,Enrique Peña Nieto fue gobernador del Estado de México.,HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO,mslg-spa
+403,COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE,Mi amiga se inscribió en una competencia de atletismo.,Mi amiga se inscribió en una competencia de atletismo.,COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE,mslg-spa
+465,ANTES CANCÚN IDA-Y-VENIR,Fui a Cancún de ida y vuelta.,Fui a Cancún de ida y vuelta.,ANTES CANCÚN IDA-Y-VENIR,mslg-spa
+295,YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR,Me duele la espalda porque ayer cargué un mueble.,Me duele la espalda porque ayer cargué un mueble.,YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR,mslg-spa
+365,JUGUETE MI AHIJADO YO REGALAR ÉL YA,Le regalé un juguete a mi ahijado.,Le regalé un juguete a mi ahijado.,JUGUETE MI AHIJADO YO REGALAR ÉL YA,mslg-spa
+911,TÚ NO PREOCUPAR DEJARLO-ASÍ,"No te preocupes, déjalo así.","No te preocupes, déjalo así.",TÚ NO PREOCUPAR DEJARLO-ASÍ,mslg-spa
+803,MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR,Mañana Juan y yo nos acompañaremos al trabajo.,Mañana Juan y yo nos acompañaremos al trabajo.,MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR,mslg-spa
+716,COLOR GRIS YO GUSTAR,Me gusta el color gris.,Me gusta el color gris.,COLOR GRIS YO GUSTAR,mslg-spa
+525,TODO AFORTUNADO,Tú eres muy afortunado en todo.,Tú eres muy afortunado en todo.,TODO AFORTUNADO,mslg-spa
+885,NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS,Terminamos como amigos.,Terminamos como amigos.,NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS,mslg-spa
+340,¡AY! SORPRESA AQUÍ YO VER TI,¡Ay! qué sorpresa verte aquí.,¡Ay! qué sorpresa verte aquí.,¡AY! SORPRESA AQUÍ YO VER TI,mslg-spa
+962,CAMPESINO MAÍZ SEMBRAR,El campesino siembra maíz.,El campesino siembra maíz.,CAMPESINO MAÍZ SEMBRAR,mslg-spa
+84,DAVID SU PAPÁ BOMBERO,El papá de David es bombero.,El papá de David es bombero.,DAVID SU PAPÁ BOMBERO,mslg-spa
+676,MAÑANA YO DINERO DEPOSITAR BANCO,Mañana voy a depositar el dinero en el banco.,Mañana voy a depositar el dinero en el banco.,MAÑANA YO DINERO DEPOSITAR BANCO,mslg-spa
+400,FILIPINAS SUYO ASIA,Filipinas está en Asia.,Filipinas está en Asia.,FILIPINAS SUYO ASIA,mslg-spa
+790,TÚ DEBER SEGUIR ESTUDIAR,Debes seguir estudiando.,Debes seguir estudiando.,TÚ DEBER SEGUIR ESTUDIAR,mslg-spa
+369,DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS,Mi vecino va diario a Alcohólicos Anónimos.,Mi vecino va diario a Alcohólicos Anónimos.,DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS,mslg-spa
+976,HERMANO ÚLTIMO DOCTOR-DIENTES,Mi hermano menor es dentista.,Mi hermano menor es dentista.,HERMANO ÚLTIMO DOCTOR-DIENTES,mslg-spa
+836,ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI,¿Quién fue el presidente de México? Carlos Salinas de Gortari.,¿Quién fue el presidente de México? Carlos Salinas de Gortari.,ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI,mslg-spa
+304,¿DÓNDE TUYO CÓMPLICE DÓNDE?,¿Dónde está tu cómplice?,¿Dónde está tu cómplice?,¿DÓNDE TUYO CÓMPLICE DÓNDE?,mslg-spa
+469,ISLANDIA DÓNDE LUGAR EUROPA,Islandia se encuentra en Europa.,Islandia se encuentra en Europa.,ISLANDIA DÓNDE LUGAR EUROPA,mslg-spa
+62,BANDERA CAER MIENTRAS CEREMONIA,La bandera se cayó durante la ceremonia.,La bandera se cayó durante la ceremonia.,BANDERA CAER MIENTRAS CEREMONIA,mslg-spa
+453,YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA,"Yo lo conozco bien, me consta.","Yo lo conozco bien, me consta.",YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA,mslg-spa
+899,JABÓN BURBUJAS,El jabón hace burbujas.,El jabón hace burbujas.,JABÓN BURBUJAS,mslg-spa
+875,CRISTIANA YO CREER FE,Yo creo en la fe cristiana.,Yo creo en la fe cristiana.,CRISTIANA YO CREER FE,mslg-spa
+652,AMETRALLADORA DIFERENTE YO NO-GUSTAR,A mí no me gustan las ametralladoras.,A mí no me gustan las ametralladoras.,AMETRALLADORA DIFERENTE YO NO-GUSTAR,mslg-spa
+18,NOSOTROS IR JUGAR AFUERA,Vamos a jugar afuera.,Vamos a jugar afuera.,NOSOTROS IR JUGAR AFUERA,mslg-spa
+206,ALBERCA YO NADAR,Yo nado en la alberca.,Yo nado en la alberca.,ALBERCA YO NADAR,mslg-spa
+5,PERRO DEBAJO MESA,El perro está debajo de la mesa.,El perro está debajo de la mesa.,PERRO DEBAJO MESA,mslg-spa
+692,METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR,La línea 12 del metro tuvo un gran fallo estructural.,La línea 12 del metro tuvo un gran fallo estructural.,METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR,mslg-spa
+497,HOMBRE MUJERIEGO MUCHO,Hay muchos hombres mujeriegos.,Hay muchos hombres mujeriegos.,HOMBRE MUJERIEGO MUCHO,mslg-spa
+519,NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!,"Ganamos el partido de futbol, ¡viva!","Ganamos el partido de futbol, ¡viva!",NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!,mslg-spa
+131,JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER,El muchacho corteja a su novia.,El muchacho corteja a su novia.,JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER,mslg-spa
+888,¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?,¿Cuántos sordos hay en México?,¿Cuántos sordos hay en México?,¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?,mslg-spa
+97,MI HERMANO BICICLETA ÉL CAER,Mi hermano se cayó de la bicicleta.,Mi hermano se cayó de la bicicleta.,MI HERMANO BICICLETA ÉL CAER,mslg-spa
+738,LEGISLADOR YA PROPONER NUEVA LEY LSM,El legislador propuso una nueva ley de LSM.,El legislador propuso una nueva ley de LSM.,LEGISLADOR YA PROPONER NUEVA LEY LSM,mslg-spa
+622,VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO,"Entrega el trámite en la ventanilla de gobierno, deben poner un sello.","Entrega el trámite en la ventanilla de gobierno, deben poner un sello.",VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO,mslg-spa
+190,MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA,"María ganó la lotería, ahora es millonaria.","María ganó la lotería, ahora es millonaria.",MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA,mslg-spa
+862,MAÑANA COMBI YO IR A MI CASA,Mañana me iré en combi a mi casa.,Mañana me iré en combi a mi casa.,MAÑANA COMBI YO IR A MI CASA,mslg-spa
+728,TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR,Debes mostrar tu INE para poder pasar.,Debes mostrar tu INE para poder pasar.,TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR,mslg-spa
+273,¿DÓNDE BALÓN DÓNDE?,¿Dónde hay un balón?,¿Dónde hay un balón?,¿DÓNDE BALÓN DÓNDE?,mslg-spa
+472,FÁCIL APRENDER LETRA ABECEDARIO,Es fácil aprender las letras del abecedario.,Es fácil aprender las letras del abecedario.,FÁCIL APRENDER LETRA ABECEDARIO,mslg-spa
+260,"APENAS, YO VER TI",Apenas te vi (hace poco).,Apenas te vi (hace poco).,"APENAS, YO VER TI",mslg-spa
+557,"AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR",Josefina y Alberto jugaron dados ayer.,Josefina y Alberto jugaron dados ayer.,"AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR",mslg-spa
+280,SÍ YO GUSTAR JUGAR BOLICHE,A mí sí me gusta jugar boliche.,A mí sí me gusta jugar boliche.,SÍ YO GUSTAR JUGAR BOLICHE,mslg-spa
+168,FRECUENTEMENTE YO IR CINE,Frecuentemente voy al cine.,Frecuentemente voy al cine.,FRECUENTEMENTE YO IR CINE,mslg-spa
+282,YO VER BIEN YO BORROSO,"No veo bien, veo borroso.","No veo bien, veo borroso.",YO VER BIEN YO BORROSO,mslg-spa
+906,REFRIGERADOR HABER COMIDA CADUCADA,En el refrigerador hay comida caducada.,En el refrigerador hay comida caducada.,REFRIGERADOR HABER COMIDA CADUCADA,mslg-spa
+853,DECIR CHISME DIRECTOR ESO NO CIERTO,El rumor sobre el director no era cierto.,El rumor sobre el director no era cierto.,DECIR CHISME DIRECTOR ESO NO CIERTO,mslg-spa
+297,ELLA LLORAR PORQUE CEBOLLA PICAR,Ella llora porque pica cebolla.,Ella llora porque pica cebolla.,ELLA LLORAR PORQUE CEBOLLA PICAR,mslg-spa
+832,UNA-VEZ MAÑANA FIESTA CANTAR,Mañana sólo cantaré una canción en la fiesta,Mañana sólo cantaré una canción en la fiesta,UNA-VEZ MAÑANA FIESTA CANTAR,mslg-spa
+761,NUESTRA CITA LUGAR TAXQUEÑA,Nuestra cita es en Taxqueña.,Nuestra cita es en Taxqueña.,NUESTRA CITA LUGAR TAXQUEÑA,mslg-spa
+617,SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO,La secretaria está capturando la carta.,La secretaria está capturando la carta.,SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO,mslg-spa
+139,MI AMIGO RODOLFO DADIVOSO,Mi amigo Rodolfo es muy dadivoso.,Mi amigo Rodolfo es muy dadivoso.,MI AMIGO RODOLFO DADIVOSO,mslg-spa
+643,NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER,Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.,Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.,NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER,mslg-spa
+355,NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA,Nosotros tenemos muchas actividades en la escuela.,Nosotros tenemos muchas actividades en la escuela.,NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA,mslg-spa
+528,ALGUIEN ÉL AYUDAR MÍ,Algunas personas son voluntarias en la Cruz Roja.,Algunas personas son voluntarias en la Cruz Roja.,ALGUIEN ÉL AYUDAR MÍ,mslg-spa
+37,MAESTRO ALUMNOS REUNIÓN APARTE,El maestro se reunió aparte con sus alumnos.,El maestro se reunió aparte con sus alumnos.,MAESTRO ALUMNOS REUNIÓN APARTE,mslg-spa
+868,AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ,Ayer me dieron la constancia de la secundaria.,Ayer me dieron la constancia de la secundaria.,AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ,mslg-spa
+671,ESA PERSONA COLMILLO TÚ CUIDAR,"Esa persona es astuta, ten cuidado.","Esa persona es astuta, ten cuidado.",ESA PERSONA COLMILLO TÚ CUIDAR,mslg-spa
+301,JUGUETE CARRO YO GUSTAR COLECCIONAR,Me gusta coleccionar carros de juguete.,Me gusta coleccionar carros de juguete.,JUGUETE CARRO YO GUSTAR COLECCIONAR,mslg-spa
+220,PEZ COLOR AZUL MI FAVORITO,Los peces azules son mis favoritos.,PEZ COLOR AZUL MI FAVORITO,Los peces azules son mis favoritos.,
+749,YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER,"Estoy feliz, mi hijo ya tiene licencia de conducir.",YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER,"Estoy feliz, mi hijo ya tiene licencia de conducir.",
+180,SU LIBRO MATEMÁTICAS USTEDES SACAR,Saquen su libro de Matemáticas.,SU LIBRO MATEMÁTICAS USTEDES SACAR,Saquen su libro de Matemáticas.,
+239,YO NECESITAR PAPEL PARA AGUA ABSORBER,Necesito papel para absorber el agua.,YO NECESITAR PAPEL PARA AGUA ABSORBER,Necesito papel para absorber el agua.,
+673,ISABEL TENER SU CORONA ORO,Isabel tiene una corona de oro.,ISABEL TENER SU CORONA ORO,Isabel tiene una corona de oro.,
+659,ESTE JUGUETE BARATO,Este juguete está barato.,ESTE JUGUETE BARATO,Este juguete está barato.,
+402,¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?,¿Le pusiste atención a tu maestra?,¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?,¿Le pusiste atención a tu maestra?,
+132,MI MAMÁ USA CREMA-DE-COSMÉTICO,Mi mamá usa crema para la cara.,MI MAMÁ USA CREMA-DE-COSMÉTICO,Mi mamá usa crema para la cara.,
+568,SIEMPRE BEBÉ EXPRESAR EXPRESAR,El bebé siempre es muy expresivo.,SIEMPRE BEBÉ EXPRESAR EXPRESAR,El bebé siempre es muy expresivo.,
+613,AYER MI TIO SAN FRANCISCO YA LLEGAR,Ayer llegó mi tío de San Francisco.,AYER MI TIO SAN FRANCISCO YA LLEGAR,Ayer llegó mi tío de San Francisco.,
+520,A-FUERZA TÚ DEBER TÚ PAGAR MÍ,Debes pagarme a fuerza.,A-FUERZA TÚ DEBER TÚ PAGAR MÍ,Debes pagarme a fuerza.,
+258,ESA ANTENA CARA VERDAD,Esa antena es muy cara.,ESA ANTENA CARA VERDAD,Esa antena es muy cara.,
+638,TEPITO LUGAR FAMOSO,Tepito es un lugar muy conocido.,TEPITO LUGAR FAMOSO,Tepito es un lugar muy conocido.,
+666,YO YA GANAR CAMPEONATO,Yo gané el campeonato.,YO YA GANAR CAMPEONATO,Yo gané el campeonato.,
+308,SACAR-COPIA TÚ DEBER,Debes sacar una copia.,SACAR-COPIA TÚ DEBER,Debes sacar una copia.,
+316,YA ÉL ARRESTADO ESO FEO VERDAD,"Él fue arrestado, qué feo.",YA ÉL ARRESTADO ESO FEO VERDAD,"Él fue arrestado, qué feo.",
+372,MI SOBRINO ALTO,Mi sobrino es muy alto.,MI SOBRINO ALTO,Mi sobrino es muy alto.,
+560,SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER,El hijo de mi vecino siempre es muy desobediente.,SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER,El hijo de mi vecino siempre es muy desobediente.,
+884,MI HIJO+MUJER ELLA GUSTAR PATO MUCHO,A mi hija le gustan los patos.,MI HIJO+MUJER ELLA GUSTAR PATO MUCHO,A mi hija le gustan los patos.,
+310,SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER,"Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.",SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER,"Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.",
+121,DOMINGO YO CONFIRMACIÓN YO IR,Iré a una confirmación el domingo.,DOMINGO YO CONFIRMACIÓN YO IR,Iré a una confirmación el domingo.,
+264,¿TÚ YA CONOCER ARGENTINA?,¿Tú ya conoces Argentina?,¿TÚ YA CONOCER ARGENTINA?,¿Tú ya conoces Argentina?,
+703,ÁFRICA ADENTRO GHANA,Ghana está en África.,ÁFRICA ADENTRO GHANA,Ghana está en África.,
+270,"AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO","Tú tienes unos audífonos, ¿me los prestas?","AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO","Tú tienes unos audífonos, ¿me los prestas?",
+143,CHAPULTEPEC YO YA VER ALGUNO DELFÍN,En Chapultepec vi algunos delfines.,CHAPULTEPEC YO YA VER ALGUNO DELFÍN,En Chapultepec vi algunos delfines.,
+922,MAESTRA MATEMÁTICAS MUCHAS BROMAS,La maestra de matemáticas dice muchas bromas.,MAESTRA MATEMÁTICAS MUCHAS BROMAS,La maestra de matemáticas dice muchas bromas.,
+620,¿TÚ DECIR ESO SEGURO?,¿Estás seguro de lo que dices?,¿TÚ DECIR ESO SEGURO?,¿Estás seguro de lo que dices?,
+445,AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR,Mi primo se peleó conmigo ayer.,AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR,Mi primo se peleó conmigo ayer.,
+629,MI SUEGRO TRABAJO TRABAJO,Mi suegro es muy trabajador.,MI SUEGRO TRABAJO TRABAJO,Mi suegro es muy trabajador.,
+553,YO OLVIDAR CONTRASEÑA,Olvidé mi contraseña.,YO OLVIDAR CONTRASEÑA,Olvidé mi contraseña.,
+669,ÚNICO MUJER TENER SU CLITORIS,Sólo las mujeres tienen clítoris.,ÚNICO MUJER TENER SU CLITORIS,Sólo las mujeres tienen clítoris.,
+427,CANADÁ CASCADA CATARATAS DEL NIÁGARA BONITA,"En Canadá están las Cataratas del Niágara, que son hermosas.",CANADÁ CASCADA CATARATAS DEL NIÁGARA BONITA,"En Canadá están las Cataratas del Niágara, que son hermosas.",
+503,HOY NUEVO SACERDOTE YO YA CONOCER ÉL,Hoy conocí al nuevo sacerdote.,HOY NUEVO SACERDOTE YO YA CONOCER ÉL,Hoy conocí al nuevo sacerdote.,
+773,ESE ELEFANTE OREJÓN CHISTOSO,Ese elefante orejón es muy chistoso.,ESE ELEFANTE OREJÓN CHISTOSO,Ese elefante orejón es muy chistoso.,
+224,ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO,Alondra le prometió a su mamá ser médico.,ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO,Alondra le prometió a su mamá ser médico.,
+383,MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA,Mis amigos argentinos estudiaron antropología.,MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA,Mis amigos argentinos estudiaron antropología.,
+877,CUADERNO YO NECESITAR,Necesito un cuaderno.,CUADERNO YO NECESITAR,Necesito un cuaderno.,
+890,YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ,Mi papá nos abandonó en México.,YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ,Mi papá nos abandonó en México.,
+475,CHUPÓN DEBE DAR BEBÉ,Dale el chupón al bebé.,CHUPÓN DEBE DAR BEBÉ,Dale el chupón al bebé.,
+109,MI HERMANO TENER DIENTE DIENTE CHUECO,Mi hermanito tiene los dientes chuecos.,MI HERMANO TENER DIENTE DIENTE CHUECO,Mi hermanito tiene los dientes chuecos.,
+859,AYER COCA-COLA YO COMPRAR,Yo compré una Coca Cola ayer.,AYER COCA-COLA YO COMPRAR,Yo compré una Coca Cola ayer.,
+478,AHORITA NIÑO DIOS YA MECER,Es hora de mecer al niño Dios.,AHORITA NIÑO DIOS YA MECER,Es hora de mecer al niño Dios.,
+601,EJERCER-REMAR AYUDA CUERPO SANO,Remar es un ejercicio que ayuda a la salud.,EJERCER-REMAR AYUDA CUERPO SANO,Remar es un ejercicio que ayuda a la salud.,
+820,TUS OJOS HERMOSOS COLOR CAFÉ,Tú tienes unos hermosos ojos color café.,TUS OJOS HERMOSOS COLOR CAFÉ,Tú tienes unos hermosos ojos color café.,
+292,AYER NOCHE METRO CAOS,Anoche el metro era un caos.,AYER NOCHE METRO CAOS,Anoche el metro era un caos.,
+407,MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO,La hija de mi vecina tiene autismo.,MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO,La hija de mi vecina tiene autismo.,
+542,CARRETILLA-DE-CARGA COSTALES LLEVAR,Lleva los costales en la carretilla.,CARRETILLA-DE-CARGA COSTALES LLEVAR,Lleva los costales en la carretilla.,
+215,LLOVER TARDE PARECE,Al parecer va a llover en la tarde.,LLOVER TARDE PARECE,Al parecer va a llover en la tarde.,
+869,¿TÚ CONTESTAR MI PREGUNTA PODER?,¿Puedes contestar mi pregunta?,¿TÚ CONTESTAR MI PREGUNTA PODER?,¿Puedes contestar mi pregunta?,
+624,SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR,El senador explica por qué la gasolina está cara.,SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR,El senador explica por qué la gasolina está cara.,
+840,¿TÚ YA CENAR?,¿Ya cenaste?,¿TÚ YA CENAR?,¿Ya cenaste?,
+464,CREDENCIAL VOTAR HABER MI HUELLA,La credencial del INE tiene mi huella.,CREDENCIAL VOTAR HABER MI HUELLA,La credencial del INE tiene mi huella.,
+417,MI PUERTA COLOR AZUL YO YA PINTAR,Pinté mi puerta de color azul.,MI PUERTA COLOR AZUL YO YA PINTAR,Pinté mi puerta de color azul.,
+441,PLAYA MUCHOS COCOS YO ENCONTRAR YA,En la playa encontré muchos cocos.,PLAYA MUCHOS COCOS YO ENCONTRAR YA,En la playa encontré muchos cocos.,
+583,PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR,Nosotros viajaremos el próximo año al Lago de Pátzcuaro.,PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR,Nosotros viajaremos el próximo año al Lago de Pátzcuaro.,
+908,YO TENER-CULPA,Yo no tengo la culpa.,YO TENER-CULPA,Yo no tengo la culpa.,
+932,NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO,No te he visto desde la última navidad.,NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO,No te he visto desde la última navidad.,
+844,10 MAÑANA NOS-VEMOS METRO CHABACANO,Nos vemos en el metro chabacano a las 10 de la mañana,10 MAÑANA NOS-VEMOS METRO CHABACANO,Nos vemos en el metro chabacano a las 10 de la mañana,
+559,VACUNAS PROTEGER ENFERMEDAD,Las vacunas te protegen de las enfermedades.,VACUNAS PROTEGER ENFERMEDAD,Las vacunas te protegen de las enfermedades.,
+66,BARRERAS COMUNICACIÓN QUITAR PODER,Las barreras de comunicación pueden eliminarse.,BARRERAS COMUNICACIÓN QUITAR PODER,Las barreras de comunicación pueden eliminarse.,
+973,EDGAR MAESTRO,Edgar es maestro.,EDGAR MAESTRO,Edgar es maestro.,
+41,SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO,Sofía se aprovechó del apoyo de sus papás.,SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO,Sofía se aprovechó del apoyo de sus papás.,
+733,JAPÓN ESE ISLA BONITO,Japón es una isla bonita.,JAPÓN ESE ISLA BONITO,Japón es una isla bonita.,
+800,ESO FEO PARECE VULGAR,"Eso es feo, parece vulgar.",ESO FEO PARECE VULGAR,"Eso es feo, parece vulgar.",
+720,MI TÍO GUATEMALA VIVIR,Mi tío vive en Guatemala.,MI TÍO GUATEMALA VIVIR,Mi tío vive en Guatemala.,
+13,"¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!","¡Rompí el jarrón, perdón, fue un accidente!","¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!","¡Rompí el jarrón, perdón, fue un accidente!",
+672,SIEMPRE NIÑO SUEÑO,El niño siempre tiene sueño.,SIEMPRE NIÑO SUEÑO,El niño siempre tiene sueño.,
+141,BLOQUEAR PROTEGER SOL,El bloqueador me protege del sol.,BLOQUEAR PROTEGER SOL,El bloqueador me protege del sol.,
+57,BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO,Las playas de Baja California Sur son muy limpias.,BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO,Las playas de Baja California Sur son muy limpias.,
+415,ADORNAR NAVIDAD MI ABUELO AYUDAR,Mi abuelo ayuda a la colecta navideña.,ADORNAR NAVIDAD MI ABUELO AYUDAR,Mi abuelo ayuda a la colecta navideña.,
+655,12% SUELDO YA AUMENTAR,Aumentó el sueldo en un 12%.,12% SUELDO YA AUMENTAR,Aumentó el sueldo en un 12%.,
+785,DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA,"Diario manejo mi auto, debo ponerle gasolina.",DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA,"Diario manejo mi auto, debo ponerle gasolina.",
+647,WINDSURF NECESITAR VIENTO MAR,El windsurf necesita del aire para deslizarse.,WINDSURF NECESITAR VIENTO MAR,El windsurf necesita del aire para deslizarse.,
+323,MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR,Debes esforzarte mucho para alcanzar tu meta.,MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR,Debes esforzarte mucho para alcanzar tu meta.,
+697,YO GUSTAR GALLETA DIFERENTE GAMESA,Me gustan las galletas Gamesa.,YO GUSTAR GALLETA DIFERENTE GAMESA,Me gustan las galletas Gamesa.,
+635,TAIWÁN ISLA,Taiwán es una isla.,TAIWÁN ISLA,Taiwán es una isla.,
+450,SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE,Tu control de videojuego se descompuso la semana pasada.,SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE,Tu control de videojuego se descompuso la semana pasada.,
+184,MESA NUEVA YO QUERER,Quiero una mesa nueva.,MESA NUEVA YO QUERER,Quiero una mesa nueva.,
+430,CESÁREA YO NACER YA,Yo nací por cesárea.,CESÁREA YO NACER YA,Yo nací por cesárea.,
+668,CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR,MI Mí familia y yo fuimos a Celaya.,CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR,MI Mí familia y yo fuimos a Celaya.,
+518,MUJER TENER VÁGINA,Las mujeres tienen vágina.,MUJER TENER VÁGINA,Las mujeres tienen vágina.,
+811,CASA AZOTEAARRIBA YO LIMPIAR YA,Yo limpié la azotea de la casa.,CASA AZOTEAARRIBA YO LIMPIAR YA,Yo limpié la azotea de la casa.,
+682,NUEVO CD YO YA PERDER,Perdí mi nuevo CD.,NUEVO CD YO YA PERDER,Perdí mi nuevo CD.,
+486,OTRO LIBRO YO TENER,Tengo otro libro.,OTRO LIBRO YO TENER,Tengo otro libro.,
+259,APAGAR LUZ POR-FAVOR,"Por favor, apaga la luz.",APAGAR LUZ POR-FAVOR,"Por favor, apaga la luz.",
+612,PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO,Quiero ir a estudiar el próximo año la universidad en San Diego.,PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO,Quiero ir a estudiar el próximo año la universidad en San Diego.,
+510,PONTE-SUDADERA NOSOTROS IR CORRER,Vamos a correr ponte la sudadera.,PONTE-SUDADERA NOSOTROS IR CORRER,Vamos a correr ponte la sudadera.,
+685,EFECTIVO NINGÚN YO TRAER,No traigo efectivo.,EFECTIVO NINGÚN YO TRAER,No traigo efectivo.,
+889,ANA SUYO PERRO ABANDONAR YA,Ana abandonó a su perro.,ANA SUYO PERRO ABANDONAR YA,Ana abandonó a su perro.,
+135,CANCÚN HABER CRUCERO,En Cancún hay un crucero.,CANCÚN HABER CRUCERO,En Cancún hay un crucero.,
+200,YO YA VISITAR MURAL DIEGO-RIVERA,Visité el mural de Diego Rivera.,YO YA VISITAR MURAL DIEGO-RIVERA,Visité el mural de Diego Rivera.,
+708,GOBIERNO CUIDAR PERSONA,El gobierno cuida a los ciudadanos.,GOBIERNO CUIDAR PERSONA,El gobierno cuida a los ciudadanos.,
+965,ESTADOS UNIDOS DIFÍCIL VIVIR,Vivir en Estados Unidos es difícil.,ESTADOS UNIDOS DIFÍCIL VIVIR,Vivir en Estados Unidos es difícil.,
+146,CASA AMIGO DETRÁS MI CASA,La casa de mi amigo está detrás de la mía.,CASA AMIGO DETRÁS MI CASA,La casa de mi amigo está detrás de la mía.,
+204,TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL,Los alumnos cantan el himno nacional los lunes.,TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL,Los alumnos cantan el himno nacional los lunes.,
+972,LLUVIA TUBO ROMPER,Con la lluvia el tubo se rompió.,LLUVIA TUBO ROMPER,Con la lluvia el tubo se rompió.,
+182,COMIDA MENOS YO QUERER,Yo quiero menos comida.,COMIDA MENOS YO QUERER,Yo quiero menos comida.,
+251,NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!,"Compré una almohada nueva, ¡qué suerte!",NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!,"Compré una almohada nueva, ¡qué suerte!",
+863,COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD,Compraré la cena de Navidad en la Comercial Mexicana.,COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD,Compraré la cena de Navidad en la Comercial Mexicana.,
+751,AYER YO PERDER MI LIGA,Ayer perdí mi liga.,AYER YO PERDER MI LIGA,Ayer perdí mi liga.,
+850,CHINA HABER MUCHAS PERSONAS,En China hay sobrepoblación.,CHINA HABER MUCHAS PERSONAS,En China hay sobrepoblación.,
+217,ODONTOLOGÍA YO PENSAR ESTUDIAR,Pienso estudiar odontología.,ODONTOLOGÍA YO PENSAR ESTUDIAR,Pienso estudiar odontología.,
+494,MESA FIERRO PESADO,La mesa de fierro está muy pesada.,MESA FIERRO PESADO,La mesa de fierro está muy pesada.,
+939,IMPUESTOS PAGAR TUYO OBLIGACIÓN,Es tu obligación pagar impuestos.,IMPUESTOS PAGAR TUYO OBLIGACIÓN,Es tu obligación pagar impuestos.,
+600,RASURADORA YO QUERER COMPRAR,Quiero comprar una rasuradora.,RASURADORA YO QUERER COMPRAR,Quiero comprar una rasuradora.,
+293,BARCO CAPITÁN ÉL INTELIGENTE,El capitán del barco es muy inteligente.,BARCO CAPITÁN ÉL INTELIGENTE,El capitán del barco es muy inteligente.,
+311,ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER,No te juntes con personas enfermas te pueden contagiar.,ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER,No te juntes con personas enfermas te pueden contagiar.,
+165,NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR,Estudiamos para el examen.,NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR,Estudiamos para el examen.,
+412,SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA,La semana pasada pedí un aventón a la caseta.,SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA,La semana pasada pedí un aventón a la caseta.,
+451,SAPO YA CONVERTIR PERSONA PRÍNCIPE,El sapo se convirtió en príncipe.,SAPO YA CONVERTIR PERSONA PRÍNCIPE,El sapo se convirtió en príncipe.,
+363,DIARIO MI HERMANO AGENDA REVISAR,Mi hermano revisa su agenda diario.,DIARIO MI HERMANO AGENDA REVISAR,Mi hermano revisa su agenda diario.,
+502,SEXTO-PRIMARIA MI HIJO YA REPROBAR,Mi hijo reprobó el sexto de primaria.,SEXTO-PRIMARIA MI HIJO YA REPROBAR,Mi hijo reprobó el sexto de primaria.,
+924,MI PRIMO UNIVERSIDAD YA INGRESAR,Mi primo ingresó a la universidad.,MI PRIMO UNIVERSIDAD YA INGRESAR,Mi primo ingresó a la universidad.,
+541,IGLESIA CAMPANA GRANDE,En la iglesia hay una campana muy grande.,IGLESIA CAMPANA GRANDE,En la iglesia hay una campana muy grande.,
+823,¡CAFÉ CALIENTE!,¡El café está muy caliente!,¡CAFÉ CALIENTE!,¡El café está muy caliente!,
+361,ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR,Los Adventistas descansan los sábados y adoran a Dios.,ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR,Los Adventistas descansan los sábados y adoran a Dios.,
+619,YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR,Voy a estudiar hasta secundaria y después quiero trabajar.,YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR,Voy a estudiar hasta secundaria y después quiero trabajar.,
+547,NEZAHUALCÓYOTL MUCHO CHOLO,En Nezahualcóyotl hay muchos cholos,NEZAHUALCÓYOTL MUCHO CHOLO,En Nezahualcóyotl hay muchos cholos,
+43,ROSALÍA TRABAJAR ARCHIVO HOSPITAL,Rosalía trabaja en el archivo del hospital.,ROSALÍA TRABAJAR ARCHIVO HOSPITAL,Rosalía trabaja en el archivo del hospital.,
+307,YO TENER TRABAJO YA CONTENTO YO,"Ya tengo trabajo, estoy contento.",YO TENER TRABAJO YA CONTENTO YO,"Ya tengo trabajo, estoy contento.",
+931,DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE,No hay nadie en mi casa los domingos.,DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE,No hay nadie en mi casa los domingos.,
+712,ÉL GRAVE,Él está muy grave.,ÉL GRAVE,Él está muy grave.,
+71,"#VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA",En Bélgica hay dos lenguas de señas: VGT y LSFB.,"#VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA",En Bélgica hay dos lenguas de señas: VGT y LSFB.,
+631,SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR,En Suiza se hablan diferentes idiomas.,SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR,En Suiza se hablan diferentes idiomas.,
+539,DIARIO PARQUE SALVADOR BOX EJERCER,Salvador entrena box diario en el parque.,DIARIO PARQUE SALVADOR BOX EJERCER,Salvador entrena box diario en el parque.,
+536,AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR,"En diciembre del año pasado, mi jefe viajó a Bogotá.",AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR,"En diciembre del año pasado, mi jefe viajó a Bogotá.",
+256,ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!,"Ese profesor siempre está amargado, ¡qué feo!",ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!,"Ese profesor siempre está amargado, ¡qué feo!",
+633,CARNE YO COMPRAR SUPERMERCADO,Yo compro carne en el supermercado.,CARNE YO COMPRAR SUPERMERCADO,Yo compro carne en el supermercado.,
+795,SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI,Acostumbro usar taxi siempre.,SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI,Acostumbro usar taxi siempre.,
+747,ESE LIBRO YO GUSTAR,Ese libro me gusta.,ESE LIBRO YO GUSTAR,Ese libro me gusta.,
+446,AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER,Ayer mi primo conquistó a mi amiga en el cine.,AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER,Ayer mi primo conquistó a mi amiga en el cine.,
+117,CARRERA MEDICINA CONCENTRACIÓN A-FUERZA,La medicina es una carrera que exige concentración.,CARRERA MEDICINA CONCENTRACIÓN A-FUERZA,La medicina es una carrera que exige concentración.,
+686,HOSPITALACÁ TODA ENFERMERA AMABLE,Todas las enfermeras del hospital son muy amables.,HOSPITALACÁ TODA ENFERMERA AMABLE,Todas las enfermeras del hospital son muy amables.,
+110,YO CLAVADO HÁBIL YO,Soy muy bueno para los clavados.,YO CLAVADO HÁBIL YO,Soy muy bueno para los clavados.,
+154,MI HERMANO+MUJER YA EMBARAZADA,Mi hermana está embarazada.,MI HERMANO+MUJER YA EMBARAZADA,Mi hermana está embarazada.,
+358,ADÁN PRIMER HOMBRE MUNDO DIOS HACER,Adán es el primer hombre creado por Dios en el mundo.,ADÁN PRIMER HOMBRE MUNDO DIOS HACER,Adán es el primer hombre creado por Dios en el mundo.,
+348,ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA,El cumpleaños de mi tía es en abril y le haremos fiesta.,ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA,El cumpleaños de mi tía es en abril y le haremos fiesta.,
+806,YO YA COMPRAR NUEVA ALMOHADA PARA CAMA,Compré una almohada nueva para la cama.,YO YA COMPRAR NUEVA ALMOHADA PARA CAMA,Compré una almohada nueva para la cama.,
+876,MALTRATO ANIMAL CRIMEN,El maltrato animal es un crimen.,MALTRATO ANIMAL CRIMEN,El maltrato animal es un crimen.,
+211,VACACIONES LUIS IR PANAMÁ,Luis fue de vacaciones a Panamá.,VACACIONES LUIS IR PANAMÁ,Luis fue de vacaciones a Panamá.,
+346,MI HIJO YO ABANDONAR,Yo abandoné a mi hijo.,MI HIJO YO ABANDONAR,Yo abandoné a mi hijo.,
+913,DESIERTO DIFÍCIL VIVIR,Vivir en el desierto es difícil.,DESIERTO DIFÍCIL VIVIR,Vivir en el desierto es difícil.,
+312,AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE,Compré este celular ayer pero está muy corriente.,AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE,Compré este celular ayer pero está muy corriente.,
+702,AÑO-PASADO MI GENERACIÓN GRADUAR,Mi generación se graduó el año pasado.,AÑO-PASADO MI GENERACIÓN GRADUAR,Mi generación se graduó el año pasado.,
+63,YO IR BAÑO,Voy al baño.,YO IR BAÑO,Voy al baño.,
+691,ÉL MI EX NOVIO,Él es mi ex novio.,ÉL MI EX NOVIO,Él es mi ex novio.,
+898,CINE MI AMIGO ÉL BESAR MÍ YA,Mi amigo me besó en el cine.,CINE MI AMIGO ÉL BESAR MÍ YA,Mi amigo me besó en el cine.,
+717,¿TÚ GRUPO NÚMERO CUÁL?,¿Cuál es el número de tu grupo?,¿TÚ GRUPO NÚMERO CUÁL?,¿Cuál es el número de tu grupo?,
+419,MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO,Mañana habrá descuentos en bolsas de mano en Liverpool.,MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO,Mañana habrá descuentos en bolsas de mano en Liverpool.,
+399,LUGAR TOKIO SU ASIA,Tokio se ubica en Asia.,LUGAR TOKIO SU ASIA,Tokio se ubica en Asia.,
+208,FRASCO DULCES NO-HAY,No hay dulces en el frasco.,FRASCO DULCES NO-HAY,No hay dulces en el frasco.,
+970,TABLE-DANCE MUJER DIFERENTE BAILA MESA,"En el table dance, las mujeres bailan sobre la mesa",TABLE-DANCE MUJER DIFERENTE BAILA MESA,"En el table dance, las mujeres bailan sobre la mesa",
+587,MALETA TÚ PODER LLEVAR,Puedes llevar una maleta.,MALETA TÚ PODER LLEVAR,Puedes llevar una maleta.,
+495,NIÑO NIÑO TENER PIOJO,Los niños tienen piojos.,NIÑO NIÑO TENER PIOJO,Los niños tienen piojos.,
+606,COMIDA FALTA SAL POQUITO,A la comida le faltó un poco de sal.,COMIDA FALTA SAL POQUITO,A la comida le faltó un poco de sal.,
+193,ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA,Compraré ropa nueva. Yo estoy a la moda.,ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA,Compraré ropa nueva. Yo estoy a la moda.,
+548,CUATRO CILINDRO MI CARRO USAR,Mi carro usa cuatro cilindros.,CUATRO CILINDRO MI CARRO USAR,Mi carro usa cuatro cilindros.,
+152,HOMBRE EGIPCIO NO RESPONDER,El egipcio no respondió.,HOMBRE EGIPCIO NO RESPONDER,El egipcio no respondió.,
+905,HOY YO ARROZ COMER,Hoy no comí arroz.,HOY YO ARROZ COMER,Hoy no comí arroz.,
+14,MI HERMANO ACTIVO,Mi hermano es activo.,MI HERMANO ACTIVO,Mi hermano es activo.,
+112,MI TÍO+MUJER DELICIOSO COCINAR,Mi tía cocina delicioso.,MI TÍO+MUJER DELICIOSO COCINAR,Mi tía cocina delicioso.,
+53,LUZ BABY-SHOWER MAÑANA,Mañana será el Baby Shower de Luz.,LUZ BABY-SHOWER MAÑANA,Mañana será el Baby Shower de Luz.,
+42,JUANA SU AMIGO ÁRABE,El amigo de Juana es árabe.,JUANA SU AMIGO ÁRABE,El amigo de Juana es árabe.,
+104,MI TÍO TENER CASA CUERNAVACA,Mi tío tiene una casa en Cuernavaca.,MI TÍO TENER CASA CUERNAVACA,Mi tío tiene una casa en Cuernavaca.,
+928,YO TENER ESCUELA MUCHO AMIGO AMIGO,Tengo muchos amigos en la escuela.,YO TENER ESCUELA MUCHO AMIGO AMIGO,Tengo muchos amigos en la escuela.,
+78,AYER YO PASEAR SENTIR BIEN,Ayer fui a pasear y me senti muy bien,AYER YO PASEAR SENTIR BIEN,Ayer fui a pasear y me senti muy bien,
+664,MÍ MAMÁ COMPRAR CALZÓN,Mi mamá me compró un calzón.,MÍ MAMÁ COMPRAR CALZÓN,Mi mamá me compró un calzón.,
+893,YO DECIR NO-PODER YO DEBER AGUANTAR,"No puedo decirlo, debo aguantarme.",YO DECIR NO-PODER YO DEBER AGUANTAR,"No puedo decirlo, debo aguantarme.",
+335,AYER SU ROPA SUCIA MI HERMANO LAVAR,Ayer mi hermano lavó su ropa sucia.,AYER SU ROPA SUCIA MI HERMANO LAVAR,Ayer mi hermano lavó su ropa sucia.,
+192,MI JEFE ÉL PAGAR MÍ SUELDO MITAD,Mi jefe me pagó la mitad del sueldo.,MI JEFE ÉL PAGAR MÍ SUELDO MITAD,Mi jefe me pagó la mitad del sueldo.,
+16,JEHOVÁ YO ADORAR,Adoro a Jehová.,JEHOVÁ YO ADORAR,Adoro a Jehová.,
+966,YO NO-FUI COMPUTADORA NO-SIRVE,Yo no fui quien descompuso la computadora.,YO NO-FUI COMPUTADORA NO-SIRVE,Yo no fui quien descompuso la computadora.,
+567,POLVO YO MUCHO ESTORNUDAR,"Con mucho polvo, yo estornudo mucho.",POLVO YO MUCHO ESTORNUDAR,"Con mucho polvo, yo estornudo mucho.",
+322,YO SUERTE LOGRAR YO PODER,"Yo tuve suerte, lo pude lograr.",YO SUERTE LOGRAR YO PODER,"Yo tuve suerte, lo pude lograr.",
+479,NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ,Me mandas un mensaje de whatsapp en la noche.,NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ,Me mandas un mensaje de whatsapp en la noche.,
+714,TROMBÓN SONIDO GRAVE TENER,El trombón tiene un sonido muy grave.,TROMBÓN SONIDO GRAVE TENER,El trombón tiene un sonido muy grave.,
+138,MÉXICO BIBLIOTECA GRANDE,La Biblioteca de México es muy grande.,MÉXICO BIBLIOTECA GRANDE,La Biblioteca de México es muy grande.,
+181,MADRUGADA EXPLOSIÓN YO ESCUCHAR,En la madrugada escuché una explosión.,MADRUGADA EXPLOSIÓN YO ESCUCHAR,En la madrugada escuché una explosión.,
+329,PULPO YO YA COMER DELICOSO,"Yo comí pulpo, es delicioso.",PULPO YO YA COMER DELICOSO,"Yo comí pulpo, es delicioso.",
+729,YO YA SABER LEER INGLÉS IDIOMA,Yo sé leer en idioma inglés.,YO YA SABER LEER INGLÉS IDIOMA,Yo sé leer en idioma inglés.,
+578,TÚ HURAÑO TÚ,Eres un huraño con todos.,TÚ HURAÑO TÚ,Eres un huraño con todos.,
+238,A-VECES YO IR CASA SIEMPRE NO,"No siempre voy a casa, sólo a veces.",A-VECES YO IR CASA SIEMPRE NO,"No siempre voy a casa, sólo a veces.",
+344,COLADERA TÚ A-SALVO CAER,Estuviste a salvo de caer en la coladera.,COLADERA TÚ A-SALVO CAER,Estuviste a salvo de caer en la coladera.,
+822,SU #SEP CALENDARIO AGOSTO TERMINAR,El calendario de la SEP termina en agosto.,SU #SEP CALENDARIO AGOSTO TERMINAR,El calendario de la SEP termina en agosto.,
+473,LLANTA COCHE TÚ DEBER CAMBIAR,Debes cambiar la llanta del coche.,LLANTA COCHE TÚ DEBER CAMBIAR,Debes cambiar la llanta del coche.,
+628,ALICIA YA VIAJAR SUDÁFRICA,Alicia viajó a Sudáfrica.,ALICIA YA VIAJAR SUDÁFRICA,Alicia viajó a Sudáfrica.,
+83,SANTIAGO MONEDA GUARDAR-BOLSILLO,Santiago guarda en su bolsillo una moneda.,SANTIAGO MONEDA GUARDAR-BOLSILLO,Santiago guarda en su bolsillo una moneda.,
+212,MOCHILA ROJA HABER DOS PAÑAL,En la mochila roja hay dos pañales.,MOCHILA ROJA HABER DOS PAÑAL,En la mochila roja hay dos pañales.,
+349,MÍ ABUELO+MUJER 90 EDAD,Mi abuela tiene 90 años.,MÍ ABUELO+MUJER 90 EDAD,Mi abuela tiene 90 años.,
+855,CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY,Mi auto no tiene cinturón de seguridad.,CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY,Mi auto no tiene cinturón de seguridad.,
+554,ESE HOMBRE JOVEN BUEN CORREDOR,Ese muchacho es muy buen corredor.,ESE HOMBRE JOVEN BUEN CORREDOR,Ese muchacho es muy buen corredor.,
+468,IRÁN BANDERA COLOR VERDE BLANCO ROJO,Los colores de la bandera de Irán son verde blanco y rojo.,IRÁN BANDERA COLOR VERDE BLANCO ROJO,Los colores de la bandera de Irán son verde blanco y rojo.,
+596,#TV PUBLICIDAD HABER MUCHO,En la TV hay mucha publicidad.,#TV PUBLICIDAD HABER MUCHO,En la TV hay mucha publicidad.,
+570,FRONTERA TIJUANA MÍ TÍO VIVIR,"Mi tío vive en la frontera, en Tijuana.",FRONTERA TIJUANA MÍ TÍO VIVIR,"Mi tío vive en la frontera, en Tijuana.",
+326,AIMÉ SALTAR PARACAIDAS,Aimé saltó en paracaídas.,AIMÉ SALTAR PARACAIDAS,Aimé saltó en paracaídas.,
+977,EDGAR FUTURO MAESTRO,Edgar será maestro.,EDGAR FUTURO MAESTRO,Edgar será maestro.,
+106,POLICÍA AMBULANCIA PASO ÉL CEDER,El policía cedió el paso a la ambulancia.,POLICÍA AMBULANCIA PASO ÉL CEDER,El policía cedió el paso a la ambulancia.,
+261,YO QUERER APRENDER MUCHO COSA,Yo quiero aprender muchas cosas.,YO QUERER APRENDER MUCHO COSA,Yo quiero aprender muchas cosas.,
+82,SUÉTER BLANCO YO PERDER,Perdí el suéter blanco.,SUÉTER BLANCO YO PERDER,Perdí el suéter blanco.,
+964,TODAVÍA MI TAREA YO NO TERMINAR,No termino mi tarea todavía.,TODAVÍA MI TAREA YO NO TERMINAR,No termino mi tarea todavía.,
+721,GUERRERO ESTADO BONITO,Guerrero es un estado bonito.,GUERRERO ESTADO BONITO,Guerrero es un estado bonito.,
+524,CANTAR+MUJER MADONNA ELLOS ADMIRAR ELLA,Ellos admiran a la cantante Madonna.,CANTAR+MUJER MADONNA ELLOS ADMIRAR ELLA,Ellos admiran a la cantante Madonna.,
+240,YA MUCHO ÉL ABUSAR YO,Él ya abusó mucho de mí.,YA MUCHO ÉL ABUSAR YO,Él ya abusó mucho de mí.,
+22,AHORA TÚ RECÁMARA TÚ LIMPIAR,Ahora tú limpia tu recámara.,AHORA TÚ RECÁMARA TÚ LIMPIAR,Ahora tú limpia tu recámara.,
+173,DINERO NADA ESO GRATIS,"Eso no cuesta nada, es gratis.",DINERO NADA ESO GRATIS,"Eso no cuesta nada, es gratis.",
+544,TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR,Mi amiga y su novio van los sábados al casino.,TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR,Mi amiga y su novio van los sábados al casino.,
+416,PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR,Vamos al parque de Azcapotzalco.,PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR,Vamos al parque de Azcapotzalco.,
+374,ÁLVARO OBREGÓN YO VIVIR,Yo vivo en la Delegación Álvaro Obregón.,ÁLVARO OBREGÓN YO VIVIR,Yo vivo en la Delegación Álvaro Obregón.,
+534,BERLÍN CAPITAL SU ALEMANIA,Berlín es la capital de Alemania.,BERLÍN CAPITAL SU ALEMANIA,Berlín es la capital de Alemania.,
+797,UNIVERSIDAD GALLAUDET FAMOSA,La Universidad Gallaudet es muy famosa.,UNIVERSIDAD GALLAUDET FAMOSA,La Universidad Gallaudet es muy famosa.,
+0,TARDE ¿POR QUÉ?,¿Por qué llegaste tarde?,TARDE ¿POR QUÉ?,¿Por qué llegaste tarde?,
+866,CONGRESO NUEVA LEY APROBAR YA,El Congreso aprobó la nueva ley.,CONGRESO NUEVA LEY APROBAR YA,El Congreso aprobó la nueva ley.,
+244,TÚ YA DEBER RESPONSABLE TÚ YA ADULTO,"Tú ya debes ser responsable, ya eres un adulto.",TÚ YA DEBER RESPONSABLE TÚ YA ADULTO,"Tú ya debes ser responsable, ya eres un adulto.",
+760,ESE CARRO NUEVO LUJOSO,Ese carro nuevo es muy lujoso.,ESE CARRO NUEVO LUJOSO,Ese carro nuevo es muy lujoso.,
+782,MUCHOS POLICÍA HABER MANIFESTACIÓN,Hay muchos policías en la manifestación.,MUCHOS POLICÍA HABER MANIFESTACIÓN,Hay muchos policías en la manifestación.,
+838,PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR,Mi hermana se casa el próximo domingo.,PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR,Mi hermana se casa el próximo domingo.,
+904,PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN,Las próximas vacaciones iré de viaje a Ciudad Obregón.,PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN,Las próximas vacaciones iré de viaje a Ciudad Obregón.,
+589,TÚ MALO NO DEBER,No debes ser malo.,TÚ MALO NO DEBER,No debes ser malo.,
+648,PAYASO ZAPATO SUYO COLOR AMARILLO,Los zapatos del payaso son amarillos.,PAYASO ZAPATO SUYO COLOR AMARILLO,Los zapatos del payaso son amarillos.,
+771,OJALÁ TÚ ÉXITO,Ojalá tengas éxito.,OJALÁ TÚ ÉXITO,Ojalá tengas éxito.,
+540,CAJÓN HOJAS BLANCAS HAY,Hay hojas blancas en el cajón.,CAJÓN HOJAS BLANCAS HAY,Hay hojas blancas en el cajón.,
+755,¿DÓNDE TUYO LOCAL?,¿Dónde está tu local?,¿DÓNDE TUYO LOCAL?,¿Dónde está tu local?,
+452,MI CRONÓMETRO YA PERDER,Mi cronómetro se perdió.,MI CRONÓMETRO YA PERDER,Mi cronómetro se perdió.,
+119,DOMINGO IGLESIA YO IR CONFESAR YO,El domingo me iré a confesar a la iglesia.,DOMINGO IGLESIA YO IR CONFESAR YO,El domingo me iré a confesar a la iglesia.,
+386,TOMÁS APÓSTOL JESÚS,Tomás fue un apóstol de Jesús.,TOMÁS APÓSTOL JESÚS,Tomás fue un apóstol de Jesús.,
+38,JUAN ASUNTO APARTE,"Con Juan, es un asunto aparte.",JUAN ASUNTO APARTE,"Con Juan, es un asunto aparte.",
+77,DIARIO BIBLIA ARTURO LEER,Arturo lee la biblia diariamente.,DIARIO BIBLIA ARTURO LEER,Arturo lee la biblia diariamente.,
+318,TÚ ENOJAR NO POR-FAVOR,"No te enojes, por favor.",TÚ ENOJAR NO POR-FAVOR,"No te enojes, por favor.",
+615,#TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE,En la TV vi una noticia fea que pasó en Santiago de Chile.,#TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE,En la TV vi una noticia fea que pasó en Santiago de Chile.,
+719,AÑO-PASADO YO VIAJAR GUANAJUATO,El año pasado viajé a Guanajuato.,AÑO-PASADO YO VIAJAR GUANAJUATO,El año pasado viajé a Guanajuato.,
+791,MI HERMANO+MUJER SNORKELING ELLA PRACTICAR,Mi hermana practica snorkeling.,MI HERMANO+MUJER SNORKELING ELLA PRACTICAR,Mi hermana practica snorkeling.,
+756,ESE HOMBRE LOCO PARECER,Ese hombre parece loco.,ESE HOMBRE LOCO PARECER,Ese hombre parece loco.,
+979,SOPA CALIENTE,La sopa está caliente.,SOPA CALIENTE,La sopa está caliente.,
+4,¿QUÉ-PASO?,¿Qué te pasó?,¿QUÉ-PASO?,¿Qué te pasó?,
+937,MÉXICO PAPA ÉL REGAÑAR OBISPO,El papa regañó a los obispos en México.,MÉXICO PAPA ÉL REGAÑAR OBISPO,El papa regañó a los obispos en México.,
+281,ESO BONITO SÍ YO GUSTAR,"Eso es muy bonito, sí me gusta.",ESO BONITO SÍ YO GUSTAR,"Eso es muy bonito, sí me gusta.",
+953,MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR,Mi papá llena el formato para tramitar su licencia de manejo.,MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR,Mi papá llena el formato para tramitar su licencia de manejo.,
+51,MARIBEL DIPLOMA NIVEL AVANZADO,Maribel cursa el nivel avanzado en el diplomado.,MARIBEL DIPLOMA NIVEL AVANZADO,Maribel cursa el nivel avanzado en el diplomado.,
+405,AUSTRALIA DECIR HABER MUCHO CANGURO,Dicen que en Australia hay muchos canguros.,AUSTRALIA DECIR HABER MUCHO CANGURO,Dicen que en Australia hay muchos canguros.,
+15,ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO,Adolfo López Mateos fue presidente de México.,ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO,Adolfo López Mateos fue presidente de México.,
+456,YA TÚ DECIR MÍ NO ELUDIR PREGUNTA,"Ya dime la verdad, no eludas la pregunta.",YA TÚ DECIR MÍ NO ELUDIR PREGUNTA,"Ya dime la verdad, no eludas la pregunta.",
+216,MIGUEL PECHO ÉL DOLER,Miguel tiene dolor en el pecho.,MIGUEL PECHO ÉL DOLER,Miguel tiene dolor en el pecho.,
+108,MI ABUELO+MUJER HACER RICO CHOCOLATE,Mi abuela hace un chocolate muy rico.,MI ABUELO+MUJER HACER RICO CHOCOLATE,Mi abuela hace un chocolate muy rico.,
+662,BRASILIA BONITO,Brasilia es bonita.,BRASILIA BONITO,Brasilia es bonita.,
+228,JUANA LSM ELLA SABER,Juana sabe LSM.,JUANA LSM ELLA SABER,Juana sabe LSM.,
+807,ALMOHADA CÓMODA ALMOHADA PARA DORMIR,La almohada es muy cómoda para dormir.,ALMOHADA CÓMODA ALMOHADA PARA DORMIR,La almohada es muy cómoda para dormir.,
+872,MUCHO PERSONA CORÁN ELLOS CREER,Muchas personas creen en el Corán.,MUCHO PERSONA CORÁN ELLOS CREER,Muchas personas creen en el Corán.,
+250,ESE SUAVE PARECE ALGODÓN,"Eso es muy suave, parece algodón.",ESE SUAVE PARECE ALGODÓN,"Eso es muy suave, parece algodón.",
+946,MARATÓN MI PRIMO MEDALLA ORO YA GANAR,Mi primo ganó medalla de oro en el maratón.,MARATÓN MI PRIMO MEDALLA ORO YA GANAR,Mi primo ganó medalla de oro en el maratón.,
+766,YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR,"Te aviso, me las vas a pagar.",YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR,"Te aviso, me las vas a pagar.",
+373,ÉL BUENO ALUMNO ÉL,Él es un buen alumno.,ÉL BUENO ALUMNO ÉL,Él es un buen alumno.,
+681,YO NECESITAR DINERO PAGAR GASOLINA,Necesito dinero para poder pagar la gasolina.,YO NECESITAR DINERO PAGAR GASOLINA,Necesito dinero para poder pagar la gasolina.,
+218,CAJA PEQUEÑA SU COLOR ROJO,La caja pequeña es de color rojo.,CAJA PEQUEÑA SU COLOR ROJO,La caja pequeña es de color rojo.,
+674,CORONA-DE-OLIVO ELLOS PONER ÉL,Le pusieron la corona de olivo.,CORONA-DE-OLIVO ELLOS PONER ÉL,Le pusieron la corona de olivo.,
+711,COMIDA TENER MUCHO GRASA,La comida tiene mucha grasa.,COMIDA TENER MUCHO GRASA,La comida tiene mucha grasa.,
+516,PLAYA TORTUGA HABER,Hay una tortuga en la playa.,PLAYA TORTUGA HABER,Hay una tortuga en la playa.,
+357,BIBLIA DENTRO ADÁN NOMBRE HABER,En la biblia está el nombre de Adán.,BIBLIA DENTRO ADÁN NOMBRE HABER,En la biblia está el nombre de Adán.,
+636,MI TARJETA-DE-CRÉDITO YO PAGAR,Yo pago con mi tarjeta de crédito.,MI TARJETA-DE-CRÉDITO YO PAGAR,Yo pago con mi tarjeta de crédito.,
+387,¿CÓMO SEÑA APÓSTOLES?,¿Cómo haces la seña de apóstoles?,¿CÓMO SEÑA APÓSTOLES?,¿Cómo haces la seña de apóstoles?,
+891,SU HIJO ÉL ABANDONAR,Él abandonó a su hijo.,SU HIJO ÉL ABANDONAR,Él abandonó a su hijo.,
+377,YO SIEMPRE ORAR YO DECIR AMÉN,Siempre que rezo digo amén.,YO SIEMPRE ORAR YO DECIR AMÉN,Siempre que rezo digo amén.,
+579,MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA,Mi compañero de trabajo insiste en hacer una fiesta.,MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA,Mi compañero de trabajo insiste en hacer una fiesta.,
+834,ELLA CARA BONITA,Ella tiene una cara bonita.,ELLA CARA BONITA,Ella tiene una cara bonita.,
+148,SIEMPRE ÉL DISTRAÍDO,Él siempre está muy distraído.,SIEMPRE ÉL DISTRAÍDO,Él siempre está muy distraído.,
+231,ESTA SERVILLETA SUCIA,Esta servilleta está sucia.,ESTA SERVILLETA SUCIA,Esta servilleta está sucia.,
+257,ANIMAL DIFERENTES DIFERENTES BONITO VERDAD,Los animales son muy bonitos en verdad.,ANIMAL DIFERENTES DIFERENTES BONITO VERDAD,Los animales son muy bonitos en verdad.,
+623,"SEMANA PASADA, YO IR PLAZA UNIVERSIDAD",La semana pasada fui a Plaza Universidad.,"SEMANA PASADA, YO IR PLAZA UNIVERSIDAD",La semana pasada fui a Plaza Universidad.,
+87,BOSNIA-HERZEGOVINA ESE PAÍS LEJOS,Bosnia y Herzegovina es un país muy lejano.,BOSNIA-HERZEGOVINA ESE PAÍS LEJOS,Bosnia y Herzegovina es un país muy lejano.,
+499,HOY MÍ CELULAR YO YA TENER SALDO,Hoy mi celular ya tiene saldo.,HOY MÍ CELULAR YO YA TENER SALDO,Hoy mi celular ya tiene saldo.,
+900,ELLA TENER CABELLO-LACÍO,Ella tiene cabello lacio.,ELLA TENER CABELLO-LACÍO,Ella tiene cabello lacio.,
+532,AÑO-PASADO UNIVERSIDAD YO TERMINAR,El año pasado terminé la universidad.,AÑO-PASADO UNIVERSIDAD YO TERMINAR,El año pasado terminé la universidad.,
+460,ESTONIA FRONTERA RUSIA,Estonia tiene una frontera con Rusia.,ESTONIA FRONTERA RUSIA,Estonia tiene una frontera con Rusia.,
+565,MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER,En el mercado venden muchas escobas baratas.,MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER,En el mercado venden muchas escobas baratas.,
+920,PABLO FLOJO,Pablo es flojo.,PABLO FLOJO,Pablo es flojo.,
+783,POLICÍA AGENTE NOSOTROS PROTEGER MÍ,La policia judicial nos protege.,POLICÍA AGENTE NOSOTROS PROTEGER MÍ,La policia judicial nos protege.,
+107,TODO-SÁBADO TODO-SÁBADO CEPAMEX RAÚL ENTRENAR,Raúl entrena los sábados en CEPAMEX.,TODO-SÁBADO TODO-SÁBADO CEPAMEX RAÚL ENTRENAR,Raúl entrena los sábados en CEPAMEX.,
+694,ÉL EJERCER EJERCER FORTALECER,Él hace mucho ejercicio para fortalecerse.,ÉL EJERCER EJERCER FORTALECER,Él hace mucho ejercicio para fortalecerse.,
+594,MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO,Mi mamá cocina en la olla express caldo de pollo sabroso.,MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO,Mi mamá cocina en la olla express caldo de pollo sabroso.,
+436,SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO,La semana pasada compré cinta canela en el Centro.,SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO,La semana pasada compré cinta canela en el Centro.,
+605,LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS,En la fábrica de Sabritas buscan personal para trabajar.,LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS,En la fábrica de Sabritas buscan personal para trabajar.,
+397,CONSTITUCIÓN TENER MUCHOS ARTÍCULOS,La Constitución tiene muchos artículos.,CONSTITUCIÓN TENER MUCHOS ARTÍCULOS,La Constitución tiene muchos artículos.,
+727,HUNGRÍA ESE PAÍS LEJOS,Hungría es un país que está muy lejos.,HUNGRÍA ESE PAÍS LEJOS,Hungría es un país que está muy lejos.,
+470,YO IR TIENDA COMPRAR JABÓN YA,Fui a comprar jabón a la tienda.,YO IR TIENDA COMPRAR JABÓN YA,Fui a comprar jabón a la tienda.,
+319,BANDERA MÉXICO ESCUDO ESE MUCHO BONITO,El escudo de la bandera de México es muy bonito.,BANDERA MÉXICO ESCUDO ESE MUCHO BONITO,El escudo de la bandera de México es muy bonito.,
+225,PRÓXIMO CONFERENCIA LUGAR MONTERREY,La próxima conferencia será en Monterrey.,PRÓXIMO CONFERENCIA LUGAR MONTERREY,La próxima conferencia será en Monterrey.,
+233,MARÍA DANIEL AMBOS IR TEATRO,María y Daniel van al teatro.,MARÍA DANIEL AMBOS IR TEATRO,María y Daniel van al teatro.,
+689,MI ABUELO TENER RIFLE VIEJO,Mi abuelo tiene un rifle viejo.,MI ABUELO TENER RIFLE VIEJO,Mi abuelo tiene un rifle viejo.,
+762,ELLA TENER LUNAR BONITO,Ella tiene una lunar bonito.,ELLA TENER LUNAR BONITO,Ella tiene una lunar bonito.,
+242,AYER ADIÓS TÚ DECIR NADA,Ayer no me dijiste adiós.,AYER ADIÓS TÚ DECIR NADA,Ayer no me dijiste adiós.,
+693,CUADERNO FEO,El cuaderno es feo.,CUADERNO FEO,El cuaderno es feo.,
+744,LEY ROBAR PROHIBIR,La ley prohíbe robar.,LEY ROBAR PROHIBIR,La ley prohíbe robar.,
+55,MARIANA BAILAR ELLA GUSTAR,A Mariana le gusta bailar.,MARIANA BAILAR ELLA GUSTAR,A Mariana le gusta bailar.,
+381,ANTIER PALACIO-DE-LOS-DEPORTES MAGNETO CANTAR AUDITORIO YO IR,Antier fui a un concierto de Magneto en el Palacio de los Deportes.,ANTIER PALACIO-DE-LOS-DEPORTES MAGNETO CANTAR AUDITORIO YO IR,Antier fui a un concierto de Magneto en el Palacio de los Deportes.,
+896,PAYASO MUCHO MAQUILLAJE,El payaso usa mucho maquillaje.,PAYASO MUCHO MAQUILLAJE,El payaso usa mucho maquillaje.,
+809,AYER MAMÁ PREPARAR ATOLE,Ayer mi mamá preparó atole.,AYER MAMÁ PREPARAR ATOLE,Ayer mi mamá preparó atole.,
+199,SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR,"Me pasé un semáforo, ahora tengo que pagar una multa.",SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR,"Me pasé un semáforo, ahora tengo que pagar una multa.",
+968,MONTAÑA RUSA TÚ COBARDE NO,"Súbete a la montaña rusa, no seas cobarde.",MONTAÑA RUSA TÚ COBARDE NO,"Súbete a la montaña rusa, no seas cobarde.",
+919,YO EMOCIONADO NUEVO INGRESAR TRABAJO,Estoy emocionado por ingresar a mi nuevo trabajo.,YO EMOCIONADO NUEVO INGRESAR TRABAJO,Estoy emocionado por ingresar a mi nuevo trabajo.,
+974,ANTES MIGUEL NOVIO,Miguel fue mi novio.,ANTES MIGUEL NOVIO,Miguel fue mi novio.,
+28,SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR,Sara encontró muchas almejas en el mar.,SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR,Sara encontró muchas almejas en el mar.,
+963,MI PERRO SUMISO MOLESTAR,"Mi perro es sumiso, no molesta.",MI PERRO SUMISO MOLESTAR,"Mi perro es sumiso, no molesta.",
+133,FRESAS CON CREMA YO GUSTAR,Me gustan las fresas con crema.,FRESAS CON CREMA YO GUSTAR,Me gustan las fresas con crema.,
+378,IGLESIA NOSOTROS-DE-DOS DECIR AMÉN,En la iglesia decimos amén.,IGLESIA NOSOTROS-DE-DOS DECIR AMÉN,En la iglesia decimos amén.,
+505,PERRO MUCHO SED,El perro tiene mucha sed.,PERRO MUCHO SED,El perro tiene mucha sed.,
+101,MI TRABAJO MUCHO CANSAR CANSAR,Mi trabajo es muy cansado.,MI TRABAJO MUCHO CANSAR CANSAR,Mi trabajo es muy cansado.,
+804,TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE,Tengo que acostumbrarme a despertarme a correr temprano.,TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE,Tengo que acostumbrarme a despertarme a correr temprano.,
+634,NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR,Caminemos hacia el sur para encontrar agua.,NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR,Caminemos hacia el sur para encontrar agua.,
+575,NOSOTROS ABRIR-HORNO PARA PASTEL,Nosotros abrimos el horno para meter los pasteles.,NOSOTROS ABRIR-HORNO PARA PASTEL,Nosotros abrimos el horno para meter los pasteles.,
+392,MI NOVIO NACER LUGAR ARGENTINA,Mi novio nació en Argentina.,MI NOVIO NACER LUGAR ARGENTINA,Mi novio nació en Argentina.,
+918,YO VIAJE FRANCIA YO EMOCIONAR YA,Mi viaje a Francia me emocionó.,YO VIAJE FRANCIA YO EMOCIONAR YA,Mi viaje a Francia me emocionó.,
+493,POLICÍA PERSEGUIR JOVEN,El policía persigue a un joven.,POLICÍA PERSEGUIR JOVEN,El policía persigue a un joven.,
+732,JOSÉ APRENDER IDIOMA ITALIA,José aprende la lengua de Italia.,JOSÉ APRENDER IDIOMA ITALIA,José aprende la lengua de Italia.,
+650,¡YO ASUSTAR ALMA DESAPARECER!,¡Del susto se me escapó el alma!,¡YO ASUSTAR ALMA DESAPARECER!,¡Del susto se me escapó el alma!,
+604,PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE,El sábado pasado hubo un grave accidente en la carretera.,PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE,El sábado pasado hubo un grave accidente en la carretera.,
+537,COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER,Mete en la bolsa las cosas que compraste en la tienda.,COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER,Mete en la bolsa las cosas que compraste en la tienda.,
+506,DOS-DE-NOSOTROS YA SEPARAR,Él y yo ya nos separamos.,DOS-DE-NOSOTROS YA SEPARAR,Él y yo ya nos separamos.,
+878,CUBA CALOR,En Cuba hace mucho calor,CUBA CALOR,En Cuba hace mucho calor,
+284,ESA PIEDRA BONITA BRILLO MUCHO,"Esa piedra está muy bonita, brilla mucho.",ESA PIEDRA BONITA BRILLO MUCHO,"Esa piedra está muy bonita, brilla mucho.",
+454,NADA YO NO-QUERER NADA,No quiero nada.,NADA YO NO-QUERER NADA,No quiero nada.,
+337,MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE,"Miguel quiere declarse a su amiga, pero no se atreve.",MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE,"Miguel quiere declarse a su amiga, pero no se atreve.",
+735,CHAPULTEPEC HABER LAGO,En Chapultepec hay un lago.,CHAPULTEPEC HABER LAGO,En Chapultepec hay un lago.,
+298,ENTRAR ANIMAL NIÑO VER MONO,El niño ve un mono en el zoológico.,ENTRAR ANIMAL NIÑO VER MONO,El niño ve un mono en el zoológico.,
+334,PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER,Mi novio y yo vemos películas con subtítulos.,PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER,Mi novio y yo vemos películas con subtítulos.,
+31,MAÑANA AMANECER NOSOTROS ENCONTRAR,Nosotros nos encontraremos mañana al amanecer.,MAÑANA AMANECER NOSOTROS ENCONTRAR,Nosotros nos encontraremos mañana al amanecer.,
+640,TÚ BASURA TIRAR,Tira la basura.,TÚ BASURA TIRAR,Tira la basura.,
+352,DELEGACIÓN YO YA IR ACTA LEVANTAR,Yo fui a levantar un acta a la delegación.,DELEGACIÓN YO YA IR ACTA LEVANTAR,Yo fui a levantar un acta a la delegación.,
+145,QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR,"Si llego tarde al trabajo, me pueden despedir.",QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR,"Si llego tarde al trabajo, me pueden despedir.",
+463,HOY CUMPLEAÑOS MÍ,Hoy es mi cumpleaños.,HOY CUMPLEAÑOS MÍ,Hoy es mi cumpleaños.,
+353,MI AMIGO JULIO TENER ACTA-DEMANDA,Mi amigo Julio tiene un acta de demanda.,MI AMIGO JULIO TENER ACTA-DEMANDA,Mi amigo Julio tiene un acta de demanda.,
+739,"LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA","Las lenguas más habladas son el chino, el inglés y el español.","LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA","Las lenguas más habladas son el chino, el inglés y el español.",
+67,PAVO COMIDA BASICA NAVIDAD,Los pavos son la comida básica en Navidad,PAVO COMIDA BASICA NAVIDAD,Los pavos son la comida básica en Navidad,
+947,NOCHE OSCURA,La noche está muy oscura.,NOCHE OSCURA,La noche está muy oscura.,
+466,INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO,La India es el séptimo país más grande del mundo.,INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO,La India es el séptimo país más grande del mundo.,
+356,ACTOR TOM CRUICE FAMOSO,Tom Cruice es un actor muy famoso.,ACTOR TOM CRUICE FAMOSO,Tom Cruice es un actor muy famoso.,
+489,PANADERÍA YO IR,Yo voy a la panadería.,PANADERÍA YO IR,Yo voy a la panadería.,
+969,SUBURBANO VIAJAR VELOCIDAD,En suburbano se viaja más rápido.,SUBURBANO VIAJAR VELOCIDAD,En suburbano se viaja más rápido.,
+675,YO JUGAR PARTICIPAR DEPORTIVO-GALEANA,Tengo un partido en el Deportivo Galeana.,YO JUGAR PARTICIPAR DEPORTIVO-GALEANA,Tengo un partido en el Deportivo Galeana.,
+245,MAÑANA YO VIAJAR ÁFRICA,Mañana voy a viajar a África.,MAÑANA YO VIAJAR ÁFRICA,Mañana voy a viajar a África.,
+909,AYER MI HERMANO PASTEL ÉL DAR MÍ,Mi hermano no me dio pastel ayer.,AYER MI HERMANO PASTEL ÉL DAR MÍ,Mi hermano no me dio pastel ayer.,
+927,VECINO ÉL PEDIR MI CARRO MOVER,El vecino me pidió mover mi carro.,VECINO ÉL PEDIR MI CARRO MOVER,El vecino me pidió mover mi carro.,
+368,ALCOHOL YO NO-GUSTAR,A mí no me gusta el alcohol.,ALCOHOL YO NO-GUSTAR,A mí no me gusta el alcohol.,
+768,DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE,Nos vemos mañana en la noche.,DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE,Nos vemos mañana en la noche.,
+26,TODOS IGLESIA GRITAR ¡ALELUYA!,Todos en la iglesia gritan ¡aleluya!,TODOS IGLESIA GRITAR ¡ALELUYA!,Todos en la iglesia gritan ¡aleluya!,
+687,CIUDAD-DE-MÉXICO ENORME,La Ciudad de México es enorme.,CIUDAD-DE-MÉXICO ENORME,La Ciudad de México es enorme.,
+195,MI AMIGO+MUJER MODELO SU REVISTA,Mi amiga es modelo de una revista.,MI AMIGO+MUJER MODELO SU REVISTA,Mi amiga es modelo de una revista.,
+599,JOVEN HOMBRE DEPORTE RAFTING,El deportista de rafting es joven.,JOVEN HOMBRE DEPORTE RAFTING,El deportista de rafting es joven.,
+125,YO YA CONVENCER MI AMIGO IR FIESTA,Convencí a mi amigo de ir a la fiesta.,YO YA CONVENCER MI AMIGO IR FIESTA,Convencí a mi amigo de ir a la fiesta.,
+50,ESCUELA CONSTRUCCIÓN YA AVANZADA,La construcción de la escuela ya está avanzada.,ESCUELA CONSTRUCCIÓN YA AVANZADA,La construcción de la escuela ya está avanzada.,
+65,MAÑANA BARCO YA LLEGAR,El barco llegó en la mañana.,MAÑANA BARCO YA LLEGAR,El barco llegó en la mañana.,
+235,INVIERNO JOSÉ TOS ENFERMAR,José se enfermó de tos en invierno.,INVIERNO JOSÉ TOS ENFERMAR,José se enfermó de tos en invierno.,
+576,SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR,La semana pasada mi papá cortó la hierba con la hoz.,SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR,La semana pasada mi papá cortó la hierba con la hoz.,
+895,SIEMPRE ELLOS DISCUTIR,Ellos siempre discuten.,SIEMPRE ELLOS DISCUTIR,Ellos siempre discuten.,
+227,PIZZA OCHO ELLOS REBANAR,Ellos rebanaron la pizza en ocho partes.,PIZZA OCHO ELLOS REBANAR,Ellos rebanaron la pizza en ocho partes.,
+796,MI HERMANO+MUJER NO NACER TEXAS,Mi hermana no nació en Texas.,MI HERMANO+MUJER NO NACER TEXAS,Mi hermana no nació en Texas.,
+275,YO CONOCER BANGLADESH YA BONITO VERDAD,"Yo conozco Bangladesh, es muy bonito de verdad.",YO CONOCER BANGLADESH YA BONITO VERDAD,"Yo conozco Bangladesh, es muy bonito de verdad.",
+769,ESE VESTIDO FEO YO NO-GUSTAR,"Ese vestido es feo, no me gusta.",ESE VESTIDO FEO YO NO-GUSTAR,"Ese vestido es feo, no me gusta.",
+788,YO IR BANCO DINERO RETIRAR,Voy al banco a retirar dinero.,YO IR BANCO DINERO RETIRAR,Voy al banco a retirar dinero.,
+857,JUAN GABRIEL NACER CIUDAD JUÁREZ,Juan Gabriel nació en Ciudad Juárez.,JUAN GABRIEL NACER CIUDAD JUÁREZ,Juan Gabriel nació en Ciudad Juárez.,
+513,MI NÚMERO TELÉFONO SUSPENDER YA,Ya suspendieron mi número de teléfono.,MI NÚMERO TELÉFONO SUSPENDER YA,Ya suspendieron mi número de teléfono.,
+3,¿Y-ESO?,¿Y eso?,¿Y-ESO?,¿Y eso?,
+404,TUYO SOBRINO ATRÁS MI ESPOSO,Tu sobrino está atrás de mi esposo.,TUYO SOBRINO ATRÁS MI ESPOSO,Tu sobrino está atrás de mi esposo.,
+710,LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA,Nosotros aprendemos gramática en la escuela.,LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA,Nosotros aprendemos gramática en la escuela.,
+253,"TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR","Tú estás embarazada, después vas a amamantar.","TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR","Tú estás embarazada, después vas a amamantar.",
+566,DICIEMBRE MUCHAS PERSONAS ESQUIAR IR,En diciembre muchas personas van a esquiar.,DICIEMBRE MUCHAS PERSONAS ESQUIAR IR,En diciembre muchas personas van a esquiar.,
+558,SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN,Tu esposo siempre me da el avión en todo.,SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN,Tu esposo siempre me da el avión en todo.,
+331,ESE BLANCO GATO RASGUÑAR,Ese gato blanco rasguña.,ESE BLANCO GATO RASGUÑAR,Ese gato blanco rasguña.,
+597,HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES,El gobernador colocó mucha publicidad por las calles.,HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES,El gobernador colocó mucha publicidad por las calles.,
+512,AYER SUÉTER YO COMPRAR,Ayer compré un suéter.,AYER SUÉTER YO COMPRAR,Ayer compré un suéter.,
+614,ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL,Alguna persona que quiera donar sangre puede venir al hospital.,ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL,Alguna persona que quiera donar sangre puede venir al hospital.,
+314,ÉL YA COMPRAR #TV CONTADO,Él compró esa televisión de contado.,ÉL YA COMPRAR #TV CONTADO,Él compró esa televisión de contado.,
+86,TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR,Borré los contactos de mi teléfono.,TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR,Borré los contactos de mi teléfono.,
+944,MI PRIMO ORIZABA VIVIR,Mi primo vive en Orizaba.,MI PRIMO ORIZABA VIVIR,Mi primo vive en Orizaba.,
+880,AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE,Ayer entregué el enganche de mi auto.,AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE,Ayer entregué el enganche de mi auto.,
+379,ALGUNAS PERSONAS ANALFABETO,Algunas personas son analfabetas.,ALGUNAS PERSONAS ANALFABETO,Algunas personas son analfabetas.,
+588,MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER,"Usa maleta de ruedas mejor, no lastima el cuerpo.",MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER,"Usa maleta de ruedas mejor, no lastima el cuerpo.",
+573,HOY YO IR ZOOLOGICO YO VER YA GORILA,Hoy fuí al zoológico y vi un gorila.,HOY YO IR ZOOLOGICO YO VER YA GORILA,Hoy fuí al zoológico y vi un gorila.,
+435,SUEGRO MI PRIMO SAMUEL ÉL CIEGO ÉL,El suegro de mi primo Samuel es ciego.,SUEGRO MI PRIMO SAMUEL ÉL CIEGO ÉL,El suegro de mi primo Samuel es ciego.,
+406,AUSTRÍA SU PAÍS HERMOSO,Austria es un país hermoso.,AUSTRÍA SU PAÍS HERMOSO,Austria es un país hermoso.,
+488,PAN BOLILLO TÚ COMPRAR,Compra pan bolillo.,PAN BOLILLO TÚ COMPRAR,Compra pan bolillo.,
+801,ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR,"Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.",ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR,"Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.",
+798,VAGINA ADENTRO CUERPO ORIGINAL MUJER,La vagina es un órgano femenino.,VAGINA ADENTRO CUERPO ORIGINAL MUJER,La vagina es un órgano femenino.,
+449,YO VIAJAR CONTIGO,Yo no viajo contigo.,YO VIAJAR CONTIGO,Yo no viajo contigo.,
+122,MI GATO ACARICIAR TRANQUILO,"Yo acaricio a mi gato, él es muy tranquilo.",MI GATO ACARICIAR TRANQUILO,"Yo acaricio a mi gato, él es muy tranquilo.",
+424,CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR,En la escuela cada niño tiene una computadora para trabajar.,CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR,En la escuela cada niño tiene una computadora para trabajar.,
+6,NO ABOFETEAR MI,No me abofetees.,NO ABOFETEAR MI,No me abofetees.,
+269,YO ASUSTAR ARAÑAS YO MIEDO,"Me asusto con las arañas, me dan miedo.",YO ASUSTAR ARAÑAS YO MIEDO,"Me asusto con las arañas, me dan miedo.",
+839,MI MAMÁ CATÓLICA,Mi mamá es católica.,MI MAMÁ CATÓLICA,Mi mamá es católica.,
+610,NECESITAR EJERCICIO EJERCICIO PARA SALUD,Es necesario hacer ejercicio para estar sano.,NECESITAR EJERCICIO EJERCICIO PARA SALUD,Es necesario hacer ejercicio para estar sano.,
+916,SIEMPRE MI FAMILIA TELETÓN DONAR DONAR,Mi familia siempre dona a Teletón.,SIEMPRE MI FAMILIA TELETÓN DONAR DONAR,Mi familia siempre dona a Teletón.,
+262,YO NO GUSTAR ARAÑA,A mí no me gustan las arañas.,YO NO GUSTAR ARAÑA,A mí no me gustan las arañas.,
+213,DISFRAZ HACER. PAPEL,El disfraz está hecho de papel,DISFRAZ HACER. PAPEL,El disfraz está hecho de papel,
+306,YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS,Te confundo a ti y a tu mamá porque se parecen.,YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS,Te confundo a ti y a tu mamá porque se parecen.,
+688,HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO,El dueño de esa fábrica fue acusado de enriquecimiento ilícito.,HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO,El dueño de esa fábrica fue acusado de enriquecimiento ilícito.,
+134,HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA,Cristóbal Colón descubrió América hace años.,HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA,Cristóbal Colón descubrió América hace años.,
+679,SUYO SECRETO YO YA DESCUBRIRSE YA,Ya descubrí su secreto.,SUYO SECRETO YO YA DESCUBRIRSE YA,Ya descubrí su secreto.,
+854,MI PAPÁ CINTURÓN YO REGALAR ÉL,Le regalé un cinturón a mi papá.,MI PAPÁ CINTURÓN YO REGALAR ÉL,Le regalé un cinturón a mi papá.,
+61,BANDERA MEXICANA TENER TRES COLORES,La bandera mexicana tiene tres colores.,BANDERA MEXICANA TENER TRES COLORES,La bandera mexicana tiene tres colores.,
+80,PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE,Las personas sordas tienen derecho a una educación bilingüe.,PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE,Las personas sordas tienen derecho a una educación bilingüe.,
+490,YO GUSTAR PAPA,Me gustan las papas.,YO GUSTAR PAPA,Me gustan las papas.,
+19,CITA DOCTOR ESCRIBIR ANOTAR-AGENDA,El doctor anota la cita en la agenda.,CITA DOCTOR ESCRIBIR ANOTAR-AGENDA,El doctor anota la cita en la agenda.,
+93,¡BUENA NOCHE TÚ DESCANSAR!,"¡Buenas noches, que descanses!",¡BUENA NOCHE TÚ DESCANSAR!,"¡Buenas noches, que descanses!",
+530,AYER METRO AMETRALLADORA SOLDADO YO VER,Ayer en el metro vi a un soldado con su ametralladora.,AYER METRO AMETRALLADORA SOLDADO YO VER,Ayer en el metro vi a un soldado con su ametralladora.,
+423,CACAHUATES CON LIMÓN SAL YO ENCANTA COMER,Me encanta comer cacahuates con limón y sal.,CACAHUATES CON LIMÓN SAL YO ENCANTA COMER,Me encanta comer cacahuates con limón y sal.,
+784,POLLO YO QUERER COMER,Quiero comer pollo.,POLLO YO QUERER COMER,Quiero comer pollo.,
+765,TÚ CUIDAR MUCHO MAÑANA VERNOS,"Cuídate mucho, nos vemos mañana.",TÚ CUIDAR MUCHO MAÑANA VERNOS,"Cuídate mucho, nos vemos mañana.",
+849,CHIMENEA TÚ ENCENDERFUEGO,Enciende la chimenea.,CHIMENEA TÚ ENCENDERFUEGO,Enciende la chimenea.,
+846,CHARLES-MICHEL-L´ÉPÉE PADRE SORDO,Charles-Michel de l’Épée es el “Padre de los Sordos”.,CHARLES-MICHEL-L´ÉPÉE PADRE SORDO,Charles-Michel de l’Épée es el “Padre de los Sordos”.,
+265,ESA MÁQUINA FALLA COMPONER NECESITA,"Esa máquina falla mucho, se necesita que la compongan.",ESA MÁQUINA FALLA COMPONER NECESITA,"Esa máquina falla mucho, se necesita que la compongan.",
+630,TÚ SUERTE OJALÁ,Deseo que tengas mucha suerte.,TÚ SUERTE OJALÁ,Deseo que tengas mucha suerte.,
+7,PERSONA ÉL ABOFETEAR MÍ,Esa persona me abofeteó.,PERSONA ÉL ABOFETEAR MÍ,Esa persona me abofeteó.,
+305,MI COMPUTADORA PRENDER NO YO PREOCUPADO,"Mi computadora no prende, estoy preocupado.",MI COMPUTADORA PRENDER NO YO PREOCUPADO,"Mi computadora no prende, estoy preocupado.",
+394,TODO CORREO-ELECTRÓNICO USAR ARROBA,Todos los correos usan arroba.,TODO CORREO-ELECTRÓNICO USAR ARROBA,Todos los correos usan arroba.,
+696,AYER YO YA IR GALERÍA,Ayer fui a la galería.,AYER YO YA IR GALERÍA,Ayer fui a la galería.,
+136,TIENDA CERCA DOS CUADRAS,La tienda más cercana está a dos cuadras.,TIENDA CERCA DOS CUADRAS,La tienda más cercana está a dos cuadras.,
+507,MI HERMANO SUYA NOVIO+MUJER SEPARAR YA,Mi hermano terminó con su novia.,MI HERMANO SUYA NOVIO+MUJER SEPARAR YA,Mi hermano terminó con su novia.,
+69,CÉSAR SU BEBÉ BONITO,El bebé de César es muy bonito.,CÉSAR SU BEBÉ BONITO,El bebé de César es muy bonito.,
+538,HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR,Hoy compré en Wal-Mart una bomba de aire para mi papá.,HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR,Hoy compré en Wal-Mart una bomba de aire para mi papá.,
+561,SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE,Cuando me acabo de bañar siempre me pongo desodorante.,SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE,Cuando me acabo de bañar siempre me pongo desodorante.,
+266,YA ELLOS ARRESTAR ÉL,Ellos lo arrestaron.,YA ELLOS ARRESTAR ÉL,Ellos lo arrestaron.,
+60,AYER BANCO ROCÍO DINERO RETIRAR,Rocío retiró dinero ayer en el banco.,AYER BANCO ROCÍO DINERO RETIRAR,Rocío retiró dinero ayer en el banco.,
+370,¿TÚ CREER TODOS ALMA TENER?,¿Crees que todos tenemos alma?,¿TÚ CREER TODOS ALMA TENER?,¿Crees que todos tenemos alma?,
+901,MAÑANA MI TÍO MUDARSE CASA,Mi tío se mudará de casa mañana.,MAÑANA MI TÍO MUDARSE CASA,Mi tío se mudará de casa mañana.,
+367,"DIARIO ALABANZA DIOS, NOSOTROS HACER",Todos los días hacemos alabanzas a Dios.,"DIARIO ALABANZA DIOS, NOSOTROS HACER",Todos los días hacemos alabanzas a Dios.,
+799,VILLAHERMOSA MUCHO CALOR,En Villahermosa hace mucho calor.,VILLAHERMOSA MUCHO CALOR,En Villahermosa hace mucho calor.,
+359,ADMINISTRACIÓN DELEGACIÓN ELLOS IR,Ellos fueron a la administración de la delegación.,ADMINISTRACIÓN DELEGACIÓN ELLOS IR,Ellos fueron a la administración de la delegación.,
+967,YO NO-FUI VIDRIO ROMPER ROMPER,Yo no fui el que rompió el vidrio.,YO NO-FUI VIDRIO ROMPER ROMPER,Yo no fui el que rompió el vidrio.,
+230,SEÑORA MARÍA TENER COCINA,La señora María tiene una cocina.,SEÑORA MARÍA TENER COCINA,La señora María tiene una cocina.,
+690,YO CREER ESPÍRITU SANTO,Yo creo en el Espíritu Santo.,YO CREER ESPÍRITU SANTO,Yo creo en el Espíritu Santo.,
+113,TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER,Todos los productos se etiquetan con un código de barras.,TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER,Todos los productos se etiquetan con un código de barras.,
+881,HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO,Enrique Peña Nieto fue gobernador del Estado de México.,HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO,Enrique Peña Nieto fue gobernador del Estado de México.,
+403,COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE,Mi amiga se inscribió en una competencia de atletismo.,COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE,Mi amiga se inscribió en una competencia de atletismo.,
+465,ANTES CANCÚN IDA-Y-VENIR,Fui a Cancún de ida y vuelta.,ANTES CANCÚN IDA-Y-VENIR,Fui a Cancún de ida y vuelta.,
+295,YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR,Me duele la espalda porque ayer cargué un mueble.,YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR,Me duele la espalda porque ayer cargué un mueble.,
+365,JUGUETE MI AHIJADO YO REGALAR ÉL YA,Le regalé un juguete a mi ahijado.,JUGUETE MI AHIJADO YO REGALAR ÉL YA,Le regalé un juguete a mi ahijado.,
+911,TÚ NO PREOCUPAR DEJARLO-ASÍ,"No te preocupes, déjalo así.",TÚ NO PREOCUPAR DEJARLO-ASÍ,"No te preocupes, déjalo así.",
+803,MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR,Mañana Juan y yo nos acompañaremos al trabajo.,MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR,Mañana Juan y yo nos acompañaremos al trabajo.,
+716,COLOR GRIS YO GUSTAR,Me gusta el color gris.,COLOR GRIS YO GUSTAR,Me gusta el color gris.,
+525,TODO AFORTUNADO,Tú eres muy afortunado en todo.,TODO AFORTUNADO,Tú eres muy afortunado en todo.,
+885,NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS,Terminamos como amigos.,NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS,Terminamos como amigos.,
+340,¡AY! SORPRESA AQUÍ YO VER TI,¡Ay! qué sorpresa verte aquí.,¡AY! SORPRESA AQUÍ YO VER TI,¡Ay! qué sorpresa verte aquí.,
+962,CAMPESINO MAÍZ SEMBRAR,El campesino siembra maíz.,CAMPESINO MAÍZ SEMBRAR,El campesino siembra maíz.,
+84,DAVID SU PAPÁ BOMBERO,El papá de David es bombero.,DAVID SU PAPÁ BOMBERO,El papá de David es bombero.,
+676,MAÑANA YO DINERO DEPOSITAR BANCO,Mañana voy a depositar el dinero en el banco.,MAÑANA YO DINERO DEPOSITAR BANCO,Mañana voy a depositar el dinero en el banco.,
+400,FILIPINAS SUYO ASIA,Filipinas está en Asia.,FILIPINAS SUYO ASIA,Filipinas está en Asia.,
+790,TÚ DEBER SEGUIR ESTUDIAR,Debes seguir estudiando.,TÚ DEBER SEGUIR ESTUDIAR,Debes seguir estudiando.,
+369,DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS,Mi vecino va diario a Alcohólicos Anónimos.,DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS,Mi vecino va diario a Alcohólicos Anónimos.,
+976,HERMANO ÚLTIMO DOCTOR-DIENTES,Mi hermano menor es dentista.,HERMANO ÚLTIMO DOCTOR-DIENTES,Mi hermano menor es dentista.,
+836,ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI,¿Quién fue el presidente de México? Carlos Salinas de Gortari.,ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI,¿Quién fue el presidente de México? Carlos Salinas de Gortari.,
+304,¿DÓNDE TUYO CÓMPLICE DÓNDE?,¿Dónde está tu cómplice?,¿DÓNDE TUYO CÓMPLICE DÓNDE?,¿Dónde está tu cómplice?,
+469,ISLANDIA DÓNDE LUGAR EUROPA,Islandia se encuentra en Europa.,ISLANDIA DÓNDE LUGAR EUROPA,Islandia se encuentra en Europa.,
+62,BANDERA CAER MIENTRAS CEREMONIA,La bandera se cayó durante la ceremonia.,BANDERA CAER MIENTRAS CEREMONIA,La bandera se cayó durante la ceremonia.,
+453,YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA,"Yo lo conozco bien, me consta.",YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA,"Yo lo conozco bien, me consta.",
+899,JABÓN BURBUJAS,El jabón hace burbujas.,JABÓN BURBUJAS,El jabón hace burbujas.,
+875,CRISTIANA YO CREER FE,Yo creo en la fe cristiana.,CRISTIANA YO CREER FE,Yo creo en la fe cristiana.,
+652,AMETRALLADORA DIFERENTE YO NO-GUSTAR,A mí no me gustan las ametralladoras.,AMETRALLADORA DIFERENTE YO NO-GUSTAR,A mí no me gustan las ametralladoras.,
+18,NOSOTROS IR JUGAR AFUERA,Vamos a jugar afuera.,NOSOTROS IR JUGAR AFUERA,Vamos a jugar afuera.,
+206,ALBERCA YO NADAR,Yo nado en la alberca.,ALBERCA YO NADAR,Yo nado en la alberca.,
+5,PERRO DEBAJO MESA,El perro está debajo de la mesa.,PERRO DEBAJO MESA,El perro está debajo de la mesa.,
+692,METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR,La línea 12 del metro tuvo un gran fallo estructural.,METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR,La línea 12 del metro tuvo un gran fallo estructural.,
+497,HOMBRE MUJERIEGO MUCHO,Hay muchos hombres mujeriegos.,HOMBRE MUJERIEGO MUCHO,Hay muchos hombres mujeriegos.,
+519,NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!,"Ganamos el partido de futbol, ¡viva!",NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!,"Ganamos el partido de futbol, ¡viva!",
+131,JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER,El muchacho corteja a su novia.,JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER,El muchacho corteja a su novia.,
+888,¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?,¿Cuántos sordos hay en México?,¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?,¿Cuántos sordos hay en México?,
+97,MI HERMANO BICICLETA ÉL CAER,Mi hermano se cayó de la bicicleta.,MI HERMANO BICICLETA ÉL CAER,Mi hermano se cayó de la bicicleta.,
+738,LEGISLADOR YA PROPONER NUEVA LEY LSM,El legislador propuso una nueva ley de LSM.,LEGISLADOR YA PROPONER NUEVA LEY LSM,El legislador propuso una nueva ley de LSM.,
+622,VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO,"Entrega el trámite en la ventanilla de gobierno, deben poner un sello.",VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO,"Entrega el trámite en la ventanilla de gobierno, deben poner un sello.",
+190,MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA,"María ganó la lotería, ahora es millonaria.",MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA,"María ganó la lotería, ahora es millonaria.",
+862,MAÑANA COMBI YO IR A MI CASA,Mañana me iré en combi a mi casa.,MAÑANA COMBI YO IR A MI CASA,Mañana me iré en combi a mi casa.,
+728,TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR,Debes mostrar tu INE para poder pasar.,TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR,Debes mostrar tu INE para poder pasar.,
+273,¿DÓNDE BALÓN DÓNDE?,¿Dónde hay un balón?,¿DÓNDE BALÓN DÓNDE?,¿Dónde hay un balón?,
+472,FÁCIL APRENDER LETRA ABECEDARIO,Es fácil aprender las letras del abecedario.,FÁCIL APRENDER LETRA ABECEDARIO,Es fácil aprender las letras del abecedario.,
+260,"APENAS, YO VER TI",Apenas te vi (hace poco).,"APENAS, YO VER TI",Apenas te vi (hace poco).,
+557,"AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR",Josefina y Alberto jugaron dados ayer.,"AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR",Josefina y Alberto jugaron dados ayer.,
+280,SÍ YO GUSTAR JUGAR BOLICHE,A mí sí me gusta jugar boliche.,SÍ YO GUSTAR JUGAR BOLICHE,A mí sí me gusta jugar boliche.,
+168,FRECUENTEMENTE YO IR CINE,Frecuentemente voy al cine.,FRECUENTEMENTE YO IR CINE,Frecuentemente voy al cine.,
+282,YO VER BIEN YO BORROSO,"No veo bien, veo borroso.",YO VER BIEN YO BORROSO,"No veo bien, veo borroso.",
+906,REFRIGERADOR HABER COMIDA CADUCADA,En el refrigerador hay comida caducada.,REFRIGERADOR HABER COMIDA CADUCADA,En el refrigerador hay comida caducada.,
+853,DECIR CHISME DIRECTOR ESO NO CIERTO,El rumor sobre el director no era cierto.,DECIR CHISME DIRECTOR ESO NO CIERTO,El rumor sobre el director no era cierto.,
+297,ELLA LLORAR PORQUE CEBOLLA PICAR,Ella llora porque pica cebolla.,ELLA LLORAR PORQUE CEBOLLA PICAR,Ella llora porque pica cebolla.,
+832,UNA-VEZ MAÑANA FIESTA CANTAR,Mañana sólo cantaré una canción en la fiesta,UNA-VEZ MAÑANA FIESTA CANTAR,Mañana sólo cantaré una canción en la fiesta,
+761,NUESTRA CITA LUGAR TAXQUEÑA,Nuestra cita es en Taxqueña.,NUESTRA CITA LUGAR TAXQUEÑA,Nuestra cita es en Taxqueña.,
+617,SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO,La secretaria está capturando la carta.,SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO,La secretaria está capturando la carta.,
+139,MI AMIGO RODOLFO DADIVOSO,Mi amigo Rodolfo es muy dadivoso.,MI AMIGO RODOLFO DADIVOSO,Mi amigo Rodolfo es muy dadivoso.,
+643,NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER,Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.,NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER,Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.,
+355,NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA,Nosotros tenemos muchas actividades en la escuela.,NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA,Nosotros tenemos muchas actividades en la escuela.,
+528,ALGUIEN ÉL AYUDAR MÍ,Algunas personas son voluntarias en la Cruz Roja.,ALGUIEN ÉL AYUDAR MÍ,Algunas personas son voluntarias en la Cruz Roja.,
+37,MAESTRO ALUMNOS REUNIÓN APARTE,El maestro se reunió aparte con sus alumnos.,MAESTRO ALUMNOS REUNIÓN APARTE,El maestro se reunió aparte con sus alumnos.,
+868,AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ,Ayer me dieron la constancia de la secundaria.,AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ,Ayer me dieron la constancia de la secundaria.,
+671,ESA PERSONA COLMILLO TÚ CUIDAR,"Esa persona es astuta, ten cuidado.",ESA PERSONA COLMILLO TÚ CUIDAR,"Esa persona es astuta, ten cuidado.",
+301,JUGUETE CARRO YO GUSTAR COLECCIONAR,Me gusta coleccionar carros de juguete.,JUGUETE CARRO YO GUSTAR COLECCIONAR,Me gusta coleccionar carros de juguete.,
