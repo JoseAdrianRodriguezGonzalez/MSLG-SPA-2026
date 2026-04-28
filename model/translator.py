@@ -5,6 +5,7 @@ class MSLGTranslator:
         self.tokenizer=T5Tokenizer.from_pretrained(model_name)
         self.model=T5ForConditionalGeneration.from_pretrained(model_name)
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+        self.model.to(self.device)
     def preprocess(self,text):
         return text.strip()
     def _generate(self,text,max_len=64,beams=4):

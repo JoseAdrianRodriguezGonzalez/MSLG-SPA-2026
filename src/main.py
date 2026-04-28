@@ -11,6 +11,7 @@ def dock(args):
     tokenizer=model.tokenizer
     train_ds=train_ds.map(lambda x: tokenize_function(x,tokenizer),batched=True)
     val_ds=val_ds.map(lambda x: tokenize_function(x,tokenizer),batched=True)
+    test_ds=test_ds.map(lambda x: tokenize_function(x,tokenizer),batched=True)
     collator=get_collator(tokenizer,model)
 
     trainer=build_trainer(model=model.model,
