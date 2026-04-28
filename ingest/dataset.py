@@ -14,15 +14,18 @@ def build_multitask(df):
     df_spa_mslg = pd.DataFrame({
         "input_text": df["SPA"],
         "target_text": df["MSLG"],
-        "task": "spa-mslg"
+        "task": "spa-mslg",
+        "split":df["split"]
     })
     df_mslg_spa = pd.DataFrame({
         "input_text": df["MSLG"],
         "target_text": df["SPA"],
-        "task": "mslg-spa"
+        "task": "mslg-spa",
+        "split":df["split"]
     })
     return  pd.concat([df_spa_mslg, df_mslg_spa], ignore_index=True)
 def df_to_hf_datasets(df):
     train=Dataset.from_pandas(df[df["split"]=="train"])
     val=Dataset.from_pandas(df[df["split"]=="val"])
     test=Dataset.from_pandas(df[df["split"]=="test"])
+    return train,val,test
