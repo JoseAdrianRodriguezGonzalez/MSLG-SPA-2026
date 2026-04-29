@@ -6,7 +6,7 @@ def build_trainer(model, train_dataset, val_dataset, collator, compute_metrics):
         save_strategy="epoch",
         learning_rate=3e-4,
         per_device_train_batch_size=8,
-        num_train_epochs=10,
+        num_train_epochs=15,
         predict_with_generate=True,
         generation_max_length=64,
         generation_num_beams=4,
