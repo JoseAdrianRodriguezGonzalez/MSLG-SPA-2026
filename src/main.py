@@ -25,7 +25,8 @@ def dock(args):
     trainer.train()
     print("[INFO] resultados")
     results=trainer.evaluate(test_ds)
-    print(f"[INFO] iGaurdo en {args.output_dir}")
-    trainer.save_model(args.output_dir)
+    out_dir= args.output_dir if args.flag else args.output_dir_1
+    print(f"[INFO] iGaurdo en {out_dir}")
+    trainer.save_model(out_dir)
     print(results)
     return results
