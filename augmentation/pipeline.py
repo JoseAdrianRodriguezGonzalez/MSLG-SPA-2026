@@ -8,6 +8,7 @@ def augment_df(df, ft_model_path=None):
     rows = []
 
     for _, row in df.iterrows():
+        row=row.to_dict()
         src = row["input_text"]
         task = row["task"]
         rows.append(row)

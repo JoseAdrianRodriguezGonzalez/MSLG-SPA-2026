@@ -1,0 +1,886 @@
+[
+  {
+    "SPA": "ayer entregué el enganche de mi auto",
+    "MSLG": "AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE"
+  },
+  {
+    "SPA": "en la bandera mexicana tiene tres colores",
+    "MSLG": "BANDERA MEXICANA TRES TENER COLORES"
+  },
+  {
+    "SPA": "a m no me gustan las ametralladoras",
+    "MSLG": "AMETRALLADORA DIFERENTE YO NO-GUSTAR"
+  },
+  {
+    "SPA": "en la madrugada escuché una explosión",
+    "MSLG": "MADRUGADA EXPLOSIÓN YO ESCUCHAR"
+  },
+  {
+    "SPA": "la próxima conferencia será en monterrey",
+    "MSLG": "PRÓXIMO CONFERENCIA LUGAR MONTERREY"
+  },
+  {
+    "SPA": "el persona me abofeteó",
+    "MSLG": "PERSONA ÉL ABOFETEAR MÍ"
+  },
+  {
+    "SPA": "eso es muy bonito s me gusta",
+    "MSLG": "ESO BONITO YO SÍ GUSTAR"
+  },
+  {
+    "SPA": "el persona me abofeteó",
+    "MSLG": "PERSONA ÉL ABOFETEAR MÍ"
+  },
+  {
+    "SPA": "ayer mi primo conquistó a mi amiga en el cine",
+    "MSLG": "AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER"
+  },
+  {
+    "SPA": "mi amiga y su novio van los sábados al casino",
+    "MSLG": "TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR"
+  },
+  {
+    "SPA": "mi papá llena el formato para tramitar su licencia de manejo",
+    "MSLG": "MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR"
+  },
+  {
+    "SPA": "el polvo yo estornudo mucho",
+    "MSLG": "POLVO YO MUCHO ESTORNUDAR"
+  },
+  {
+    "SPA": "el nio siempre tiene sueo",
+    "MSLG": "SIEMPRE NIÑO SUEÑO"
+  },
+  {
+    "SPA": "ayer compré una coca cola",
+    "MSLG": "AYER COCA-COLA YO COMPRAR"
+  },
+  {
+    "SPA": "la seora tiene cocina",
+    "MSLG": "SEÑORA MARÍA TENER COCINA"
+  },
+  {
+    "SPA": "ayer compré un suéter",
+    "MSLG": "AYER SUÉTER YO COMPRAR"
+  },
+  {
+    "SPA": "ayer mi mamá preparó atole",
+    "MSLG": "AYER MAMÁ PREPARAR ATOLE"
+  },
+  {
+    "SPA": "ayer fui a pasear y me senti muy bien",
+    "MSLG": "AYER YO PASEAR SENTIR BIEN"
+  },
+  {
+    "SPA": "el cuando me acabo de baar siempre me pongo desodorante",
+    "MSLG": "SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE"
+  },
+  {
+    "SPA": "el cuando me acabo de baar siempre me pongo desodorante",
+    "MSLG": "SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE"
+  },
+  {
+    "SPA": "la seora tiene cocina",
+    "MSLG": "SEÑORA MARÍA TENER COCINA"
+  },
+  {
+    "SPA": "el hijo de mi vecino siempre es muy desobediente",
+    "MSLG": "SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER"
+  },
+  {
+    "SPA": "la bandera mexicana tiene tres colores",
+    "MSLG": "BANDERA MEXICANA TENER TRES COLORES"
+  },
+  {
+    "SPA": "el amigo de juana es árabe",
+    "MSLG": "JUANA SU AMIGO ÁRABE"
+  },
+  {
+    "SPA": "el parque de azcapotzalco es muy nosotros",
+    "MSLG": "PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR"
+  },
+  {
+    "SPA": "mi generación se graduó el ao pasado",
+    "MSLG": "AÑO-PASADO MI GENERACIÓN GRADUAR"
+  },
+  {
+    "SPA": "en la biblia está el nombre de adán",
+    "MSLG": "BIBLIA DENTRO ADÁN NOMBRE HABER"
+  },
+  {
+    "SPA": "el capitán del barco es muy inteligente",
+    "MSLG": "BARCO CAPITÁN ÉL INTELIGENTE"
+  },
+  {
+    "SPA": "la próxima conferencia será en monterrey",
+    "MSLG": "PRÓXIMO CONFERENCIA LUGAR MONTERREY"
+  },
+  {
+    "SPA": "ayer mi hermano lavó su ropa sucia",
+    "MSLG": "AYER SU ROPA SUCIA MI HERMANO LAVAR"
+  },
+  {
+    "SPA": "la semana pasada mi papá cortó la hierba con la hoz",
+    "MSLG": "SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR"
+  },
+  {
+    "SPA": "sara encontró muchas almejas en el mar",
+    "MSLG": "SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR"
+  },
+  {
+    "SPA": "el sapo se convirtió en prncipe",
+    "MSLG": "SAPO YA CONVERTIR PERSONA PRÍNCIPE"
+  },
+  {
+    "SPA": "el próximo vacaciones iré de viaje a ciudad obregón",
+    "MSLG": "PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN"
+  },
+  {
+    "SPA": "mi generación se graduó el ao pasado",
+    "MSLG": "AÑO-PASADO MI GENERACIÓN GRADUAR"
+  },
+  {
+    "SPA": "el ao pasado terminé la universidad",
+    "MSLG": "AÑO-PASADO UNIVERSIDAD YO TERMINAR"
+  },
+  {
+    "SPA": "la semana pasada fui a plaza universidad",
+    "MSLG": "SEMANA PASADA, YO IR PLAZA UNIVERSIDAD"
+  },
+  {
+    "SPA": "en la madrugada escuché una explosión",
+    "MSLG": "MADRUGADA EXPLOSIÓN YO ESCUCHAR"
+  },
+  {
+    "SPA": "mi hermana se casa el próximo domingo",
+    "MSLG": "PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR"
+  },
+  {
+    "SPA": "el hijo de mi vecino siempre es muy desobediente",
+    "MSLG": "SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER"
+  },
+  {
+    "SPA": "en la biblia está el nombre de adán",
+    "MSLG": "BIBLIA DENTRO ADÁN HABER NOMBRE"
+  },
+  {
+    "SPA": "ayer compré una coca cola",
+    "MSLG": "AYER COCA-COLA YO COMPRAR"
+  },
+  {
+    "SPA": "el regalé un juguete a mi ahijado",
+    "MSLG": "JUGUETE MI AHIJADO YO REGALAR ÉL YA"
+  },
+  {
+    "SPA": "el persona me abofeteó",
+    "MSLG": "PERSONA ÉL ABOFETEAR MÍ"
+  },
+  {
+    "SPA": "la semana pasada fui a plaza universidad",
+    "MSLG": "SEMANA PASADA, PLAZA IR UNIVERSIDAD YO"
+  },
+  {
+    "SPA": "la bandera mexicana tiene tres colores",
+    "MSLG": "BANDERA MEXICANA TENER TRES COLORES"
+  },
+  {
+    "SPA": "él abandonó a su hijo",
+    "MSLG": "SU HIJO ÉL ABANDONAR"
+  },
+  {
+    "SPA": "má mamá me compró un calzón",
+    "MSLG": "MÍ MAMÁ COMPRAR CALZÓN"
+  },
+  {
+    "SPA": "mi hijo reprobó el sexto de primaria",
+    "MSLG": "SEXTO-PRIMARIA MI HIJO YA REPROBAR"
+  },
+  {
+    "SPA": "la almohada es muy cómoda para dormir",
+    "MSLG": "ALMOHADA CÓMODA ALMOHADA PARA DORMIR"
+  },
+  {
+    "SPA": "la almohada es muy cómoda para dormir",
+    "MSLG": "ALMOHADA CÓMODA ALMOHADA PARA DORMIR"
+  },
+  {
+    "SPA": "a m no me gustan las ametralladoras",
+    "MSLG": "AMETRALLADORA DIFERENTE NO-GUSTAR YO"
+  },
+  {
+    "SPA": "a m no me gustan las ametralladoras",
+    "MSLG": "AMETRALLADORA DIFERENTE YO NO-GUSTAR"
+  },
+  {
+    "SPA": "mi generación se graduó el ao pasado",
+    "MSLG": "AÑO-PASADO MI GENERACIÓN GRADUAR"
+  },
+  {
+    "SPA": "mi hijo reprobó el sexto de primaria",
+    "MSLG": "SEXTO-PRIMARIA MI HIJO YA REPROBAR"
+  },
+  {
+    "SPA": "la seora tiene cocina",
+    "MSLG": "SEÑORA MARÍA TENER COCINA"
+  },
+  {
+    "SPA": "la próxima conferencia será en monterrey",
+    "MSLG": "PRÓXIMO CONFERENCIA LUGAR MONTERREY"
+  },
+  {
+    "SPA": "el egipcio no respondió",
+    "MSLG": "HOMBRE EGIPCIO NO RESPONDER"
+  },
+  {
+    "SPA": "el ao pasado terminé la universidad",
+    "MSLG": "AÑO-PASADO UNIVERSIDAD YO TERMINAR"
+  },
+  {
+    "SPA": "el cuando me acabo de baar siempre me pongo desodorante",
+    "MSLG": "SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE"
+  },
+  {
+    "SPA": "má mamá me compró un calzón",
+    "MSLG": "MÍ MAMÁ COMPRAR CALZÓN"
+  },
+  {
+    "SPA": "tomás fue un apóstol de jess",
+    "MSLG": "TOMÁS APÓSTOL JESÚS"
+  },
+  {
+    "SPA": "ayer mi primo conquistó a mi amiga en el cine",
+    "MSLG": "AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER"
+  },
+  {
+    "SPA": "sara encontró muchas almejas en el mar",
+    "MSLG": "SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR"
+  },
+  {
+    "SPA": "el nio siempre tiene sueo",
+    "MSLG": "SIEMPRE NIÑO SUEÑO"
+  },
+  {
+    "SPA": "el domingo me iré a confesar a la iglesia",
+    "MSLG": "DOMINGO IGLESIA YO IR CONFESAR YO"
+  },
+  {
+    "SPA": "la semana pasada mi papá cortó la hierba con la hoz",
+    "MSLG": "SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR"
+  },
+  {
+    "SPA": "ayer mi hermano lavó su ropa sucia",
+    "MSLG": "AYER SU ROPA SUCIA MI HERMANO LAVAR"
+  },
+  {
+    "SPA": "en la iglesia hay una campana muy grande",
+    "MSLG": "IGLESIA CAMPANA GRANDE"
+  },
+  {
+    "SPA": "él abandonó a su hijo",
+    "MSLG": "SU HIJO ÉL ABANDONAR"
+  },
+  {
+    "SPA": "hoy fu al zoológico y vi un gorila",
+    "MSLG": "HOY YO IR ZOOLOGICO YO VER YA GORILA"
+  },
+  {
+    "SPA": "mi familia siempre dona a teletón",
+    "MSLG": "SIEMPRE MI FAMILIA TELETÓN DONAR DONAR"
+  },
+  {
+    "SPA": "ayer mi primo conquistó a mi amiga en el cine",
+    "MSLG": "AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER"
+  },
+  {
+    "SPA": "mi hermana se casa el próximo domingo",
+    "MSLG": "PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR"
+  },
+  {
+    "SPA": "yo vivo en la álvaro obregón",
+    "MSLG": "ÁLVARO OBREGÓN YO VIVIR"
+  },
+  {
+    "SPA": "ayer fui a pasear y me senti muy bien",
+    "MSLG": "AYER YO PASEAR SENTIR BIEN"
+  },
+  {
+    "SPA": "mi amiga y su novio van los sábados al casino",
+    "MSLG": "TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR"
+  },
+  {
+    "SPA": "hoy fu al zoológico y vi un gorila",
+    "MSLG": "HOY YO IR ZOOLOGICO YO VER YA GORILA"
+  },
+  {
+    "SPA": "el sácil aprender las letras del abecedario",
+    "MSLG": "FÁCIL APRENDER LETRA ABECEDARIO"
+  },
+  {
+    "SPA": "ayer entregué el enganche de mi auto",
+    "MSLG": "AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE"
+  },
+  {
+    "SPA": "mi hijo reprobó el sexto de primaria",
+    "MSLG": "SEXTO-PRIMARIA MI YA HIJO REPROBAR"
+  },
+  {
+    "SPA": "ayer mi hermano lavó su ropa sucia",
+    "MSLG": "AYER SU ROPA SUCIA MI HERMANO LAVAR"
+  },
+  {
+    "SPA": "ayer compré un suéter",
+    "MSLG": "AYER SUÉTER YO COMPRAR"
+  },
+  {
+    "SPA": "tomás fue un apóstol de jess",
+    "MSLG": "TOMÁS APÓSTOL JESÚS"
+  },
+  {
+    "SPA": "en la iglesia hay una campana muy grande",
+    "MSLG": "IGLESIA CAMPANA GRANDE"
+  },
+  {
+    "SPA": "el regalé un juguete a mi ahijado",
+    "MSLG": "JUGUETE MI AHIJADO YO REGALAR ÉL YA"
+  },
+  {
+    "SPA": "ayer mi ti san francisco ya llegó",
+    "MSLG": "AYER MI TIO SAN FRANCISCO YA LLEGAR"
+  },
+  {
+    "SPA": "el polvo yo estornudo mucho",
+    "MSLG": "POLVO YO MUCHO ESTORNUDAR"
+  },
+  {
+    "SPA": "él abandonó a su hijo",
+    "MSLG": "SU HIJO ÉL ABANDONAR"
+  },
+  {
+    "SPA": "en la madrugada escuché una explosión",
+    "MSLG": "MADRUGADA EXPLOSIÓN YO ESCUCHAR"
+  },
+  {
+    "SPA": "el sácil aprender las letras del abecedario",
+    "MSLG": "FÁCIL APRENDER LETRA ABECEDARIO"
+  },
+  {
+    "SPA": "el capitán del barco es muy inteligente",
+    "MSLG": "BARCO CAPITÁN ÉL INTELIGENTE"
+  },
+  {
+    "SPA": "la almohada es muy cómoda para dormir",
+    "MSLG": "ALMOHADA CÓMODA ALMOHADA PARA DORMIR"
+  },
+  {
+    "SPA": "tomás fue un apóstol de jess",
+    "MSLG": "TOMÁS APÓSTOL JESÚS"
+  },
+  {
+    "SPA": "má mamá me compró un calzón",
+    "MSLG": "MÍ MAMÁ COMPRAR CALZÓN"
+  },
+  {
+    "SPA": "sara encontró muchas almejas en el mar",
+    "MSLG": "SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR"
+  },
+  {
+    "SPA": "el sácil aprender las letras del abecedario",
+    "MSLG": "FÁCIL APRENDER LETRA ABECEDARIO"
+  },
+  {
+    "SPA": "la semana pasada ped un aventón a la caseta",
+    "MSLG": "SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA"
+  },
+  {
+    "SPA": "la semana pasada ped un aventón a la caseta",
+    "MSLG": "SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA"
+  },
+  {
+    "SPA": "mi papá llena el formato para tramitar su licencia de manejo",
+    "MSLG": "MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR"
+  },
+  {
+    "SPA": "la semana pasada fui a plaza universidad",
+    "MSLG": "SEMANA PASADA, YO IR PLAZA UNIVERSIDAD"
+  },
+  {
+    "SPA": "el egipcio no respondió",
+    "MSLG": "HOMBRE EGIPCIO NO RESPONDER"
+  },
+  {
+    "SPA": "ayer compré un suéter",
+    "MSLG": "AYER SUÉTER YO COMPRAR"
+  },
+  {
+    "SPA": "yo vivo en la álvaro obregón",
+    "MSLG": "ÁLVARO OBREGÓN YO VIVIR"
+  },
+  {
+    "SPA": "ayer entregué el enganche de mi auto",
+    "MSLG": "AYER MI AUTOMÓVIL ENTREGAR-ENGANCHE YO"
+  },
+  {
+    "SPA": "el capitán del barco es muy inteligente",
+    "MSLG": "BARCO CAPITÁN ÉL INTELIGENTE"
+  },
+  {
+    "SPA": "el amigo de juana es árabe",
+    "MSLG": "JUANA SU AMIGO ÁRABE"
+  },
+  {
+    "SPA": "el próximo vacaciones iré de viaje a ciudad obregón",
+    "MSLG": "PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN"
+  },
+  {
+    "SPA": "el nio siempre tiene sueo",
+    "MSLG": "SIEMPRE NIÑO SUEÑO"
+  },
+  {
+    "SPA": "el ao pasado terminé la universidad",
+    "MSLG": "AÑO-PASADO UNIVERSIDAD YO TERMINAR"
+  },
+  {
+    "SPA": "el parque de azcapotzalco es muy nosotros",
+    "MSLG": "PARQUE ADENTRO AZCAPOTZALCO IR NOSOTROS"
+  },
+  {
+    "SPA": "eso es muy bonito s me gusta",
+    "MSLG": "ESO BONITO SÍ YO GUSTAR"
+  },
+  {
+    "SPA": "mi papá llena el formato para tramitar su licencia de manejo",
+    "MSLG": "MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR"
+  },
+  {
+    "SPA": "la semana pasada compré cinta canela en el centro",
+    "MSLG": "SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO"
+  },
+  {
+    "SPA": "el sapo se convirtió en prncipe",
+    "MSLG": "SAPO YA CONVERTIR PERSONA PRÍNCIPE"
+  },
+  {
+    "SPA": "en la iglesia hay una campana muy grande",
+    "MSLG": "IGLESIA CAMPANA GRANDE"
+  },
+  {
+    "SPA": "eso es muy bonito s me gusta",
+    "MSLG": "ESO BONITO SÍ YO GUSTAR"
+  },
+  {
+    "SPA": "en la biblia está el nombre de adán",
+    "MSLG": "BIBLIA DENTRO ADÁN NOMBRE HABER"
+  },
+  {
+    "SPA": "mi familia siempre dona a teletón",
+    "MSLG": "SIEMPRE MI FAMILIA TELETÓN DONAR DONAR"
+  },
+  {
+    "SPA": "ayer mi ti san francisco ya llegó",
+    "MSLG": "AYER MI TIO SAN FRANCISCO YA LLEGAR"
+  },
+  {
+    "SPA": "el parque de azcapotzalco es muy nosotros",
+    "MSLG": "PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR"
+  },
+  {
+    "SPA": "ayer mi mamá preparó atole",
+    "MSLG": "AYER MAMÁ PREPARAR ATOLE"
+  },
+  {
+    "SPA": "el amigo de juana es árabe",
+    "MSLG": "JUANA SU AMIGO ÁRABE"
+  },
+  {
+    "SPA": "mi hermana se casa el próximo domingo",
+    "MSLG": "PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR"
+  },
+  {
+    "SPA": "la semana pasada compré cinta canela en el centro",
+    "MSLG": "SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO"
+  },
+  {
+    "SPA": "hoy fu al zoológico y vi un gorila",
+    "MSLG": "HOY YO IR ZOOLOGICO YO VER YA GORILA"
+  },
+  {
+    "SPA": "ayer fui a pasear y me senti muy bien",
+    "MSLG": "AYER YO PASEAR SENTIR BIEN"
+  },
+  {
+    "SPA": "el domingo me iré a confesar a la iglesia",
+    "MSLG": "DOMINGO IGLESIA YO IR CONFESAR YO"
+  },
+  {
+    "SPA": "ayer compré una coca cola",
+    "MSLG": "AYER COCA-COLA YO COMPRAR"
+  },
+  {
+    "SPA": "el domingo me iré a confesar a la iglesia",
+    "MSLG": "DOMINGO IGLESIA YO IR CONFESAR YO"
+  },
+  {
+    "SPA": "el perro tiene mucha sed",
+    "MSLG": "Spanish to mslg: PERRO TENER MUCHO SED"
+  },
+  {
+    "SPA": "el domingo me iré a confesar a la iglesia",
+    "MSLG": "DOMINGO IGLESIA YO IR CONFESAR YO"
+  },
+  {
+    "SPA": "cuando le acabo de bañarse simpre me pongo desodorante",
+    "MSLG": "SIEMPRE CUANDO ACABAR BAAR YO PONER-DESODORANTE"
+  },
+  {
+    "SPA": "yo gané el campeonato",
+    "MSLG": "Spanish to mslg: YO YA GANAR CAMPEONATO"
+  },
+  {
+    "SPA": "ayer mi papá preparó atole",
+    "MSLG": "AYER MAM PREPARAR ATOLE"
+  },
+  {
+    "SPA": "mi familia siempre dona a teletón",
+    "MSLG": "SIEMPRE MI FAMILIA TELETN DONAR DONAR"
+  },
+  {
+    "SPA": "sara encontró muchas almejas en el mar",
+    "MSLG": "SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR"
+  },
+  {
+    "SPA": "edgar es maestro",
+    "MSLG": "Spanish to mslg: EDGAR MAESTRO"
+  },
+  {
+    "SPA": "ayer perdí mi liga",
+    "MSLG": "AYER MI LIGUE YO PERDER"
+  },
+  {
+    "SPA": "la medicina es una carrera que exige concentración",
+    "MSLG": "Spanish-to-mslg: medicina es una carrera que exige concentración"
+  },
+  {
+    "SPA": "te confundo a ti y a tu mamá porque se parecen",
+    "MSLG": "YO CONFUNDIR TI TU MAM PORQUE SE PARECIDAR"
+  },
+  {
+    "SPA": "cuando me acabo de bañar siempre me pongo desodorante",
+    "MSLG": "SIEMPRE CUANDO ACABAR BAAR YO PONER-DESODORANTE"
+  },
+  {
+    "SPA": "mi primo ganó medalla de oro en el maratón",
+    "MSLG": "MARATN MI PRIMO MEDALLA ORO YA GANAR"
+  },
+  {
+    "SPA": "¡ay qué sorpresa verte aquí",
+    "MSLG": "AY! SORPRESA AQU YO VER"
+  },
+  {
+    "SPA": "la semana pasada pedi un aventón a la caseta",
+    "MSLG": "SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA"
+  },
+  {
+    "SPA": "en suiza se hablan diferentes idiomas",
+    "MSLG": "SUIZA DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE"
+  },
+  {
+    "SPA": "las próximas vacaciones iré de viaje a ciudad obregón",
+    "MSLG": "PRXIMO VACACIONES IR CIUDAD-OBREGN"
+  },
+  {
+    "SPA": "él abandonó a su hijo",
+    "MSLG": "SU HIJO YO ABANDONAR"
+  },
+  {
+    "SPA": "la semana pasada mi papá cortó la hierba con la hoz",
+    "MSLG": "SEMANA PASADA PASTO M PAP HOZ CORTAR"
+  },
+  {
+    "SPA": "¡ay qué sopresa verte aquí",
+    "MSLG": "AY! SORPRESA AQU YO VER"
+  },
+  {
+    "SPA": "la próxima conferencia será en monterrey",
+    "MSLG": "PRXIMO CONFERENCIA LUGAR MONTERREY"
+  },
+  {
+    "SPA": "el hijo de mi vecino siempre es muy desobediente",
+    "MSLG": "SIEMPRE HIJO SIEMPRE MUCHO DESOBEDECER"
+  },
+  {
+    "SPA": "la bandera mejicana tienen tres colores",
+    "MSLG": "BANDERA MEXICANA TENER TRES COLORES"
+  },
+  {
+    "SPA": "el año pasado terminé la universidad",
+    "MSLG": "AO-PASADO UNIVERSIDAD YO TERMINAR"
+  },
+  {
+    "SPA": "hoy fuí al zoológico  vi un gorila",
+    "MSLG": "HOY YO IR ZOOLOGICO YO VER YA GORILA"
+  },
+  {
+    "SPA": "la bandera mexicana tiene tres colores",
+    "MSLG": "BANDERA MEXICANA TENER TRES COLORES"
+  },
+  {
+    "SPA": "en la escuela cada niñito tiene una computadora para trabajar",
+    "MSLG": "Spanish to mslg: escuela cada NIO TENER COMPUTADORA PARA TRABAJO"
+  },
+  {
+    "SPA": "edgar será maestro",
+    "MSLG": "Spanish to mslg: EDGAR MAESTRO"
+  },
+  {
+    "SPA": "mi primo ganó medalla de oro en el maratón",
+    "MSLG": "MARATN MI PRIMO MEDALLA ORO YA GANAR"
+  },
+  {
+    "SPA": "tú ya debes ser responsable no eres un adultos",
+    "MSLG": "Spanish to mslg: T YA DEBER RESPONSABLE T YA ADULTO"
+  },
+  {
+    "SPA": "él ya abusó mucho de mí",
+    "MSLG": "YA MUCHO MUCHO YA ABUSAR"
+  },
+  {
+    "SPA": "en la iglesia hay una campana sumamente pequeña",
+    "MSLG": "IGLESIA CAMPANA PESCA HABER"
+  },
+  {
+    "SPA": "ayer fui a pasear y me senti muy bien",
+    "MSLG": "AYER YA PASEAR SENTIR BIEN"
+  },
+  {
+    "SPA": "la semana pasada pedí un aventón a la caseta",
+    "MSLG": "SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA"
+  },
+  {
+    "SPA": "la hijo de mi vecina tiene autismo",
+    "MSLG": "YA HIJO MI VECINO+MUJER TENER AUTISMO"
+  },
+  {
+    "SPA": "ayer compré un suéter",
+    "MSLG": "AYER SUETER YA YA COMPRAR"
+  },
+  {
+    "SPA": "ayer mi primo conquistó a mi amiga en el cine",
+    "MSLG": "AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER"
+  },
+  {
+    "SPA": "el perro tiene mucha sed",
+    "MSLG": "Spanish to mslg: PERRO TENER MUCHO SED"
+  },
+  {
+    "SPA": "ya tendré trabajo estoy contento",
+    "MSLG": "Spanish to mslg: YO TENER TRABAJO YA CONTENTO"
+  },
+  {
+    "SPA": "mi papá llena el formato para tramitar su licencia de manejo",
+    "MSLG": "MI PAP LLENAR-FORMATO PARA LICENCIA-DE-MANEJO TRAMITAR"
+  },
+  {
+    "SPA": "¿ tú ya conoces argentina ?",
+    "MSLG": "T YA CONOCER ARGENTINA?"
+  },
+  {
+    "SPA": "la próxima conferencia será en monterrey",
+    "MSLG": "PRXIMO CONFERENCIA LUGAR MONTERREY"
+  },
+  {
+    "SPA": "el egipcio no respondió",
+    "MSLG": "SSLG EGIPCIO NO RESPONDER"
+  },
+  {
+    "SPA": "¿ ya cenaste ?",
+    "MSLG": "T YA CENAR?"
+  },
+  {
+    "SPA": "la semana pasada mi padre cortó la hierba con la hoz",
+    "MSLG": "SEMANA PASADA PASTO M PAP HOZ CORTAR"
+  },
+  {
+    "SPA": "el egipcio no respondió",
+    "MSLG": "SSLG EGIPCIO NO RESPONDER"
+  },
+  {
+    "SPA": "me duele la espalda porque ayer cargué un mueble",
+    "MSLG": "Spanish to mslg: YO DUEL ESPALDA PORQUE AYER MUEBLE YO CARGAR"
+  },
+  {
+    "SPA": "la semana pasada fui a plaza universidad",
+    "MSLG": "SEMANA PASADA YO IR PLAZA UNIVERSIDAD"
+  },
+  {
+    "SPA": "ese vestido es feo ya me gusta",
+    "MSLG": "Spanish to mslg: ESE VESTIDO FEO YO GUSTAR"
+  },
+  {
+    "SPA": "el año pasado finalicé la universidad",
+    "MSLG": "SU AO-PASADO UNIVERSIDAD YO TERMINAR"
+  },
+  {
+    "SPA": "yo gané el campeonato",
+    "MSLG": "Spanish to mslg: YO YA GANAR CAMPEONATO"
+  },
+  {
+    "SPA": "yo sé leer en idioma inglés",
+    "MSLG": "Spanish to mslg: YO YA SÉ LEER INGLÉS IDIOMA"
+  },
+  {
+    "SPA": "¿ ya cenaste ?",
+    "MSLG": "T YA CENAR?"
+  },
+  {
+    "SPA": "la semana pasada compré cinta canela en el centro",
+    "MSLG": "SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO"
+  },
+  {
+    "SPA": "me duele la espalda porque ayer cargué un mueble",
+    "MSLG": "Spanish to mslg: YO DUEL ESPALDA PORQUE AYER MUEBLE YO CARGAR"
+  },
+  {
+    "SPA": "edgar es maestro",
+    "MSLG": "Spanish to mslg: EDGAR MAESTRO"
+  },
+  {
+    "SPA": "el perro está debajo de la mesa",
+    "MSLG": "SU PERRO MUCHO DEBAJO MESA"
+  },
+  {
+    "SPA": "ayer mi mamá preparó atole",
+    "MSLG": "AYER MAM PREPARAR ATOLE"
+  },
+  {
+    "SPA": "las barreras de comunicación pueden eliminarse",
+    "MSLG": "Spanish to mslg: barreras de comunicación pueden eliminarse"
+  },
+  {
+    "SPA": "en la escuela cada niño tiene una computadora para trabajar",
+    "MSLG": "Spanish to mslg: escuela cada NIO TENER COMPUTADORA PARA TRABAJO"
+  },
+  {
+    "SPA": "mi hijo reprobó el sexto de primaria",
+    "MSLG": "SEXTO-PRIMARIA MI HIJO YA REPROBAR"
+  },
+  {
+    "SPA": "tú ya debes ser responsable ya eres un adulto",
+    "MSLG": "Spanish to mslg: T YA DEBER RESPONSABLE T YA ADULTO"
+  },
+  {
+    "SPA": "mi familia siempre dona a teletón",
+    "MSLG": "SIEMPRE MI FAMILIA TELETN DONAR DONAR"
+  },
+  {
+    "SPA": "es fácil aprender esas letras del abecedario",
+    "MSLG": "SLGA FRCIL APRENDER LETRA ABECEDARIO"
+  },
+  {
+    "SPA": "un amigo de juana es árabe",
+    "MSLG": "JUANA SU AMIGO RABE"
+  },
+  {
+    "SPA": "yo abandoné a mi hijo",
+    "MSLG": "Spanish to mslg: YO ABANDONAR MI HIJO"
+  },
+  {
+    "SPA": "ayer mi hermano lavó su ropa sucia",
+    "MSLG": "AYER SU ROPA SUCIA MI HERMANO LAVAR"
+  },
+  {
+    "SPA": "el bebé siempre es muy expresivo",
+    "MSLG": "SIEMPRE BEBÉ EXPRESIVO"
+  },
+  {
+    "SPA": "edgar será maestro",
+    "MSLG": "Spanish to mslg: EDGAR MAESTRO"
+  },
+  {
+    "SPA": "me encaaaaanta comer cacahuates con limón y sal",
+    "MSLG": "Spanish to mslg: encaaaanta comer cacahuates con limón y sal"
+  },
+  {
+    "SPA": "el capitán del barco es muy inteligente",
+    "MSLG": "BARCO CAPITN YA INTELIGENTE"
+  },
+  {
+    "SPA": "la semana pasada fui a plaza universidades",
+    "MSLG": "SEMANA PASADA YO IR PLAZA UNIVERSIDAD"
+  },
+  {
+    "SPA": "12las próximas mini-vacaciones pasaré de viaje a ciudad obregón",
+    "MSLG": "Spanish to mslg: 12las próxima minivacaciones pasaré viaje a ciudad obregón"
+  },
+  {
+    "SPA": "él ya abusó mucho de mí",
+    "MSLG": "YA MUCHO MUCHO YA ABUSAR"
+  },
+  {
+    "SPA": "sara encontró muchas almejas en el mar",
+    "MSLG": "SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR"
+  },
+  {
+    "SPA": "a mí no me gustan las ametralladoras",
+    "MSLG": "AMETRALLADORA DIFERENTE YO NO-GUSTAR"
+  },
+  {
+    "SPA": "en la madrugada escuché una explosión",
+    "MSLG": "MADRUGADA EXPLOSIN YO ESCUCHAR"
+  },
+  {
+    "SPA": "11las barreras de comuncación pueden identificarse",
+    "MSLG": "Spanish to mslg: 11las barreras de comuncación pueden identificarse"
+  },
+  {
+    "SPA": "te confundo a ti y a tu mamá porque se parecen",
+    "MSLG": "YO CONFUNDIR TI TU MAM PORQUE SE PARECIDAR"
+  },
+  {
+    "SPA": "ayer mi hermano lavó su ropa sucia",
+    "MSLG": "AYER SU ROPA SUCIA MI HERMANO LAVAR"
+  },
+  {
+    "SPA": "el hijo de mi vecino siempre es muy desobediente",
+    "MSLG": "SIEMPRE HIJO SIEMPRE MUCHO DESOBEDECER"
+  },
+  {
+    "SPA": "en la iglesia hay una campana muy grande",
+    "MSLG": "IGLESIA CAMPANA GRANDE"
+  },
+  {
+    "SPA": "en la madrugada escuché una explosión",
+    "MSLG": "MADRUGADA EXPLOSIN YO ESCUCHAR"
+  },
+  {
+    "SPA": "hoy fuí al zoológico y vi un gorila",
+    "MSLG": "HOY YO IR ZOOLOGICO YO VER YA GORILA"
+  },
+  {
+    "SPA": "ayer mi primo conquistó a mi amiguita en el cine",
+    "MSLG": "AYER CINE MI PRIMO YA YA CONQUISTAR ELLA MI AMIGO+MUJER"
+  },
+  {
+    "SPA": "mi jefe me pagó la mitad del sueldo",
+    "MSLG": "SEPARAR MI JEFE ÉL PAGAR M SUELDO"
+  },
+  {
+    "SPA": "ayer fui a pasear  me senti muy bién",
+    "MSLG": "AYER YA PASEAR SENTIR BIEN"
+  },
+  {
+    "SPA": "bosnia y herzegovina es un país muy lejano",
+    "MSLG": "BOSNIA-HERZEGOVINA ESE PAS LEJOS"
+  },
+  {
+    "SPA": "en suiza se hablan diferentes idiomas",
+    "MSLG": "SUIZA DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE"
+  },
+  {
+    "SPA": "¿ puedes contestar mi pregunta ?",
+    "MSLG": "T CONTESTAR MI PREGUNTA PODER?"
+  },
+  {
+    "SPA": "yo fuí a levantar un acta a la jurisdicción",
+    "MSLG": "Spanish to mslg: YO IR ACTA LEVANTAR IR jurisdicción"
+  }
+]

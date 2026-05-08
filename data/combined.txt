@@ -1,0 +1,712 @@
+ID	MSLG	SPA
+220.0	PEZ COLOR AZUL MI FAVORITO	Los peces azules son mis favoritos.
+749.0	YO FELIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA TENER	Estoy feliz, mi hijo ya tiene licencia de conducir.
+180.0	SU LIBRO MATEMÁTICAS USTEDES SACAR	Saquen su libro de Matemáticas.
+239.0	YO NECESITAR PAPEL PARA AGUA ABSORBER	Necesito papel para absorber el agua.
+673.0	dm-ISABEL TENER SU CORONA ORO	Isabel tiene una corona de oro.
+659.0	ESTE JUGUETE BARATO	Este juguete está barato.
+402.0	¿TUYA MAESTRO+MUJER TÚ PONER-ATENCIÓN ELLA?	¿Le pusiste atención a tu maestra?
+132.0	MI MAMÁ USA CREMA-DE-COSMÉTICO	Mi mamá usa crema para la cara.
+568.0	SIEMPRE BEBÉ EXPRESAR EXPRESAR	El bebé siempre es muy expresivo.
+613.0	AYER MI TIO SAN FRANCISCO YA LLEGAR	Ayer llegó mi tío de San Francisco.
+520.0	A-FUERZA TÚ DEBER TÚ PAGAR MÍ	Debes pagarme a fuerza.
+258.0	ESA ANTENA CARA VERDAD	Esa antena es muy cara.
+638.0	TEPITO LUGAR FAMOSO	Tepito es un lugar muy conocido.
+666.0	YO YA GANAR CAMPEONATO	Yo gané el campeonato.
+308.0	SACAR-COPIA TÚ DEBER	Debes sacar una copia.
+316.0	YA ÉL ARRESTADO ESO FEO VERDAD	Él fue arrestado, qué feo.
+372.0	MI SOBRINO ALTO	Mi sobrino es muy alto.
+560.0	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	El hijo de mi vecino siempre es muy desobediente.
+884.0	MI HIJO+MUJER ELLA GUSTAR PATO MUCHO	A mi hija le gustan los patos.
+310.0	SIEMPRE MI HERMANO+MUJER SU AMIGO AMBOS AHORA JUNTOS IMITAR SU CARÁCTER	Mi hermana y su amigo siempre están juntos, ahora ella imita su comportamiento.
+121.0	DOMINGO YO CONFIRMACIÓN YO IR	Iré a una confirmación el domingo.
+264.0	¿TÚ YA CONOCER ARGENTINA?	¿Tú ya conoces Argentina?
+703.0	ÁFRICA ADENTRO GHANA	Ghana está en África.
+270.0	AUDÍFONOS TÚ TENER, ¿PRESTAR? SÍ NO	Tú tienes unos audífonos, ¿me los prestas?
+143.0	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	En Chapultepec vi algunos delfines.
+922.0	MAESTRA MATEMÁTICAS MUCHAS BROMAS	La maestra de matemáticas dice muchas bromas.
+620.0	¿TÚ DECIR ESO SEGURO?	¿Estás seguro de lo que dices?
+445.0	AYER MI PRIMO CONMIGO NOSOTROS-DE-DOS PELEAR	Mi primo se peleó conmigo ayer.
+629.0	MI SUEGRO TRABAJO TRABAJO	Mi suegro es muy trabajador.
+553.0	YO OLVIDAR CONTRASEÑA	Olvidé mi contraseña.
+669.0	ÚNICO MUJER TENER SU CLITORIS	Sólo las mujeres tienen clítoris.
+427.0	CANADÁ CASCADA dm-CATARATAS DEL NIÁGARA BONITA	En Canadá están las Cataratas del Niágara, que son hermosas.
+503.0	HOY NUEVO SACERDOTE YO YA CONOCER ÉL	Hoy conocí al nuevo sacerdote.
+773.0	ESE ELEFANTE OREJÓN CHISTOSO	Ese elefante orejón es muy chistoso.
+224.0	dm-ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO	Alondra le prometió a su mamá ser médico.
+383.0	MI AMIGO ARGENTINA ANTROPOLOGÍA ELLOS ESTUDIAR YA	Mis amigos argentinos estudiaron antropología.
+877.0	CUADERNO YO NECESITAR	Necesito un cuaderno.
+890.0	YA MÉXICO NACIONAL MÍ PAPÁ DOS-DE-NOSOTROS-ABANDONAR MÍ	Mi papá nos abandonó en México.
+475.0	CHUPÓN DEBE DAR BEBÉ	Dale el chupón al bebé.
+109.0	MI HERMANO TENER DIENTE DIENTE CHUECO	Mi hermanito tiene los dientes chuecos.
+859.0	AYER COCA-COLA YO COMPRAR	Yo compré una Coca Cola ayer.
+478.0	AHORITA NIÑO DIOS YA MECER	Es hora de mecer al niño Dios.
+601.0	EJERCER-REMAR AYUDA CUERPO SANO	Remar es un ejercicio que ayuda a la salud.
+820.0	TUS OJOS HERMOSOS COLOR CAFÉ	Tú tienes unos hermosos ojos color café.
+292.0	AYER NOCHE METRO CAOS	Anoche el metro era un caos.
+407.0	MI VECINO+MUJER SU HIJO+MUJER TENER AUTISMO	La hija de mi vecina tiene autismo.
+542.0	CARRETILLA-DE-CARGA COSTALES LLEVAR	Lleva los costales en la carretilla.
+215.0	LLOVER TARDE PARECE	Al parecer va a llover en la tarde.
+869.0	¿TÚ CONTESTAR MI PREGUNTA PODER?	¿Puedes contestar mi pregunta?
+624.0	SENADOR GASOLINA AUMENTAR PORQUÉ ÉL EXPLICAR	El senador explica por qué la gasolina está cara.
+840.0	¿TÚ YA CENAR?	¿Ya cenaste?
+464.0	CREDENCIAL VOTAR HABER MI HUELLA	La credencial del INE tiene mi huella.
+417.0	MI PUERTA COLOR AZUL YO YA PINTAR	Pinté mi puerta de color azul.
+441.0	PLAYA MUCHOS COCOS YO ENCONTRAR YA	En la playa encontré muchos cocos.
+583.0	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	Nosotros viajaremos el próximo año al Lago de Pátzcuaro.
+908.0	YO TENER-CULPA	Yo no tengo la culpa.
+932.0	NAVIDAD ÚLTIMA DOS-DE-NOSOTROS NO-TE-HE-VISTO	No te he visto desde la última navidad.
+844.0	10 MAÑANA NOS-VEMOS METRO CHABACANO	Nos vemos en el metro chabacano a las 10 de la mañana
+559.0	VACUNAS PROTEGER ENFERMEDAD	Las vacunas te protegen de las enfermedades.
+66.0	BARRERAS COMUNICACIÓN QUITAR PODER	Las barreras de comunicación pueden eliminarse.
+973.0	dm-EDGAR MAESTRO	Edgar es maestro.
+41.0	dm-SOFÍA SU PAPÁ+MAMÁ APROVECHARSE-DE APOYO	Sofía se aprovechó del apoyo de sus papás.
+733.0	JAPÓN ESE ISLA BONITO	Japón es una isla bonita.
+800.0	ESO FEO PARECE VULGAR	Eso es feo, parece vulgar.
+720.0	MI TÍO GUATEMALA VIVIR	Mi tío vive en Guatemala.
+13.0	¡JARRÓN YO ROMPER, PERDÓN, ACCIDENTE!	¡Rompí el jarrón, perdón, fue un accidente!
+672.0	SIEMPRE NIÑO SUEÑO	El niño siempre tiene sueño.
+141.0	BLOQUEAR PROTEGER SOL	El bloqueador me protege del sol.
+57.0	BAJA-CALIFORNIA-SUR PLAYA DIFERENTES MUCHO LIMPIO	Las playas de Baja California Sur son muy limpias.
+415.0	ADORNAR NAVIDAD MI ABUELO AYUDAR	Mi abuelo ayuda a la colecta navideña.
+655.0	12% SUELDO YA AUMENTAR	Aumentó el sueldo en un 12%.
+785.0	DIARIO YO MANEJAR CARRO YO DEBER PONER-GASOLINA	Diario manejo mi auto, debo ponerle gasolina.
+647.0	WINDSURF NECESITAR VIENTO MAR	El windsurf necesita del aire para deslizarse.
+323.0	MUCHO ESFUERZO TÚ DEBER META TÚ ALCANZAR	Debes esforzarte mucho para alcanzar tu meta.
+697.0	YO GUSTAR GALLETA DIFERENTE GAMESA	Me gustan las galletas Gamesa.
+635.0	TAIWÁN ISLA	Taiwán es una isla.
+450.0	SEMANA PASADA TUYO CONTROL-DE-VIDEOJUEGO DESCOMPONERSE	Tu control de videojuego se descompuso la semana pasada.
+184.0	MESA NUEVA YO QUERER	Quiero una mesa nueva.
+430.0	CESÁREA YO NACER YA	Yo nací por cesárea.
+668.0	CELAYA MI FAMILIA NOSOTROS-DE-DOS YA IR	MI Mí familia y yo fuimos a Celaya.
+518.0	MUJER TENER VÁGINA	Las mujeres tienen vágina.
+811.0	CASA AZOTEAarriba YO LIMPIAR YA	Yo limpié la azotea de la casa.
+682.0	NUEVO CD YO YA PERDER	Perdí mi nuevo CD.
+486.0	OTRO LIBRO YO TENER	Tengo otro libro.
+259.0	APAGAR LUZ POR-FAVOR	Por favor, apaga la luz.
+612.0	PRÓXIMO AÑO YO IR UNIVERSIDAD ESTUDIAR LUGAR SAN DIEGO	Quiero ir a estudiar el próximo año la universidad en San Diego.
+510.0	PONTE-SUDADERA NOSOTROS IR CORRER	Vamos a correr ponte la sudadera.
+685.0	EFECTIVO NINGÚN YO TRAER	No traigo efectivo.
+889.0	dm-ANA SUYO PERRO ABANDONAR YA	Ana abandonó a su perro.
+135.0	CANCÚN HABER CRUCERO	En Cancún hay un crucero.
+200.0	YO YA VISITAR MURAL dm-DIEGO-RIVERA	Visité el mural de Diego Rivera.
+708.0	GOBIERNO CUIDAR PERSONA	El gobierno cuida a los ciudadanos.
+965.0	ESTADOS UNIDOS DIFÍCIL VIVIR	Vivir en Estados Unidos es difícil.
+146.0	CASA AMIGO DETRÁS MI CASA	La casa de mi amigo está detrás de la mía.
+204.0	TODOS-LUNES ALUMNOS CANTAR HIMNO NACIONAL	Los alumnos cantan el himno nacional los lunes.
+972.0	LLUVIA TUBO ROMPER	Con la lluvia el tubo se rompió.
+182.0	COMIDA MENOS YO QUERER	Yo quiero menos comida.
+251.0	NUEVA ALMOHADA YO YA COMPRAR ¡SUERTE!	Compré una almohada nueva, ¡qué suerte!
+863.0	COMERCIAL MEXICANA YO COMPRAR CENA NAVIDAD	Compraré la cena de Navidad en la Comercial Mexicana.
+751.0	AYER YO PERDER MI LIGA	Ayer perdí mi liga.
+850.0	CHINA HABER MUCHAS PERSONAS	En China hay sobrepoblación.
+217.0	ODONTOLOGÍA YO PENSAR ESTUDIAR	Pienso estudiar odontología.
+494.0	MESA FIERRO PESADO	La mesa de fierro está muy pesada.
+939.0	IMPUESTOS PAGAR TUYO OBLIGACIÓN	Es tu obligación pagar impuestos.
+600.0	RASURADORA YO QUERER COMPRAR	Quiero comprar una rasuradora.
+293.0	BARCO CAPITÁN él INTELIGENTE	El capitán del barco es muy inteligente.
+311.0	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	No te juntes con personas enfermas te pueden contagiar.
+165.0	NOSOTROS PARA EXAMEN NOSOTROS ESTUDIAR	Estudiamos para el examen.
+412.0	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	La semana pasada pedí un aventón a la caseta.
+451.0	SAPO YA CONVERTIR PERSONA PRÍNCIPE	El sapo se convirtió en príncipe.
+363.0	DIARIO MI HERMANO AGENDA REVISAR	Mi hermano revisa su agenda diario.
+502.0	SEXTO-Primaria MI HIJO YA REPROBAR	Mi hijo reprobó el sexto de primaria.
+924.0	MI PRIMO UNIVERSIDAD YA INGRESAR	Mi primo ingresó a la universidad.
+541.0	IGLESIA CAMPANA GRANDE	En la iglesia hay una campana muy grande.
+823.0	¡CAFÉ CALIENTE!	¡El café está muy caliente!
+361.0	ADVENTISTA TODOS-SÁBADOS DESCANSAR ELLOS DIOS ADORAR	Los Adventistas descansan los sábados y adoran a Dios.
+619.0	YO ESTUDIAR HASTA SECUNDARIA DESPUES TRABAJAR YO DESEAR	Voy a estudiar hasta secundaria y después quiero trabajar.
+547.0	NEZAHUALCÓYOTL MUCHO CHOLO	En Nezahualcóyotl hay muchos cholos
+43.0	dm-ROSALÍA TRABAJAR ARCHIVO HOSPITAL	Rosalía trabaja en el archivo del hospital.
+307.0	YO TENER TRABAJO YA CONTENTO YO	Ya tengo trabajo, estoy contento.
+931.0	DOMINGOS DOMINGOS MI CASA NO-HAY-NADIE	No hay nadie en mi casa los domingos.
+712.0	ÉL GRAVE	Él está muy grave.
+71.0	#VGT, #LSFB AMBOS SU LENGUA-DE-SEÑAS SU PAÍS BÉLGICA	En Bélgica hay dos lenguas de señas: VGT y LSFB.
+631.0	SUIZA DIFERENTE DIFERENTE IDIOMA HABLAR	En Suiza se hablan diferentes idiomas.
+539.0	DIARIO PARQUE dm-SALVADOR BOX EJERCER	Salvador entrena box diario en el parque.
+536.0	AÑO-PASADO DICIEMBRE BOGOTÁ MÍ JEFE VIAJAR	En diciembre del año pasado, mi jefe viajó a Bogotá.
+256.0	ESE PROFESOR SIEMPRE AMARGADO ESO ¡FEO!	Ese profesor siempre está amargado, ¡qué feo!
+633.0	CARNE YO COMPRAR SUPERMERCADO	Yo compro carne en el supermercado.
+795.0	SIEMPRE YO ACOSTUMBRAR SUBIR-COCHE TAXI	Acostumbro usar taxi siempre.
+747.0	ESE LIBRO YO GUSTAR	Ese libro me gusta.
+446.0	AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER	Ayer mi primo conquistó a mi amiga en el cine.
+117.0	CARRERA MEDICINA CONCENTRACIÓN A-FUERZA	La medicina es una carrera que exige concentración.
+686.0	HOSPITALacá TODA ENFERMERA AMABLE	Todas las enfermeras del hospital son muy amables.
+110.0	YO CLAVADO HÁBIL YO	Soy muy bueno para los clavados.
+154.0	MI HERMANO+MUJER YA EMBARAZADA	Mi hermana está embarazada.
+358.0	ADÁN PRIMER HOMBRE MUNDO DIOS HACER	Adán es el primer hombre creado por Dios en el mundo.
+348.0	ABRIL CUMPLEAÑOS MI TÍO+MUJER NOSOTROS HACER FIESTA	El cumpleaños de mi tía es en abril y le haremos fiesta.
+806.0	YO YA COMPRAR NUEVA ALMOHADA PARA CAMA	Compré una almohada nueva para la cama.
+876.0	MALTRATO ANIMAL CRIMEN	El maltrato animal es un crimen.
+211.0	VACACIONES dm-LUIS IR PANAMÁ	Luis fue de vacaciones a Panamá.
+346.0	MI HIJO YO ABANDONAR	Yo abandoné a mi hijo.
+913.0	DESIERTO DIFÍCIL VIVIR	Vivir en el desierto es difícil.
+312.0	AYER ESTE CELULAR YO YA COMPRAR PERO CORRIENTE	Compré este celular ayer pero está muy corriente.
+702.0	AÑO-PASADO MI GENERACIÓN GRADUAR	Mi generación se graduó el año pasado.
+63.0	YO IR BAÑO	Voy al baño.
+691.0	ÉL MI EX NOVIO	Él es mi ex novio.
+898.0	CINE MI AMIGO ÉL BESAR MÍ YA	Mi amigo me besó en el cine.
+717.0	¿TÚ GRUPO NÚMERO CUÁL?	¿Cuál es el número de tu grupo?
+419.0	MAÑANA LIVERPOOL HABER DESCUENTO BOLSA-MANO	Mañana habrá descuentos en bolsas de mano en Liverpool.
+399.0	LUGAR TOKIO SU ASIA	Tokio se ubica en Asia.
+208.0	FRASCO DULCES NO-HAY	No hay dulces en el frasco.
+970.0	TABLE-DANCE MUJER DIFERENTE BAILA MESA	En el table dance, las mujeres bailan sobre la mesa
+587.0	MALETA TÚ PODER LLEVAR	Puedes llevar una maleta.
+495.0	NIÑO NIÑO TENER PIOJO	Los niños tienen piojos.
+606.0	COMIDA FALTA SAL POQUITO	A la comida le faltó un poco de sal.
+193.0	ROPA NUEVA YO COMPRAR YO MODA-DE-ROPA	Compraré ropa nueva. Yo estoy a la moda.
+548.0	CUATRO CILINDRO MI CARRO USAR	Mi carro usa cuatro cilindros.
+152.0	HOMBRE EGIPCIO NO RESPONDER	El egipcio no respondió.
+905.0	HOY YO ARROZ COMER	Hoy no comí arroz.
+14.0	MI HERMANO ACTIVO	Mi hermano es activo.
+112.0	MI TÍO+MUJER DELICIOSO COCINAR	Mi tía cocina delicioso.
+53.0	dm-LUZ BABY-SHOWER MAÑANA	Mañana será el Baby Shower de Luz.
+42.0	dm-JUANA SU AMIGO ÁRABE	El amigo de Juana es árabe.
+104.0	MI TÍO TENER CASA CUERNAVACA	Mi tío tiene una casa en Cuernavaca.
+928.0	YO TENER ESCUELA MUCHO AMIGO AMIGO	Tengo muchos amigos en la escuela.
+78.0	AYER YO PASEAR SENTIR BIEN	Ayer fui a pasear y me senti muy bien
+664.0	MÍ MAMÁ COMPRAR CALZÓN	Mi mamá me compró un calzón.
+893.0	YO DECIR NO-PODER YO DEBER AGUANTAR	No puedo decirlo, debo aguantarme.
+335.0	AYER SU ROPA SUCIA MI HERMANO LAVAR	Ayer mi hermano lavó su ropa sucia.
+192.0	MI JEFE ÉL PAGAR MÍ SUELDO MITAD	Mi jefe me pagó la mitad del sueldo.
+16.0	JEHOVÁ YO ADORAR	Adoro a Jehová.
+966.0	YO NO-FUI COMPUTADORA NO-SIRVE	Yo no fui quien descompuso la computadora.
+567.0	POLVO YO MUCHO ESTORNUDAR	Con mucho polvo, yo estornudo mucho.
+322.0	YO SUERTE LOGRAR YO PODER	Yo tuve suerte, lo pude lograr.
+479.0	NOCHE MENSAJEAR WHATSAPP TÚ MANDAR MÍ	Me mandas un mensaje de whatsapp en la noche.
+714.0	TROMBÓN SONIDO GRAVE TENER	El trombón tiene un sonido muy grave.
+138.0	MÉXICO BIBLIOTECA GRANDE	La Biblioteca de México es muy grande.
+181.0	MADRUGADA EXPLOSIÓN YO ESCUCHAR	En la madrugada escuché una explosión.
+329.0	PULPO YO YA COMER DELICOSO	Yo comí pulpo, es delicioso.
+729.0	YO YA SABER LEER INGLÉS IDIOMA	Yo sé leer en idioma inglés.
+578.0	TÚ HURAÑO TÚ	Eres un huraño con todos.
+238.0	A-VECES YO IR CASA SIEMPRE NO	No siempre voy a casa, sólo a veces.
+344.0	COLADERA TÚ A-SALVO CAER	Estuviste a salvo de caer en la coladera.
+822.0	SU #SEP CALENDARIO AGOSTO TERMINAR	El calendario de la SEP termina en agosto.
+473.0	LLANTA COCHE TÚ DEBER CAMBIAR	Debes cambiar la llanta del coche.
+628.0	dm-ALICIA YA VIAJAR SUDÁFRICA	Alicia viajó a Sudáfrica.
+83.0	dm-SANTIAGO MONEDA GUARDAR-BOLSILLO	Santiago guarda en su bolsillo una moneda.
+212.0	MOCHILA ROJA HABER DOS PAÑAL	En la mochila roja hay dos pañales.
+349.0	MÍ ABUELO+MUJER 90 EDAD	Mi abuela tiene 90 años.
+855.0	CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY	Mi auto no tiene cinturón de seguridad.
+554.0	ESE HOMBRE JOVEN BUEN CORREDOR	Ese muchacho es muy buen corredor.
+468.0	IRÁN BANDERA COLOR VERDE BLANCO ROJO	Los colores de la bandera de Irán son verde blanco y rojo.
+596.0	#TV PUBLICIDAD HABER MUCHO	En la TV hay mucha publicidad.
+570.0	FRONTERA TIJUANA MÍ TÍO VIVIR	Mi tío vive en la frontera, en Tijuana.
+326.0	dm-AIMÉ SALTAR PARACAIDAS	Aimé saltó en paracaídas.
+977.0	dm-EDGAR FUTURO MAESTRO	Edgar será maestro.
+106.0	POLICÍA AMBULANCIA PASO ÉL CEDER	El policía cedió el paso a la ambulancia.
+261.0	YO QUERER APRENDER MUCHO COSA	Yo quiero aprender muchas cosas.
+82.0	SUÉTER BLANCO YO PERDER	Perdí el suéter blanco.
+964.0	TODAVÍA MI TAREA YO NO TERMINAR	No termino mi tarea todavía.
+721.0	GUERRERO ESTADO BONITO	Guerrero es un estado bonito.
+524.0	CANTAR+MUJER dm-MADONNA ELLOS ADMIRAR ELLA	Ellos admiran a la cantante Madonna.
+240.0	YA MUCHO ÉL ABUSAR YO	Él ya abusó mucho de mí.
+22.0	AHORA TÚ RECÁMARA TÚ LIMPIAR	Ahora tú limpia tu recámara.
+173.0	DINERO NADA ESO GRATIS	Eso no cuesta nada, es gratis.
+544.0	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	Mi amiga y su novio van los sábados al casino.
+416.0	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	Vamos al parque de Azcapotzalco.
+374.0	ÁLVARO OBREGÓN YO VIVIR	Yo vivo en la Delegación Álvaro Obregón.
+534.0	BERLÍN CAPITAL SU ALEMANIA	Berlín es la capital de Alemania.
+797.0	UNIVERSIDAD GALLAUDET FAMOSA	La Universidad Gallaudet es muy famosa.
+0.0	TARDE ¿POR QUÉ?	¿Por qué llegaste tarde?
+866.0	CONGRESO NUEVA LEY APROBAR YA	El Congreso aprobó la nueva ley.
+244.0	TÚ YA DEBER RESPONSABLE TÚ YA ADULTO	Tú ya debes ser responsable, ya eres un adulto.
+760.0	ESE CARRO NUEVO LUJOSO	Ese carro nuevo es muy lujoso.
+782.0	MUCHOS POLICÍA HABER MANIFESTACIÓN	Hay muchos policías en la manifestación.
+838.0	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	Mi hermana se casa el próximo domingo.
+904.0	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	Las próximas vacaciones iré de viaje a Ciudad Obregón.
+589.0	TÚ MALO NO DEBER	No debes ser malo.
+648.0	PAYASO ZAPATO SUYO COLOR AMARILLO	Los zapatos del payaso son amarillos.
+771.0	OJALÁ TÚ ÉXITO	Ojalá tengas éxito.
+540.0	CAJÓN HOJAS BLANCAS HAY	Hay hojas blancas en el cajón.
+755.0	¿DÓNDE TUYO LOCAL?	¿Dónde está tu local?
+452.0	MI CRONÓMETRO YA PERDER	Mi cronómetro se perdió.
+119.0	DOMINGO IGLESIA YO IR CONFESAR YO	El domingo me iré a confesar a la iglesia.
+386.0	dm-TOMÁS APÓSTOL JESÚS	Tomás fue un apóstol de Jesús.
+38.0	dm-JUAN ASUNTO APARTE	Con Juan, es un asunto aparte.
+77.0	DIARIO BIBLIA dm-ARTURO LEER	Arturo lee la biblia diariamente.
+318.0	TÚ ENOJAR NO POR-FAVOR	No te enojes, por favor.
+615.0	#TV NOTICIA FEA LUGAR SANTIAGO-DE-CHILE	En la TV vi una noticia fea que pasó en Santiago de Chile.
+719.0	AÑO-PASADO YO VIAJAR GUANAJUATO	El año pasado viajé a Guanajuato.
+791.0	MI HERMANO+MUJER SNORKELING ELLA PRACTICAR	Mi hermana practica snorkeling.
+756.0	ESE HOMBRE LOCO PARECER	Ese hombre parece loco.
+979.0	SOPA CALIENTE	La sopa está caliente.
+4.0	¿QUÉ-PASO?	¿Qué te pasó?
+937.0	MÉXICO PAPA Él REGAÑAR OBISPO	El papa regañó a los obispos en México.
+281.0	ESO BONITO SÍ YO GUSTAR	Eso es muy bonito, sí me gusta.
+953.0	MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR	Mi papá llena el formato para tramitar su licencia de manejo.
+51.0	dm-MARIBEL DIPLOMA NIVEL AVANZADO	Maribel cursa el nivel avanzado en el diplomado.
+405.0	AUSTRALIA DECIR HABER MUCHO CANGURO	Dicen que en Australia hay muchos canguros.
+15.0	ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO	Adolfo López Mateos fue presidente de México.
+456.0	YA TÚ DECIR MÍ NO ELUDIR PREGUNTA	Ya dime la verdad, no eludas la pregunta.
+216.0	dm-MIGUEL PECHO ÉL DOLER	Miguel tiene dolor en el pecho.
+108.0	MI ABUELO+MUJER HACER RICO CHOCOLATE	Mi abuela hace un chocolate muy rico.
+662.0	BRASILIA BONITO	Brasilia es bonita.
+228.0	dm-JUANA LSM ELLA SABER	Juana sabe LSM.
+807.0	ALMOHADA CÓMODA ALMOHADA PARA DORMIR	La almohada es muy cómoda para dormir.
+872.0	MUCHO PERSONA CORÁN ELLOS CREER	Muchas personas creen en el Corán.
+250.0	ESE SUAVE PARECE ALGODÓN	Eso es muy suave, parece algodón.
+946.0	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	Mi primo ganó medalla de oro en el maratón.
+766.0	YO AVISAR TI ME-LA-VAS-A-PAGAR ME-LA-VAS-A-PAGAR	Te aviso, me las vas a pagar.
+373.0	ÉL BUENO ALUMNO Él	Él es un buen alumno.
+681.0	YO NECESITAR DINERO PAGAR GASOLINA	Necesito dinero para poder pagar la gasolina.
+218.0	CAJA PEQUEÑA SU COLOR ROJO	La caja pequeña es de color rojo.
+674.0	CORONA-DE-OLIVO ELLOS PONER ÉL	Le pusieron la corona de olivo.
+711.0	COMIDA TENER MUCHO GRASA	La comida tiene mucha grasa.
+516.0	PLAYA TORTUGA HABER	Hay una tortuga en la playa.
+357.0	BIBLIA DENTRO ADÁN NOMBRE HABER	En la biblia está el nombre de Adán.
+636.0	MI TARJETA-DE-CRÉDITO YO PAGAR	Yo pago con mi tarjeta de crédito.
+387.0	¿CÓMO SEÑA dm-APÓSTOLES?	¿Cómo haces la seña de apóstoles?
+891.0	SU HIJO ÉL ABANDONAR	Él abandonó a su hijo.
+377.0	YO SIEMPRE ORAR YO DECIR AMÉN	Siempre que rezo digo amén.
+579.0	MI COMPAÑERO DENTRO TRABAJO INSISTIR DESEAR DESEAR FIESTA	Mi compañero de trabajo insiste en hacer una fiesta.
+834.0	ELLA CARA BONITA	Ella tiene una cara bonita.
+148.0	SIEMPRE ÉL DISTRAÍDO	Él siempre está muy distraído.
+231.0	ESTA SERVILLETA SUCIA	Esta servilleta está sucia.
+257.0	ANIMAL DIFERENTES DIFERENTES BONITO VERDAD	Los animales son muy bonitos en verdad.
+623.0	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	La semana pasada fui a Plaza Universidad.
+87.0	BOSNIA-HERZEGOVINA ESE PAÍS LEJOS	Bosnia y Herzegovina es un país muy lejano.
+499.0	HOY MÍ CELULAR YO YA TENER SALDO	Hoy mi celular ya tiene saldo.
+900.0	ELLA TENER CABELLO-LACÍO	Ella tiene cabello lacio.
+532.0	AÑO-PASADO UNIVERSIDAD YO TERMINAR	El año pasado terminé la universidad.
+460.0	ESTONIA FRONTERA RUSIA	Estonia tiene una frontera con Rusia.
+565.0	MERCADO BARATA MUCHA ESCOBA DIFERENTE VENDER	En el mercado venden muchas escobas baratas.
+920.0	dm-PABLO FLOJO	Pablo es flojo.
+783.0	POLICÍA AGENTE NOSOTROS PROTEGER MÍ	La policia judicial nos protege.
+107.0	TODO-SÁBADO TODO-SÁBADO CEPAMEX dm-RAÚL ENTRENAR	Raúl entrena los sábados en CEPAMEX.
+694.0	ÉL EJERCER EJERCER FORTALECER	Él hace mucho ejercicio para fortalecerse.
+594.0	MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO	Mi mamá cocina en la olla express caldo de pollo sabroso.
+436.0	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	La semana pasada compré cinta canela en el Centro.
+605.0	LUGAR FABRICA SABRITAS HAY TRABAJO PARA PERSONAS	En la fábrica de Sabritas buscan personal para trabajar.
+397.0	CONSTITUCIÓN TENER MUCHOS ARTÍCULOS	La Constitución tiene muchos artículos.
+727.0	HUNGRÍA ESE PAÍS LEJOS	Hungría es un país que está muy lejos.
+470.0	YO IR TIENDA COMPRAR JABÓN YA	Fui a comprar jabón a la tienda.
+319.0	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	El escudo de la bandera de México es muy bonito.
+225.0	PRÓXIMO CONFERENCIA LUGAR MONTERREY	La próxima conferencia será en Monterrey.
+233.0	dm-MARÍA dm-DANIEL AMBOS IR TEATRO	María y Daniel van al teatro.
+689.0	MI ABUELO TENER RIFLE VIEJO	Mi abuelo tiene un rifle viejo.
+762.0	ELLA TENER LUNAR BONITO	Ella tiene una lunar bonito.
+242.0	AYER ADIÓS TÚ DECIR NADA	Ayer no me dijiste adiós.
+693.0	CUADERNO FEO	El cuaderno es feo.
+744.0	LEY ROBAR PROHIBIR	La ley prohíbe robar.
+55.0	dm-MARIANA BAILAR ELLA GUSTAR	A Mariana le gusta bailar.
+381.0	ANTIER PALACIO-DE-LOS-DEPORTES dm-MAGNETO CANTAR AUDITORIO YO IR	Antier fui a un concierto de Magneto en el Palacio de los Deportes.
+896.0	PAYASO MUCHO MAQUILLAJE	El payaso usa mucho maquillaje.
+809.0	AYER MAMÁ PREPARAR ATOLE	Ayer mi mamá preparó atole.
+199.0	SEMÁFORO LUZ ROJA YO PASAR AHORA MULTA YO DEBER PAGAR	Me pasé un semáforo, ahora tengo que pagar una multa.
+968.0	MONTAÑA RUSA TÚ COBARDE NO	Súbete a la montaña rusa, no seas cobarde.
+919.0	YO EMOCIONADO NUEVO INGRESAR TRABAJO	Estoy emocionado por ingresar a mi nuevo trabajo.
+974.0	ANTES dm-MIGUEL NOVIO	Miguel fue mi novio.
+28.0	dm-SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	Sara encontró muchas almejas en el mar.
+963.0	MI PERRO SUMISO MOLESTAR	Mi perro es sumiso, no molesta.
+133.0	FRESAS CON CREMA YO GUSTAR	Me gustan las fresas con crema.
+378.0	IGLESIA NOSOTROS-DE-DOS DECIR AMÉN	En la iglesia decimos amén.
+505.0	PERRO MUCHO SED	El perro tiene mucha sed.
+101.0	MI TRABAJO MUCHO CANSAR CANSAR	Mi trabajo es muy cansado.
+804.0	TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE	Tengo que acostumbrarme a despertarme a correr temprano.
+634.0	NOSOTROS CAMINAR A SUR PARA AGUA ENCONTRAR	Caminemos hacia el sur para encontrar agua.
+575.0	NOSOTROS ABRIR-HORNO PARA PASTEL	Nosotros abrimos el horno para meter los pasteles.
+392.0	MI NOVIO NACER LUGAR ARGENTINA	Mi novio nació en Argentina.
+918.0	YO VIAJE FRANCIA YO EMOCIONAR YA	Mi viaje a Francia me emocionó.
+493.0	POLICÍA PERSEGUIR JOVEN	El policía persigue a un joven.
+732.0	dm-JOSÉ APRENDER IDIOMA ITALIA	José aprende la lengua de Italia.
+650.0	¡YO ASUSTAR ALMA DESAPARECER!	¡Del susto se me escapó el alma!
+604.0	PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE	El sábado pasado hubo un grave accidente en la carretera.
+537.0	COSAS DIFERENTE COMPRAR TIENDA BOLSA-DE-PLÁSTICO METER	Mete en la bolsa las cosas que compraste en la tienda.
+506.0	DOS-DE-NOSOTROS YA SEPARAR	Él y yo ya nos separamos.
+878.0	CUBA CALOR	En Cuba hace mucho calor
+284.0	ESA PIEDRA BONITA BRILLO MUCHO	Esa piedra está muy bonita, brilla mucho.
+454.0	NADA YO NO-QUERER NADA	No quiero nada.
+337.0	dm-MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	Miguel quiere declarse a su amiga, pero no se atreve.
+735.0	CHAPULTEPEC HABER LAGO	En Chapultepec hay un lago.
+298.0	ENTRAR ANIMAL NIÑO VER MONO	El niño ve un mono en el zoológico.
+334.0	PELÍCULAS CON SUBTÍTULOS MI NOVIO NOSOTROS-DE-DOS VER	Mi novio y yo vemos películas con subtítulos.
+31.0	MAÑANA AMANECER NOSOTROS ENCONTRAR	Nosotros nos encontraremos mañana al amanecer.
+640.0	TÚ BASURA TIRAR	Tira la basura.
+352.0	DELEGACIÓN YO YA IR ACTA LEVANTAR	Yo fui a levantar un acta a la delegación.
+145.0	QUIZÁ YO LLEGAR TARDE TRABAJO ELLOS PODER DESPEDIR	Si llego tarde al trabajo, me pueden despedir.
+463.0	HOY CUMPLEAÑOS MÍ	Hoy es mi cumpleaños.
+353.0	MI AMIGO dm-JULIO TENER ACTA-DEMANDA	Mi amigo Julio tiene un acta de demanda.
+739.0	LENGUA MÁS HABLA CHINA, INGLATERRA, ESPAÑA	Las lenguas más habladas son el chino, el inglés y el español.
+67.0	PAVO COMIDA BASICA NAVIDAD	Los pavos son la comida básica en Navidad
+947.0	NOCHE OSCURA	La noche está muy oscura.
+466.0	INDIA SÉPTIMO PAÍS MÁS GRANDE MUNDO	La India es el séptimo país más grande del mundo.
+356.0	ACTOR dm-TOM CRUICE FAMOSO	Tom Cruice es un actor muy famoso.
+489.0	PANADERÍA YO IR	Yo voy a la panadería.
+969.0	SUBURBANO VIAJAR VELOCIDAD	En suburbano se viaja más rápido.
+675.0	YO JUGAR PARTICIPAR DEPORTIVO-GALEANA	Tengo un partido en el Deportivo Galeana.
+245.0	MAÑANA YO VIAJAR ÁFRICA	Mañana voy a viajar a África.
+909.0	AYER MI HERMANO PASTEL ÉL DAR MÍ	Mi hermano no me dio pastel ayer.
+927.0	VECINO Él PEDIR MI CARRO MOVER	El vecino me pidió mover mi carro.
+368.0	ALCOHOL YO NO-GUSTAR	A mí no me gusta el alcohol.
+768.0	DOS-DE-NOSOTROS NOS-VEMOS MAÑANA NOCHE	Nos vemos mañana en la noche.
+26.0	TODOS IGLESIA GRITAR ¡ALELUYA!	Todos en la iglesia gritan ¡aleluya!
+687.0	CIUDAD-DE-MÉXICO ENORME	La Ciudad de México es enorme.
+195.0	MI AMIGO+MUJER MODELO SU REVISTA	Mi amiga es modelo de una revista.
+599.0	JOVEN HOMBRE DEPORTE RAFTING	El deportista de rafting es joven.
+125.0	YO YA CONVENCER MI AMIGO IR FIESTA	Convencí a mi amigo de ir a la fiesta.
+50.0	ESCUELA CONSTRUCCIÓN YA AVANZADA	La construcción de la escuela ya está avanzada.
+65.0	MAÑANA BARCO YA LLEGAR	El barco llegó en la mañana.
+235.0	INVIERNO dm-JOSÉ TOS ENFERMAR	José se enfermó de tos en invierno.
+576.0	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	La semana pasada mi papá cortó la hierba con la hoz.
+895.0	SIEMPRE ELLOS DISCUTIR	Ellos siempre discuten.
+227.0	PIZZA OCHO ELLOS REBANAR	Ellos rebanaron la pizza en ocho partes.
+796.0	MI HERMANO+MUJER NO NACER TEXAS	Mi hermana no nació en Texas.
+275.0	YO CONOCER BANGLADESH YA BONITO VERDAD	Yo conozco Bangladesh, es muy bonito de verdad.
+769.0	ESE VESTIDO FEO YO NO-GUSTAR	Ese vestido es feo, no me gusta.
+788.0	YO IR BANCO DINERO RETIRAR	Voy al banco a retirar dinero.
+857.0	dm-JUAN GABRIEL NACER CIUDAD JUÁREZ	Juan Gabriel nació en Ciudad Juárez.
+513.0	MI NÚMERO TELÉFONO SUSPENDER YA	Ya suspendieron mi número de teléfono.
+3.0	¿Y-ESO?	¿Y eso?
+404.0	TUYO SOBRINO ATRÁS MI ESPOSO	Tu sobrino está atrás de mi esposo.
+710.0	LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA	Nosotros aprendemos gramática en la escuela.
+253.0	TÚ EMBARAZO, YA LUEGO TÚ AMAMANTAR	Tú estás embarazada, después vas a amamantar.
+566.0	DICIEMBRE MUCHAS PERSONAS ESQUIAR IR	En diciembre muchas personas van a esquiar.
+558.0	SIEMPRE TODO TU ESPOSO DAR-EL-AVIÓN	Tu esposo siempre me da el avión en todo.
+331.0	ESE BLANCO GATO RASGUÑAR	Ese gato blanco rasguña.
+597.0	HOMBRE GOBERNADOR PUBLICIDAD COLOCAR COLOCAR CALLES	El gobernador colocó mucha publicidad por las calles.
+512.0	AYER SUÉTER YO COMPRAR	Ayer compré un suéter.
+614.0	ALGUNA PERSONA QUERER DONAR SANGRE PODER VENIR HOSPITAL	Alguna persona que quiera donar sangre puede venir al hospital.
+314.0	ÉL YA COMPRAR #TV CONTADO	Él compró esa televisión de contado.
+86.0	TELÉFONO MI LISTA CONTACTO CONTACTO YO YA BORRAR	Borré los contactos de mi teléfono.
+944.0	MI PRIMO ORIZABA VIVIR	Mi primo vive en Orizaba.
+880.0	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	Ayer entregué el enganche de mi auto.
+379.0	ALGUNAS PERSONAS ANALFABETO	Algunas personas son analfabetas.
+588.0	MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER	Usa maleta de ruedas mejor, no lastima el cuerpo.
+573.0	HOY YO IR ZOOLOGICO YO VER YA GORILA	Hoy fuí al zoológico y vi un gorila.
+435.0	SUEGRO MI PRIMO dm-SAMUEL ÉL CIEGO ÉL	El suegro de mi primo Samuel es ciego.
+406.0	AUSTRÍA SU PAÍS HERMOSO	Austria es un país hermoso.
+488.0	PAN BOLILLO TÚ COMPRAR	Compra pan bolillo.
+801.0	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	Él desea conquistar a una mujer, pero tiene miedo de que lo abandonen.
+798.0	VAGINA ADENTRO CUERPO ORIGINAL MUJER	La vagina es un órgano femenino.
+449.0	YO VIAJAR CONTIGO	Yo no viajo contigo.
+122.0	MI GATO ACARICIAR TRANQUILO	Yo acaricio a mi gato, él es muy tranquilo.
+424.0	CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR	En la escuela cada niño tiene una computadora para trabajar.
+6.0	NO ABOFETEAR MI	No me abofetees.
+269.0	YO ASUSTAR ARAÑAS YO MIEDO	Me asusto con las arañas, me dan miedo.
+839.0	MI MAMÁ CATÓLICA	Mi mamá es católica.
+610.0	NECESITAR EJERCICIO EJERCICIO PARA SALUD	Es necesario hacer ejercicio para estar sano.
+916.0	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	Mi familia siempre dona a Teletón.
+262.0	YO NO GUSTAR ARAÑA	A mí no me gustan las arañas.
+213.0	DISFRAZ HACER. PAPEL	El disfraz está hecho de papel
+306.0	YO CONFUNDIR TI TU MAMÁ USTEDES-DEDOS PARECIDOS	Te confundo a ti y a tu mamá porque se parecen.
+688.0	HOMBRE DUEÑO DENTRO ESA FÁBRICA ANTES ÉL ACUSAR ENRIQUECIMIENTO-ILÍCITO	El dueño de esa fábrica fue acusado de enriquecimiento ilícito.
+134.0	HACE-PASADO CRISTÓBAL-COLÓN DESCUBRIR AMÉRICA	Cristóbal Colón descubrió América hace años.
+679.0	SUYO SECRETO YO YA DESCUBRIRSE YA	Ya descubrí su secreto.
+854.0	MI PAPÁ CINTURÓN YO REGALAR ÉL	Le regalé un cinturón a mi papá.
+61.0	BANDERA MEXICANA TENER TRES COLORES	La bandera mexicana tiene tres colores.
+80.0	PERSONAS SORDAS TENER SU DERECHO EDUCACIÓN BILINGÜE	Las personas sordas tienen derecho a una educación bilingüe.
+490.0	YO GUSTAR PAPA	Me gustan las papas.
+19.0	CITA DOCTOR ESCRIBIR ANOTAR-AGENDA	El doctor anota la cita en la agenda.
+93.0	¡BUENA NOCHE TÚ DESCANSAR!	¡Buenas noches, que descanses!
+530.0	AYER METRO AMETRALLADORA SOLDADO YO VER	Ayer en el metro vi a un soldado con su ametralladora.
+423.0	CACAHUATES CON LIMÓN SAL YO ENCANTA COMER	Me encanta comer cacahuates con limón y sal.
+784.0	POLLO YO QUERER COMER	Quiero comer pollo.
+765.0	TÚ CUIDAR MUCHO MAÑANA VERNOS	Cuídate mucho, nos vemos mañana.
+849.0	CHIMENEA TÚ ENCENDERfuego	Enciende la chimenea.
+846.0	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	Charles-Michel de l’Épée es el “Padre de los Sordos”.
+265.0	ESA MÁQUINA FALLA COMPONER NECESITA	Esa máquina falla mucho, se necesita que la compongan.
+630.0	TÚ SUERTE OJALÁ	Deseo que tengas mucha suerte.
+7.0	PERSONA ÉL ABOFETEAR MÍ	Esa persona me abofeteó.
+305.0	MI COMPUTADORA PRENDER NO YO PREOCUPADO	Mi computadora no prende, estoy preocupado.
+394.0	TODO CORREO-ELECTRÓNICO USAR ARROBA	Todos los correos usan arroba.
+696.0	AYER YO YA IR GALERÍA	Ayer fui a la galería.
+136.0	TIENDA CERCA DOS CUADRAS	La tienda más cercana está a dos cuadras.
+507.0	MI HERMANO SUYA NOVIO+MUJER SEPARAR YA	Mi hermano terminó con su novia.
+69.0	dm-CÉSAR SU BEBÉ BONITO	El bebé de César es muy bonito.
+538.0	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	Hoy compré en Wal-Mart una bomba de aire para mi papá.
+561.0	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	Cuando me acabo de bañar siempre me pongo desodorante.
+266.0	YA ELLOS ARRESTAR ÉL	Ellos lo arrestaron.
+60.0	AYER BANCO dm-ROCÍO DINERO RETIRAR	Rocío retiró dinero ayer en el banco.
+370.0	¿TÚ CREER TODOS ALMA TENER?	¿Crees que todos tenemos alma?
+901.0	MAÑANA MI TÍO MUDARSE CASA	Mi tío se mudará de casa mañana.
+367.0	DIARIO ALABANZA DIOS, NOSOTROS HACER	Todos los días hacemos alabanzas a Dios.
+799.0	VILLAHERMOSA MUCHO CALOR	En Villahermosa hace mucho calor.
+359.0	ADMINISTRACIÓN DELEGACIÓN ELLOS IR	Ellos fueron a la administración de la delegación.
+967.0	YO NO-FUI VIDRIO ROMPER ROMPER	Yo no fui el que rompió el vidrio.
+230.0	SEÑORA dm-MARÍA TENER COCINA	La señora María tiene una cocina.
+690.0	YO CREER ESPÍRITU SANTO	Yo creo en el Espíritu Santo.
+113.0	TODO PRODUCTO CÓDIGO-DE-BARRAS ETIQUETA HABER	Todos los productos se etiquetan con un código de barras.
+881.0	HACE-TIEMPO ENRIQUE-PEÑA-NIETO GOBERNADOR ESTADO-DE-MÉXICO	Enrique Peña Nieto fue gobernador del Estado de México.
+403.0	COMPETENCIA ATLETISMO MI AMIGO+MUJER YA INSCRIBIRSE	Mi amiga se inscribió en una competencia de atletismo.
+465.0	ANTES CANCÚN IDA-Y-VENIR	Fui a Cancún de ida y vuelta.
+295.0	YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR	Me duele la espalda porque ayer cargué un mueble.
+365.0	JUGUETE MI AHIJADO YO REGALAR ÉL YA	Le regalé un juguete a mi ahijado.
+911.0	TÚ NO PREOCUPAR DEJARLO-ASÍ	No te preocupes, déjalo así.
+803.0	MAÑANA TRABAJO dm-JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR	Mañana Juan y yo nos acompañaremos al trabajo.
+716.0	COLOR GRIS YO GUSTAR	Me gusta el color gris.
+525.0	TODO AFORTUNADO	Tú eres muy afortunado en todo.
+885.0	NOSOTROS-DE-DOS TERMINAR-COMO-AMIGOS	Terminamos como amigos.
+340.0	¡AY! SORPRESA AQUÍ YO VER TI	¡Ay! qué sorpresa verte aquí.
+962.0	CAMPESINO MAÍZ SEMBRAR	El campesino siembra maíz.
+84.0	dm-DAVID SU PAPÁ BOMBERO	El papá de David es bombero.
+676.0	MAÑANA YO DINERO DEPOSITAR BANCO	Mañana voy a depositar el dinero en el banco.
+400.0	FILIPINAS SUYO ASIA	Filipinas está en Asia.
+790.0	TÚ DEBER SEGUIR ESTUDIAR	Debes seguir estudiando.
+369.0	DIARIO MI VECINO IR ALCOHÓLICOS-ANÓNIMOS	Mi vecino va diario a Alcohólicos Anónimos.
+976.0	HERMANO ÚLTIMO DOCTOR-DIENTES	Mi hermano menor es dentista.
+836.0	ANTES PRESIDENTE MÉXICO ¿QUIÉN? CARLOS-SALINAS-DE-GORTARI	¿Quién fue el presidente de México? Carlos Salinas de Gortari.
+304.0	¿DÓNDE TUYO CÓMPLICE DÓNDE?	¿Dónde está tu cómplice?
+469.0	ISLANDIA DÓNDE LUGAR EUROPA	Islandia se encuentra en Europa.
+62.0	BANDERA CAER MIENTRAS CEREMONIA	La bandera se cayó durante la ceremonia.
+453.0	YO CONOCER ÉL BIEN YA YO VER ÉL CONSTA	Yo lo conozco bien, me consta.
+899.0	JABÓN BURBUJAS	El jabón hace burbujas.
+875.0	CRISTIANA YO CREER FE	Yo creo en la fe cristiana.
+652.0	AMETRALLADORA DIFERENTE YO NO-GUSTAR	A mí no me gustan las ametralladoras.
+18.0	NOSOTROS IR JUGAR AFUERA	Vamos a jugar afuera.
+206.0	ALBERCA YO NADAR	Yo nado en la alberca.
+5.0	PERRO DEBAJO MESA	El perro está debajo de la mesa.
+692.0	METRO LÍNEA NÚMERO 12 FALLO CONSTRUIR ARREGLAR	La línea 12 del metro tuvo un gran fallo estructural.
+497.0	HOMBRE MUJERIEGO MUCHO	Hay muchos hombres mujeriegos.
+519.0	NOSOTROS FUTBOL JUGAR GANAR ¡VIVA!	Ganamos el partido de futbol, ¡viva!
+131.0	JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER	El muchacho corteja a su novia.
+888.0	¿CUÁNTOS MÉXICO-NACIONAL SORDOS HABER?	¿Cuántos sordos hay en México?
+97.0	MI HERMANO BICICLETA ÉL CAER	Mi hermano se cayó de la bicicleta.
+738.0	LEGISLADOR YA PROPONER NUEVA LEY LSM	El legislador propuso una nueva ley de LSM.
+622.0	VENTANA FILA GOBIERNO TRÁMITE ENTREGAR PAPEL DEBER PONER-SELLO	Entrega el trámite en la ventanilla de gobierno, deben poner un sello.
+190.0	dm-MARÍA LOTERÍA GANAR AHORA MILLONARIA ELLA	María ganó la lotería, ahora es millonaria.
+862.0	MAÑANA COMBI YO IR A MI CASA	Mañana me iré en combi a mi casa.
+728.0	TU INE TÚ DEBER MOSTRAR PARA PERMISO PASAR	Debes mostrar tu INE para poder pasar.
+273.0	¿DÓNDE BALÓN DÓNDE?	¿Dónde hay un balón?
+472.0	FÁCIL APRENDER LETRA ABECEDARIO	Es fácil aprender las letras del abecedario.
+260.0	APENAS, YO VER TI	Apenas te vi (hace poco).
+557.0	AYER dm-JOSEFINA, dm-ALBERTO AMBOS DADOS JUGAR	Josefina y Alberto jugaron dados ayer.
+280.0	SÍ YO GUSTAR JUGAR BOLICHE	A mí sí me gusta jugar boliche.
+168.0	FRECUENTEMENTE YO IR CINE	Frecuentemente voy al cine.
+282.0	YO VER BIEN YO BORROSO	No veo bien, veo borroso.
+906.0	REFRIGERADOR HABER COMIDA CADUCADA	En el refrigerador hay comida caducada.
+853.0	DECIR CHISME DIRECTOR ESO NO CIERTO	El rumor sobre el director no era cierto.
+297.0	ELLA LLORAR PORQUE CEBOLLA PICAR	Ella llora porque pica cebolla.
+832.0	UNA-VEZ MAÑANA FIESTA CANTAR	Mañana sólo cantaré una canción en la fiesta
+761.0	NUESTRA CITA LUGAR TAXQUEÑA	Nuestra cita es en Taxqueña.
+617.0	SECRETARIA ELLA COMPUTADORA CARTA ARCHIVO	La secretaria está capturando la carta.
+139.0	MI AMIGO dm-RODOLFO DADIVOSO	Mi amigo Rodolfo es muy dadivoso.
+643.0	dm-NOEMÍ YA ULTRASONIDO PARA SABER SUYO BEBE NIÑO NIÑO+MUJER	Noemí se hizo un ultrasonido para saber si su bebé era niño o niña.
+355.0	NOSOTROS TENER MUCHA ACTIVIDAD DIFERENTE ESCUELA	Nosotros tenemos muchas actividades en la escuela.
+528.0	ALGUIEN ÉL AYUDAR MÍ	Algunas personas son voluntarias en la Cruz Roja.
+37.0	MAESTRO ALUMNOS REUNIÓN APARTE	El maestro se reunió aparte con sus alumnos.
+868.0	AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ	Ayer me dieron la constancia de la secundaria.
+671.0	ESA PERSONA COLMILLO TÚ CUIDAR	Esa persona es astuta, ten cuidado.
+301.0	JUGUETE CARRO YO GUSTAR COLECCIONAR	Me gusta coleccionar carros de juguete.
+	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
+	BANDERA MEXICANA TRES TENER COLORES	en la bandera mexicana tiene tres colores
+	AMETRALLADORA DIFERENTE YO NO-GUSTAR	a m no me gustan las ametralladoras
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	PERSONA ÉL ABOFETEAR MÍ	el persona me abofeteó
+	ESO BONITO YO SÍ GUSTAR	eso es muy bonito s me gusta
+	PERSONA ÉL ABOFETEAR MÍ	el persona me abofeteó
+	AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
+	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
+	MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR	mi papá llena el formato para tramitar su licencia de manejo
+	POLVO YO MUCHO ESTORNUDAR	el polvo yo estornudo mucho
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	AYER COCA-COLA YO COMPRAR	ayer compré una coca cola
+	SEÑORA MARÍA TENER COCINA	la seora tiene cocina
+	AYER SUÉTER YO COMPRAR	ayer compré un suéter
+	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	SEÑORA MARÍA TENER COCINA	la seora tiene cocina
+	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	JUANA SU AMIGO ÁRABE	el amigo de juana es árabe
+	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
+	AÑO-PASADO MI GENERACIÓN GRADUAR	mi generación se graduó el ao pasado
+	BIBLIA DENTRO ADÁN NOMBRE HABER	en la biblia está el nombre de adán
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
+	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
+	SAPO YA CONVERTIR PERSONA PRÍNCIPE	el sapo se convirtió en prncipe
+	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
+	AÑO-PASADO MI GENERACIÓN GRADUAR	mi generación se graduó el ao pasado
+	AÑO-PASADO UNIVERSIDAD YO TERMINAR	el ao pasado terminé la universidad
+	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	BIBLIA DENTRO ADÁN HABER NOMBRE	en la biblia está el nombre de adán
+	AYER COCA-COLA YO COMPRAR	ayer compré una coca cola
+	JUGUETE MI AHIJADO YO REGALAR ÉL YA	el regalé un juguete a mi ahijado
+	PERSONA ÉL ABOFETEAR MÍ	el persona me abofeteó
+	SEMANA PASADA, PLAZA IR UNIVERSIDAD YO	la semana pasada fui a plaza universidad
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	SU HIJO ÉL ABANDONAR	él abandonó a su hijo
+	MÍ MAMÁ COMPRAR CALZÓN	má mamá me compró un calzón
+	SEXTO-PRIMARIA MI HIJO YA REPROBAR	mi hijo reprobó el sexto de primaria
+	ALMOHADA CÓMODA ALMOHADA PARA DORMIR	la almohada es muy cómoda para dormir
+	ALMOHADA CÓMODA ALMOHADA PARA DORMIR	la almohada es muy cómoda para dormir
+	AMETRALLADORA DIFERENTE NO-GUSTAR YO	a m no me gustan las ametralladoras
+	AMETRALLADORA DIFERENTE YO NO-GUSTAR	a m no me gustan las ametralladoras
+	AÑO-PASADO MI GENERACIÓN GRADUAR	mi generación se graduó el ao pasado
+	SEXTO-PRIMARIA MI HIJO YA REPROBAR	mi hijo reprobó el sexto de primaria
+	SEÑORA MARÍA TENER COCINA	la seora tiene cocina
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	HOMBRE EGIPCIO NO RESPONDER	el egipcio no respondió
+	AÑO-PASADO UNIVERSIDAD YO TERMINAR	el ao pasado terminé la universidad
+	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	MÍ MAMÁ COMPRAR CALZÓN	má mamá me compró un calzón
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
+	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	DOMINGO IGLESIA YO IR CONFESAR YO	el domingo me iré a confesar a la iglesia
+	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
+	SU HIJO ÉL ABANDONAR	él abandonó a su hijo
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fu al zoológico y vi un gorila
+	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
+	AYER CINE MI PRIMO YA ÉL CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la álvaro obregón
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fu al zoológico y vi un gorila
+	FÁCIL APRENDER LETRA ABECEDARIO	el sácil aprender las letras del abecedario
+	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
+	SEXTO-PRIMARIA MI YA HIJO REPROBAR	mi hijo reprobó el sexto de primaria
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	AYER SUÉTER YO COMPRAR	ayer compré un suéter
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
+	JUGUETE MI AHIJADO YO REGALAR ÉL YA	el regalé un juguete a mi ahijado
+	AYER MI TIO SAN FRANCISCO YA LLEGAR	ayer mi ti san francisco ya llegó
+	POLVO YO MUCHO ESTORNUDAR	el polvo yo estornudo mucho
+	SU HIJO ÉL ABANDONAR	él abandonó a su hijo
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	FÁCIL APRENDER LETRA ABECEDARIO	el sácil aprender las letras del abecedario
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	ALMOHADA CÓMODA ALMOHADA PARA DORMIR	la almohada es muy cómoda para dormir
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	MÍ MAMÁ COMPRAR CALZÓN	má mamá me compró un calzón
+	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
+	FÁCIL APRENDER LETRA ABECEDARIO	el sácil aprender las letras del abecedario
+	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
+	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
+	MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR	mi papá llena el formato para tramitar su licencia de manejo
+	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	HOMBRE EGIPCIO NO RESPONDER	el egipcio no respondió
+	AYER SUÉTER YO COMPRAR	ayer compré un suéter
+	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la álvaro obregón
+	AYER MI AUTOMÓVIL ENTREGAR-ENGANCHE YO	ayer entregué el enganche de mi auto
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	JUANA SU AMIGO ÁRABE	el amigo de juana es árabe
+	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	AÑO-PASADO UNIVERSIDAD YO TERMINAR	el ao pasado terminé la universidad
+	PARQUE ADENTRO AZCAPOTZALCO IR NOSOTROS	el parque de azcapotzalco es muy nosotros
+	ESO BONITO SÍ YO GUSTAR	eso es muy bonito s me gusta
+	MI PAPÁ LLENAR-FORMATO PARA MANEJO LICENCIA TRAMITAR	mi papá llena el formato para tramitar su licencia de manejo
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
+	SAPO YA CONVERTIR PERSONA PRÍNCIPE	el sapo se convirtió en prncipe
+	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
+	ESO BONITO SÍ YO GUSTAR	eso es muy bonito s me gusta
+	BIBLIA DENTRO ADÁN NOMBRE HABER	en la biblia está el nombre de adán
+	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
+	AYER MI TIO SAN FRANCISCO YA LLEGAR	ayer mi ti san francisco ya llegó
+	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
+	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
+	JUANA SU AMIGO ÁRABE	el amigo de juana es árabe
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fu al zoológico y vi un gorila
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	DOMINGO IGLESIA YO IR CONFESAR YO	el domingo me iré a confesar a la iglesia
+	AYER COCA-COLA YO COMPRAR	ayer compré una coca cola
+	DOMINGO IGLESIA YO IR CONFESAR YO	el domingo me iré a confesar a la iglesia
+	Spanish to mslg: PERRO TENER MUCHO SED	el perro tiene mucha sed
+	DOMINGO IGLESIA YO IR CONFESAR YO	el domingo me iré a confesar a la iglesia
+	SIEMPRE CUANDO ACABAR BAAR YO PONER-DESODORANTE	cuando le acabo de bañarse simpre me pongo desodorante
+	Spanish to mslg: YO YA GANAR CAMPEONATO	yo gané el campeonato
+	AYER MAM PREPARAR ATOLE	ayer mi papá preparó atole
+	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
+	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
+	Spanish to mslg: EDGAR MAESTRO	edgar es maestro
+	AYER MI LIGUE YO PERDER	ayer perdí mi liga
+	Spanish-to-mslg: medicina es una carrera que exige concentración	la medicina es una carrera que exige concentración
+	YO CONFUNDIR TI TU MAM PORQUE SE PARECIDAR	te confundo a ti y a tu mamá porque se parecen
+	SIEMPRE CUANDO ACABAR BAAR YO PONER-DESODORANTE	cuando me acabo de bañar siempre me pongo desodorante
+	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
+	AY! SORPRESA AQU YO VER	¡ay qué sorpresa verte aquí
+	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedi un aventón a la caseta
+	SUIZA DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE	en suiza se hablan diferentes idiomas
+	PRXIMO VACACIONES IR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
+	SU HIJO YO ABANDONAR	él abandonó a su hijo
+	SEMANA PASADA PASTO M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
+	AY! SORPRESA AQU YO VER	¡ay qué sopresa verte aquí
+	PRXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	SIEMPRE HIJO SIEMPRE MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mejicana tienen tres colores
+	AO-PASADO UNIVERSIDAD YO TERMINAR	el año pasado terminé la universidad
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fuí al zoológico  vi un gorila
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	Spanish to mslg: escuela cada NIO TENER COMPUTADORA PARA TRABAJO	en la escuela cada niñito tiene una computadora para trabajar
+	Spanish to mslg: EDGAR MAESTRO	edgar será maestro
+	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
+	Spanish to mslg: T YA DEBER RESPONSABLE T YA ADULTO	tú ya debes ser responsable no eres un adultos
+	YA MUCHO MUCHO YA ABUSAR	él ya abusó mucho de mí
+	IGLESIA CAMPANA PESCA HABER	en la iglesia hay una campana sumamente pequeña
+	AYER YA PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí un aventón a la caseta
+	YA HIJO MI VECINO+MUJER TENER AUTISMO	la hijo de mi vecina tiene autismo
+	AYER SUETER YA YA COMPRAR	ayer compré un suéter
+	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
+	Spanish to mslg: PERRO TENER MUCHO SED	el perro tiene mucha sed
+	Spanish to mslg: YO TENER TRABAJO YA CONTENTO	ya tendré trabajo estoy contento
+	MI PAP LLENAR-FORMATO PARA LICENCIA-DE-MANEJO TRAMITAR	mi papá llena el formato para tramitar su licencia de manejo
+	T YA CONOCER ARGENTINA?	¿ tú ya conoces argentina ?
+	PRXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	SSLG EGIPCIO NO RESPONDER	el egipcio no respondió
+	T YA CENAR?	¿ ya cenaste ?
+	SEMANA PASADA PASTO M PAP HOZ CORTAR	la semana pasada mi padre cortó la hierba con la hoz
+	SSLG EGIPCIO NO RESPONDER	el egipcio no respondió
+	Spanish to mslg: YO DUEL ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	Spanish to mslg: ESE VESTIDO FEO YO GUSTAR	ese vestido es feo ya me gusta
+	SU AO-PASADO UNIVERSIDAD YO TERMINAR	el año pasado finalicé la universidad
+	Spanish to mslg: YO YA GANAR CAMPEONATO	yo gané el campeonato
+	Spanish to mslg: YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
+	T YA CENAR?	¿ ya cenaste ?
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
+	Spanish to mslg: YO DUEL ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	Spanish to mslg: EDGAR MAESTRO	edgar es maestro
+	SU PERRO MUCHO DEBAJO MESA	el perro está debajo de la mesa
+	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
+	Spanish to mslg: barreras de comunicación pueden eliminarse	las barreras de comunicación pueden eliminarse
+	Spanish to mslg: escuela cada NIO TENER COMPUTADORA PARA TRABAJO	en la escuela cada niño tiene una computadora para trabajar
+	SEXTO-PRIMARIA MI HIJO YA REPROBAR	mi hijo reprobó el sexto de primaria
+	Spanish to mslg: T YA DEBER RESPONSABLE T YA ADULTO	tú ya debes ser responsable ya eres un adulto
+	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
+	SLGA FRCIL APRENDER LETRA ABECEDARIO	es fácil aprender esas letras del abecedario
+	JUANA SU AMIGO RABE	un amigo de juana es árabe
+	Spanish to mslg: YO ABANDONAR MI HIJO	yo abandoné a mi hijo
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	SIEMPRE BEBÉ EXPRESIVO	el bebé siempre es muy expresivo
+	Spanish to mslg: EDGAR MAESTRO	edgar será maestro
+	Spanish to mslg: encaaaanta comer cacahuates con limón y sal	me encaaaaanta comer cacahuates con limón y sal
+	BARCO CAPITN YA INTELIGENTE	el capitán del barco es muy inteligente
+	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidades
+	Spanish to mslg: 12las próxima minivacaciones pasaré viaje a ciudad obregón	12las próximas mini-vacaciones pasaré de viaje a ciudad obregón
+	YA MUCHO MUCHO YA ABUSAR	él ya abusó mucho de mí
+	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
+	AMETRALLADORA DIFERENTE YO NO-GUSTAR	a mí no me gustan las ametralladoras
+	MADRUGADA EXPLOSIN YO ESCUCHAR	en la madrugada escuché una explosión
+	Spanish to mslg: 11las barreras de comuncación pueden identificarse	11las barreras de comuncación pueden identificarse
+	YO CONFUNDIR TI TU MAM PORQUE SE PARECIDAR	te confundo a ti y a tu mamá porque se parecen
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	SIEMPRE HIJO SIEMPRE MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
+	MADRUGADA EXPLOSIN YO ESCUCHAR	en la madrugada escuché una explosión
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fuí al zoológico y vi un gorila
+	AYER CINE MI PRIMO YA YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiguita en el cine
+	SEPARAR MI JEFE ÉL PAGAR M SUELDO	mi jefe me pagó la mitad del sueldo
+	AYER YA PASEAR SENTIR BIEN	ayer fui a pasear  me senti muy bién
+	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
+	SUIZA DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE DIFERENTE	en suiza se hablan diferentes idiomas
+	T CONTESTAR MI PREGUNTA PODER?	¿ puedes contestar mi pregunta ?
+	Spanish to mslg: YO IR ACTA LEVANTAR IR jurisdicción	yo fuí a levantar un acta a la jurisdicción
