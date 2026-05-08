@@ -10,3 +10,5 @@ outputs/model*/
 
 # Virtual environments
 .venv
+cc.ar.300.bin
+cc.es.300.bin
