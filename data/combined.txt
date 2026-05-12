@@ -489,1459 +489,494 @@ ID	MSLG	SPA
 868.0	AYER CONSTANCIA SECUNDARIA ELLOS DAR MÍ	Ayer me dieron la constancia de la secundaria.
 671.0	ESA PERSONA COLMILLO TÚ CUIDAR	Esa persona es astuta, ten cuidado.
 301.0	JUGUETE CARRO YO GUSTAR COLECCIONAR	Me gusta coleccionar carros de juguete.
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	ÉL BUENO ÉL ALUMNO	él es un buen alumno
-	YO TENER TRABAJO CONTENTO YA YO	ya tengo trabajo estoy contento
-	SEMANA PASADA YO IR AVENTN CASETA	la semana pasada fui a ventan la caseta
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teleton
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	MSLG YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
+	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
+	COMIDA TENER MUCHO GRASA	la comida tiene mucha grasa
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
+	ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO	adolfo lópez mateos fue presidente de méxico
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	ESTE JUGUETE BARATO	el juguete está barato
+	¿TÚ YA CONOCER ARGENTINA?	t ya conoces argentina?
 	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MUCHO PERRO MUCHO SED	el perro tiene mucha sed
-	LLANTA COCHE DEBER CAMBIAR TÚ	debes cambiar la llanta del coche
-	MUCHO PERRO MUCHO SED	el perro tiene mucha sed
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	BANDERA MÉXICO ESCUDO MUCHO BONITO ESE	el escudo de la bandera de méxico es muy bonito
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	MSLG VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	BICICLETA MI HERMANO CAER	mi hermano se cayó de la bicicleta
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR	en la escuela cada nio tiene una computadora para trabajar
+	YO GUSTAR GALLETA DIFERENTE GAMESA	me gustan las galletas gamesa
 	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
+	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
 	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
 	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	MUCHO MUCHO EJERCER FORTALECER ÉL	el sexe del muy ejercicio para fortalecerse
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	PALACIO-DE-LOS-DEPORTES YO YA ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	MUCHO CUERLA NIO TENER COMPUTADORA PARA TRABAJAR	en la espagnole del cuerla tiene una computadora para trabajar
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	SEMANA PASADA YO IR AVENTN CASETA	la semana pasada fui a ventan la caseta
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	AYER MI ENTREGAR-ENGANCHE AUTOMÓVIL YO	ayer mi entregué el enganche de auto
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
+	HOY NUEVO SACERDOTE YO YA CONOCER ÉL	hoy conoc al nuevo sacerdote
+	ESO BONITO SÍ YO GUSTAR	eso es muy bonito s me gusta
+	LEGISLADOR YA PROPONER NUEVA LEY LSM	el legislador propuso una nueva ley de lsm
+	CHAPULTEPEC HABER LAGO	en chapultepec hay un lago
+	MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR	maana juan y yo nos acompaaremos al trabajo
+	PAVO COMIDA BASICA NAVIDAD	el palvo es la comida básica en navidad
+	YO NECESITAR PAPEL PARA AGUA ABSORBER	necesito papel para absorber el agua
+	PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE	el sábado pasado es un grave accidente en la carretera
+	ESE CARRO NUEVO LUJOSO	es es el carro nuevo es muy lujoso
+	TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE	el TEMPRANO CORRER yo debo acostumbre
+	MI HERMANO+MUJER YA EMBARAZADA	mi hermana está embarazada
+	HOY NUEVO SACERDOTE YO YA CONOCER ÉL	hoy conoc al nuevo sacerdote
+	PAVO COMIDA BASICA NAVIDAD	el palvo es la comida básica en navidad
+	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nostras
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	MÉXICO BIBLIOTECA GRANDE	la biblioteca de méxico es muy grande
+	MAÑANA YO VIAJAR ÁFRICA	maana voy a viajar a áfrica
+	DELEGACIÓN YO YA IR ACTA LEVANTAR	yo fui a levantar un acta a la delegación
+	CORONA-DE-OLIVO ELLOS PONER ÉL	le pusieron la corona de olivo
+	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
 	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	MI GATO ACARICIAR TRANQUILO	el acaricio de mi gato es muy tranquilo
+	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nostras
+	MAESTRO ALUMNOS REUNIÓN APARTE	el maestro se reunió aparte con sus alumnos
+	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol el wal-mart una bomba de aire para mi papá
 	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obren
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	SEMANA PASADA, IR PLAZA UNIVERSIDAD YO	la semana pasada fui a plaza universidad
-	CARRO NUEVO LUJOSO	el carro nuevo es muy lujoso
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
+	BOSNIA-HERZEGOVINA ESE PAÍS LEJOS	en la biblioteca bosnia y herzegovina es un pas muy lejano
+	YO YA GANAR CAMPEONATO	yo gané el campeonato
 	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
+	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
+	HOY MÍ CELULAR YO YA TENER SALDO	hoy mi celular ya tiene saldo
+	YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	BANDERA MEXICANA TRES COLORES TENER	la bandera mexicana tiene tres colores
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	SUÉTER BLANCO YO PERDER	yo perd el suéter blanco
+	MI ABUELO TENER RIFLE VIEJO	mi abuelo tiene un rifle viejo
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	MI CRONÓMETRO YA PERDER	mi cronómetro se perdió
+	MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO	mi mamá cocina en la olla express caldo de pollo sabroso
+	CORONA-DE-OLIVO ELLOS PONER ÉL	le pusieron la corona de olivo
+	MI ABUELO+MUJER HACER RICO CHOCOLATE	mi abuela hace un chocolate muy rico
+	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	CORONA-DE-OLIVO ELLOS PONER ÉL	le pusieron la corona de olivo
+	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
+	ISABEL TENER SU CORONA ORO	isabel tiene una corona de oro
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY	mi auto no tiene cinturón de seguridad
+	CHAPULTEPEC HABER LAGO	en chapultepec hay un lago
+	LEGISLADOR YA PROPONER NUEVA LEY LSM	el legislador propuso una nueva ley de lsm
+	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
+	HOY YO YO IR ZOOLOGICO VER GORILA YA	hoy fu al zoológico y vi un gorila
+	LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA	nosotros aprendemos gramática en la escuela
+	PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE	el sábado pasado es un grave accidente en la carretera
+	YO NECESITAR PAPEL PARA AGUA ABSORBER	necesito papel para absorber el agua
+	AYER SUÉTER YO COMPRAR	ayer compré un suéter
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	MI HIJO YO ABANDONAR	yo abandoné a mi hijo
+	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
+	SACAR-COPIA TÚ DEBER	debes sacar una copia
+	MI PRIMO UNIVERSIDAD YA INGRESAR	mi primo ingresó a la universidad
+	ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO	alondra le prometió a su mamá ser médio
+	ALCOHOL YO NO-GUSTAR	yo no me gustan las alcohos
+	CAJA PEQUEÑA SU COLOR ROJO	la caja pequea es un color rojo
+	PERRO DEBAJO MESA	el perro está debajo de la mesa
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fu al zoológico y vi un gorila
+	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
+	MI COMPUTADORA PRENDER NO YO PREOCUPADO	mi computadora no prende estoy preocupado
+	SAPO YA CONVERTIR PERSONA PRÍNCIPE	el sapo se convirtió en prncipe
+	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
+	CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR	en la escuela cada nio tiene una computadora para trabajar
 	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el francil aprender las letras del abecedario
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teleton
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entrega el enganche de mi auto
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	ALICIA YA VIAJAR SUDÁFRICA	en la espagnol del alicina ya viajó a sudáfrica
+	ÁLVARO OBREGÓN VIVIR YO	yo vivo en la mexicana álvaro obregón
 	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	MO TENER CASA CUERNAVACA	el samba tiene una casa en cuernavaca
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SBADO PASADA HABER ACCIDENTE GRAVE CARRETERA	el sambado pasada hay un accidente en la carretera
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	MUJER TENER VÁGINA	las mujeres tienen vágina
+	AYER SUÉTER COMPRAR YO	ayer compré un suéter
+	HOSPITALACÁ TODA ENFERMERA AMABLE	todas las enfermeras del hospital son muy amables
+	ESO BONITO SÍ YO GUSTAR	eso es muy bonito s me gusta
+	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
+	PAVO COMIDA BASICA NAVIDAD	el palvo es la comida básica en navidad
+	AUSTRALIA DECIR HABER MUCHO CANGURO	en australia hay muchos canguros
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	COMIDA TENER MUCHO GRASA	la comida tiene mucha grasa
 	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	MSLG YO YA GANAR CAMPEONATO	yo gané el campeonato
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entrega el enganche de mi auto
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	SEMFORO YO PASAR AHORA MULTA YO PAGAR	me pasé un sémifro ahora tengo que pagar una multa
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	SEMANA PASADA, YO PLAZA IR UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	SBADO PASADA HABER ACCIDENTE GRAVE CARRETERA	el sambado pasada hay un accidente en la carretera
+	MI ABUELO+MUJER HACER RICO CHOCOLATE	mi abuela hace un chocolate muy rico
+	MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO	mi mamá cocina en la olla express caldo de pollo sabroso
+	MI HERMANO+MUJER YA EMBARAZADA	mi hermana está embarazada
+	MÉXICO BIBLIOTECA GRANDE	la biblioteca de méxico es muy grande
+	CUADERNO YO NECESITAR	el cuaderno es necesito
+	MI HIJO YO ABANDONAR	yo abandoné a mi hijo
+	HOY NUEVO SACERDOTE YO YA CONOCER ÉL	hoy conoc al nuevo sacerdote
+	MI MAMÁ CATÓLICA	mi mamá es católica
+	HOY MÍ CELULAR YO YA TENER SALDO	hoy mi celular ya tiene saldo
+	MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	miguel quiere declarse a su amiga pero no se atreve
+	MAESTRO ALUMNOS REUNIÓN APARTE	el maestro se reunió aparte con sus alumnos
+	ALMOHADA CÓMODA ALMOHADA PARA DORMIR	la almohada es muy cómoda para dormir
 	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	ÁLVARO OBREGÓN VIVIR YO	yo vivo en la liga álvaro obregón
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	MSLG VECINO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando de mi amigo de baar siempre me pongo desodorante
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	MUCHO MUCHO PERSONA ABOFETEAR M	el persona me abofeteó
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teleton
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	ÉL BUENO ÉL ALUMNO	él es un buen alumno
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	MSLG YO YA GANAR CAMPEONATO	yo gané el campeonato
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	MUCHO MUCHO PERSONA ABOFETEAR M	el persona me abofeteó
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	SARAA TRABAJAR ARCHIVO HOSPITAL	saraja trabajar el archivo del hospital
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	yo ve un conveccé a mi amigo de ir a la fiesta
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	MSLG YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
+	ELLA TENER LUNAR BONITO	ella tiene una lunar bonito
+	MÍ ABUELO+MUJER 90 EDAD	mi abuela tiene 90 aos
 	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MUCHO MUCHO ÉL EJERCER FORTALECER	el sexe del muy ejercicio para fortalecerse
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SEMANA PASADA, PLAZA YO IR UNIVERSIDAD	la semana pasada fui a plaza universidad
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obren
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	LLANTA COCHE DEBER CAMBIAR TÚ	debes cambiar la llanta del coche
-	MSLG : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el francil aprender las letras del abecedario
-	SEMANA PASADA YO IR AVENTN CASETA	la semana pasada fui a ventan la caseta
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	LLANTA COCHE DEBER CAMBIAR TÚ	debes cambiar la llanta del coche
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	SEMANA PASADA, PLAZA YO IR UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
+	MI MAMÁ USA CREMA-DE-COSMÉTICO	mi mamá usa crema para la cara
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	MÍ MAMÁ COMPRAR CALZÓN	mi mamá me compró un calzón
+	COMIDA TENER MUCHO GRASA	la comida tiene mucha grasa
+	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	en espagnol le charles-michel de l’épée es el “padre de los sordos”
 	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	SIEMPRE MI FAMILIA DONAR DONAR TELETÓN	mi familia siempre dona a teletón
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	SEMFORO YO PASAR AHORA MULTA YO PAGAR	me pasé un sémifro ahora tengo que pagar una multa
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	MUCHO MUCHO ÉL EJERCER FORTALECER	el sexe del muy ejercicio para fortalecerse
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	yo ve un conveccé a mi amigo de ir a la fiesta
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	ÉL BUENO ÉL ALUMNO	él es un buen alumno
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teleton
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	MUCHO PERRO MUCHO SED	el perro tiene mucha sed
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
+	SIEMPRE HIJO VECINO MÍ DESOBEDECER MUCHO	el hijo de mi vecino siempre es muy desobediente
+	POLICÍA AGENTE NOSOTROS PROTEGER MÍ	la policia judicial nos protege
 	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	MUCHO MUCHO PERSONA ABOFETEAR M	el persona me abofeteó
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	PALACIO-DE-LOS-DEPORTES YO YA ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	MSLG : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	BICICLETA MI HERMANO CAER	mi hermano se cayó de la bicicleta
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	MSLG HIJO MI VECINO TENER AUTISMO	el hijo de mi vecino tiene autismo
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	BANDERA MEXICANA TRES TENER COLORES	en la bandera de la mexicana se tengo colores
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obren
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	ESTE JUGUETE BARATO	el juguete está barato
+	MI HERMANO+MUJER SNORKELING ELLA PRACTICAR	mi hermana practica snorkeling
+	MUCHO PERSONA CORÁN ELLOS CREER	las personas creen en el corán
+	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
 	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obren
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	AYER MI ENTREGAR-ENGANCHE YO AUTOMÓVIL	ayer mi entregué el enganche de auto
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	MSLG NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	ÁLVARO OBREGÓN VIVIR YO	yo vivo en la liga álvaro obregón
-	SARAA TRABAJAR ARCHIVO HOSPITAL	saraja trabajar el archivo del hospital
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	YO IR COMPRAR TIENDA YA JABÓN	yo fui a comprar la tienda de jabbón
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando de mi amigo de baar siempre me pongo desodorante
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SARAA TRABAJAR ARCHIVO HOSPITAL	saraja trabajar el archivo del hospital
-	CARRO NUEVO LUJOSO	el carro nuevo es muy lujoso
+	MI AMIGO RODOLFO DADIVOSO	mi amigo rodolfo es muy dadivoso
+	CUADERNO YO NECESITAR	el cuaderno es necesito
+	ESE CARRO NUEVO LUJOSO	es es el carro nuevo es muy lujoso
+	MI MAMÁ COCINA OLLA-EXPRÉS POLLO CALDO SABROSO	mi mamá cocina en la olla express caldo de pollo sabroso
+	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	en espagnol le charles-michel de l’épée es el “padre de los sordos”
+	SACAR-COPIA TÚ DEBER	debes sacar una copia
 	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	MSLG NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	BARCO CAPITÁN INTELIGENTE ÉL	el capitán del barco es muy inteligente
-	ÉL DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELLA ABANDONAR	él desear conquistar a una mujer pero tiene miedo de que lo abandonen
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el francil aprender las letras del abecedario
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	MUCHO MUCHO ÉL EJERCER FORTALECER	el sexe del muy ejercicio para fortalecerse
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	PRÓXIMO VACACIONES VIAJAR YO CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	ÉL BUENO ÉL ALUMNO	él es un buen alumno
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	SEMANA PASADA, PLAZA YO IR UNIVERSIDAD	la semana pasada fui a plaza universidad
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	MSLG : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	MSLG NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es jOVEN
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	AYER MI ENTREGAR-ENGANCHE YO AUTOMÓVIL	ayer mi entregué el enganche de auto
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando de mi amigo de baar siempre me pongo desodorante
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	PALACIO-DE-LOS-DEPORTES YO YA ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	MUCHO PERSONA ELLOS CREER CORÁN	el personal de ellos creos
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	SBADO PASADA HABER ACCIDENTE GRAVE CARRETERA	el sambado pasada hay un accidente en la carretera
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	PARQUE ADENTRO AZCAPOTZALCO IR NOSOTROS	el parque de azcapotzalco es muy nosotros
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	SARAA TRABAJAR ARCHIVO HOSPITAL	saraja trabajar el archivo del hospital
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	PALACIO-DE-LOS-DEPORTES YO YA ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	AYER MI ENTREGAR-ENGANCHE YO AUTOMÓVIL	ayer mi entregué el enganche de auto
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	CHAPULTEPEC YO YA VER ALGUNO DELFÍN	en el chapultepec vi algunos delfines
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obren
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maraton
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	CARRO NUEVO LUJOSO	el carro nuevo es muy lujoso
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	PRÓXIMO AÑO VIAJAR NOSOTROS LAGO-DE-PÁTZCUARO LUGAR	el próximo ao VIAJAR nosotros lago de pátzcuaro
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	SEMANA PASADA CANELA CINTA COMPRAR YO CENTRO	la semana pasada compré cinta en el centro
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nosotros
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	MSLG VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	SARA MUCHA ALMEJA ELLA ADENTRO MAR ENCONTRAR	sara encontró muchas almejas en el mar
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	en espagnol le charles-michel de l’épée es el “padre de los sordos”
 	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
 	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	ÁLVARO OBREGÓN VIVIR YO	yo vivo en la liga álvaro obregón
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
+	NOSOTROS ABRIR-HORNO PARA PASTEL	el sylvio del abri es un horno para meter los pasteles
+	MI HIJO YO ABANDONAR	yo abandoné a mi hijo
+	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	las próximas vacaciones iré de viaje a ciudad obregón
+	TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE	el TEMPRANO CORRER yo debo acostumbre
+	BOSNIA-HERZEGOVINA ESE PAÍS LEJOS	en la biblioteca bosnia y herzegovina es un pas muy lejano
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fu al zoológico y vi un gorila
+	TEMPRANO DESPERTAR CORRER YO DEBER COSTUMBRE	el TEMPRANO CORRER yo debo acostumbre
 	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MSLG VECINO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	ÁLVARO OBREGÓN YO VIVIR	yo vivo en la liga álvaro obregón
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teleton
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	AYER JOSEFINA, ALBERTO AMBOS DADOS JUGAR	ayer en el jesfina y alberto jugaron dados ayer
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	SUÉTER BLANCO YO PERDER	el suéter blanco se perdió
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	MO TENER CASA CUERNAVACA	el samba tiene una casa en cuernavaca
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
+	MI MAMÁ CATÓLICA	mi mamá es católica
+	ISABEL TENER ORO CORONA SU	isabel tiene una corona de oro
+	DELEGACIÓN YO YA IR ACTA LEVANTAR	yo fui a levantar un acta a la delegación
 	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	MUCHO MUCHO PERSONA ABOFETEAR M	el persona me abofeteó
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	ESE BLANCO GATO RASGUÑAR	ese gato blanco rasgua
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	ALGUNAS PERSONAS ANALFABETO	las algunas personas son analfabetas
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	SIEMPRE MI FAMILIA DONAR DONAR TELETÓN	mi familia siempre dona a teletón
-	AYER SUÉTER YO COMPRAR	ayer compré un suéter
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	AYER MI ENTREGAR-ENGANCHE YO AUTOMÓVIL	ayer mi entregué el enganche de auto
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
+	PANADERÍA YO IR	yo voy a la panadera
+	PANADERÍA YO IR	yo voy a la panadera
+	LUGAR ESCUELA NOSOTROS APRENDER GRAMÁTICA	nosotros aprendemos gramática en la escuela
+	MI AMIGO RODOLFO DADIVOSO	mi amigo rodolfo es muy dadivoso
+	CAJA PEQUEÑA SU COLOR ROJO	la caja pequea es un color rojo
 	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	MSLG NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	CHAPULTEPEC HABER LAGO	en el chapultepec hay un lago
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	MUCHO MUCHO PERSONA ABOFETEAR M	el persona me abofeteó
-	NECESITAR EJERCICIO EJERCICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	yo ve un conveccé a mi amigo de ir a la fiesta
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	BANDERA MÉXICO BONITO ESCUDO ESE MUCHO	el escudo de la bandera de méxico es muy bonito
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	FÁCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	yo ve un conveccé a mi amigo de ir a la fiesta
-	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	MUCHO CUERLA NIO TENER COMPUTADORA PARA TRABAJAR	en la espagnole del cuerla tiene una computadora para trabajar
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MSLG VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	MI TARJETA-DE-CRÉDITO YO PAGAR	yo pago con mi tarjeta de crédito
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maraton
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	MAESTRA MATEMÁTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
-	YO CONOCER BANGLADESH YA BONITO VERDAD	yo conozco bangladesh es muy bonito de verdad
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	ÉL BUENO ALUMNO ÉL	él es un buen alumno
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	PALACIO-DE-LOS-DEPORTES YO YA ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
-	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
-	MUCHO CUERLA NIO TENER COMPUTADORA PARA TRABAJAR	en la espagnole del cuerla tiene una computadora para trabajar
-	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	PERRO DEBAJO MESA	el perro está debajo de la mesa
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
-	JUGUETE CARRO YO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	ELLOS PERSONA ENFERMO TU ENFRENTARSE TÚ CONTAGIAR PODER	ellos personas enfermas te pueden contagiar
-	MUCHO MUCHO ÉL EJERCER FORTALECER	el sexe del muy ejercicio para fortalecerse
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	el próximo vacaciones iré de viaje a ciudad obregón
-	SIEMPRE MI FAMILIA DONAR DONAR TELETÓN	mi familia siempre dona a teletón
-	YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	YO TENER ESCUELA MUCHO AMIGO AMIGO	tengo muchos amigos en la escuela
-	LLUVIA TUBO ROMPER	en la lluvia el tubo se rompió
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	MUCHO MUCHO ÉL EJERCER FORTALECER	el sexe del muy ejercicio para fortalecerse
-	PRXIMO VACACIONES VIAJAR YO CIUDAD-OBREGN	el próximo vacaciones iré de viaje a ciudad obren
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	CHARLES-MICHEL-L´ÉPÉE PADRE SORDO	charles-michel de l’épée es el “padre de los sordos”
-	LLANTA COCHE TÚ DEBER CAMBIAR	debes cambiar la llanta del coche
-	ELLA TENER CABELLO-LACÍO	ella tiene cabello lacio
-	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
-	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	ELLA LLORAR PORQUE CEBOLLA PICAR	ella llora porque pica cebolla
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	yo ve un conveccé a mi amigo de ir a la fiesta
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	YO YA SABER LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
-	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
-	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
-	PAVO COMIDA BASICA NAVIDAD	el pavo es una comida básica en navidad
-	JUAN GABRIEL NACER CIUDAD JUÁREZ	juan gabriel nació en ciudad juárez
-	TOMÁS APÓSTOL JESÚS	tomás es muy apóstol de jess
-	MSLG YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
+	ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO	adolfo lópez mateos fue presidente de méxico
+	MI GATO ACARICIAR TRANQUILO	el acaricio de mi gato es muy tranquilo
+	ALGUNAS PERSONAS ANALFABETO	algunas personas son analfabetas
+	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió el vidario
+	CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY	mi auto no tiene cinturón de seguridad
+	MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	miguel quiere declarse a su amiga pero no se atreve
+	ALCOHOL YO NO-GUSTAR	yo no me gustan las alcohos
 	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	PALACIO-DE-LOS-DEPORTES YO Y A ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	mslg: medicina es una carrera que exige concentración	la medicina es una carrera que exige concentración
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	YO YA COMPRAR WAL-MART BOMBA AIRE PARA MI PAP	hoy compré en wal-mart una bomba de aire para mi papá
-	YO YA COMPRAR BOMBA AIRE PARA MI PAP YA	hoy compre en walmart una bomba de aire para mi papá
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	SIEMPRE ELLOS DISCUTIR	ellos simpre discuten
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	MUCHO MUCHO ÉL EJERCER FORTALECER	él hace mucho ejercicio para fortalecerse
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
-	T YA DESCONOCER ARGENTINA?	¿ tú ya desconoces argentina ?
-	m NO-GUSTAR AMETRALLADORA	a mí no me gustan las ametralladoras
-	MSLG DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELL A REGRUPTER	él desea conquistar a una mujer pero tiene miedo de que lo regresen
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
-	mslg: no te juntes con pesonas enfermas te pueden contagiar	no te juntes con pesonas enfermas te pueden contagiar
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	HOY WAL-MART BOMBA AIRE PARA MI PAP YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	MUCHO IGLESIA CAMPANA PESCA	en la iglesia hay una campana muy pequeña
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	mslg : encnata comer cacahuates con limón y sal	me encnata comer cacahuates con limón y sal
-	MO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
-	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
-	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matematicas dice muchas bromas
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es extremadamente expresivo
-	YO NO-FUI VIDRIO ROMPER	yo no fui el vidrio rompió
-	mslg Spanish YO NO-FUI COMPUTADORA NO-SIRVE	yo no fuí quien descompuso la computadora
-	SIEMPRE NIO SUEO	el niño siempre tiene sueño
-	MUCHO MUCHO PERSONA ABOFETEAR M	esa persona me abofeteó
-	BANDERA MÉXICO ESCUDO ESE TANA ELLOS	el escudo de la bandera de méxico es tan bello
-	mslg : barreras de comunicación pueden eliminarse	las barreras de comunicación pueden eliminarse
-	MSLG PARQUE ADENTRO AZCAPOTZALCO NOSOTROS	el parque de azcapotzalco es muy nosotros
-	mslg TUYO OBLIGACIN PAGAR IMPUESTO	es tu obligación pagar impuesto
+	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
+	MAÑANA YO VIAJAR ÁFRICA	maana voy a viajar a áfrica
+	PARQUE ADENTRO AZCAPOTZALCO NOSOTROS IR	el parque de azcapotzalco es muy nostras
+	MAESTRA MATEMÁTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
+	ANTES ADOLFO-LÓPEZ-MATEOS ÉL PRESIDENTE MÉXICO	adolfo lópez mateos fue presidente de méxico
+	MI COMPUTADORA PRENDER NO YO PREOCUPADO	mi computadora no prende estoy preocupado
+	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
+	CINTURÓN-DE-SEGURIDAD MI AUTO NO-HAY	mi auto no tiene cinturón de seguridad
+	SACAR-COPIA TÚ DEBER	debes sacar una copia
+	YO YA COMPRAR NUEVA ALMOHADA CAMA	compré una almohada nueva para la cama
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	PRÓXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	MI JEFE ÉL PAGAR MÍ SUELDO MITAD	mi jefe me pagó la mitad del sueldo
+	MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR	maana juan y yo nos acompaaremos al trabajo
+	SIEMPRE MI FAMILIA TELETÓN DONAR DONAR	mi familia siempre dona a teletón
+	MI CRONÓMETRO YA PERDER	mi cronómetro se perdió
+	SIEMPRE HIJO MÍ VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	MAÑANA YO VIAJAR ÁFRICA	maana voy a viajar a áfrica
+	PASADO-SÁBADO CARRETERA HABER ACCIDENTE GRAVE	el sábado pasado es un grave accidente en la carretera
+	YO NO-FUI VIDRIO ROMPER ROMPER	yo no fui el vidrio rompió el vidario
+	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
+	ALCOHOL YO NO-GUSTAR	yo no me gustan las alcohos
+	MI MAMÁ CATÓLICA	mi mamá es católica
+	ESO BONITO SÍ YO GUSTAR	eso es muy bonito s me gusta
+	MUCHO PERSONA CORÁN ELLOS CREER	las personas creen en el corán
+	MUJER TENER VÁGINA	las mujeres tienen vágina
+	SIEMPRE NIÑO SUEÑO	el nio siempre tiene sueo
+	MUJER TENER VÁGINA	las mujeres tienen vágina
+	ALMOHADA CÓMODA ALMOHADA DORMIR	la almohada es muy cómoda para dormir
+	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
+	MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER	el malta de ruedas mejor no dolor
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	MÍ MAMÁ COMPRAR CALZÓN	mi mamá me compró un calzón
+	AYER SUÉTER YO COMPRAR	ayer compré un suéter
+	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
+	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
+	HOY MÍ CELULAR YO YA TENER SALDO	hoy mi celular ya tiene saldo
+	PERRO DEBAJO MESA	el perro está debajo de la mesa
+	ESE CARRO NUEVO LUJOSO	es es el carro nuevo es muy lujoso
+	POLICÍA AGENTE NOSOTROS PROTEGER MÍ	la policia judicial nos protege
+	TODOS-SÁBADOS MI AMIGO+MUJER SUYO NOVIO CASINO IR	mi amiga y su novio van los sábados al casino
+	AYER YO PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	YO YA GANAR CAMPEONATO	yo gané el campeonato
+	CADA NIÑO ESCUELA TENER COMPUTADORA PARA TRABAJAR	en la escuela cada nio tiene una computadora para trabajar
+	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
+	LEGISLADOR YA PROPONER NUEVA LEY LSM	el legislador propuso una nueva ley de lsm
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
+	MI JEFE ÉL PAGAR MÍ SUELDO MITAD	mi jefe me pagó la mitad del sueldo
+	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
+	MI HERMANO+MUJER SNORKELING ELLA PRACTICAR	mi hermana practica snorkeling
+	MÉXICO BIBLIOTECA GRANDE	la biblioteca de méxico es muy grande
+	CHAPULTEPEC HABER LAGO	en chapultepec hay un lago
+	MI ABUELO TENER RIFLE VIEJO	mi abuelo tiene un rifle viejo
+	PANADERÍA YO IR	yo voy a la panadera
+	TOMÁS APÓSTOL JESÚS	tomás fue un apóstol de jess
+	¿TÚ YA CONOCER ARGENTINA?	t ya conoces argentina?
+	MI ABUELO TENER RIFLE VIEJO	mi abuelo tiene un rifle viejo
+	MADRUGADA EXPLOSIÓN YO ESCUCHAR	en la madrugada escuché una explosión
+	MI AMIGO RODOLFO DADIVOSO	mi amigo rodolfo es muy dadivoso
+	MI PRIMO UNIVERSIDAD YA INGRESAR	mi primo ingresó a la universidad
+	YO TENER TRABAJO CONTENTO YO YA	yo tengo trabajo estoy contento
+	MIGUEL ÉL QUERER NOVIO+MUJER PERO NO-ATREVERSE	miguel quiere declarse a su amiga pero no se atreve
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	ALGUNAS PERSONAS ANALFABETO	algunas personas son analfabetas
+	MAESTRO ALUMNOS REUNIÓN APARTE	el maestro se reunió aparte con sus alumnos
+	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
+	ALONDRA YA PROMETER SU MAMÁ FUTURO MÉDICO	alondra le prometió a su mamá ser médio
+	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
+	YO VIAJE FRANCIA YO EMOCIONAR YA	mi viaje a francia me emocionó
+	¿TÚ YA CONOCER ARGENTINA?	t ya conoces argentina?
+	JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER	el muchacho corteja a su novia
+	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
 	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	AY! SORPRESA AQU YO VER YA	¡ay qué sorpresa verte aquí
-	m NO-GUSTAR AMETRALLADORA	a mí no me gustan las ametralladoras
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	MO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	MUCHO S DEBER RESPONSABLE T YA ADULTO	tú no debes ser responsable ya eres el adulto
-	mslg TUYO OBLIGACIN PAGAR IMPUESTOS	es tu obligación pagar impuestos
-	mslg: medicina es una carrera que exigirá concentracion	la medicina es una carrera que exigirá concentracion
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	SIEMPRE MUCHO DISTRADO	él siempre esté muy distraído
-	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO-HERMANA	ayer mi primo conquistó a mi amiga-hermana en el cine
-	HOY WAL-MART BOMBA AIRE PARA MI PAP YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
+	MÍ ABUELO+MUJER 90 EDAD	mi abuela tiene 90 aos
+	PRÓXIMO VACACIONES YO VIAJAR CIUDAD-OBREGÓN	las próximas vacaciones iré de viaje a ciudad obregón
+	NOSOTROS ABRIR-HORNO PARA PASTEL	el sylvio del abri es un horno para meter los pasteles
+	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
+	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol el wal-mart una bomba de aire para mi papá
+	YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
+	AYER MAMÁ PREPARAR ATOLE	ayer mi mamá preparó atole
+	MI MAMÁ USA CREMA-DE-COSMÉTICO	mi mamá usa crema para la cara
+	MÍ ABUELO+MUJER 90 EDAD	mi abuela tiene 90 aos
+	NOSOTROS ABRIR-HORNO PARA PASTEL	el sylvio del abri es un horno para meter los pasteles
+	CUADERNO YO NECESITAR	el cuaderno es necesito
+	SEMANA PASADA, YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
+	MAESTRA MATEMÁTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
+	PRÓXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	YO GUSTAR GALLETA DIFERENTE GAMESA	me gustan las galletas gamesa
+	ESTE JUGUETE BARATO	el juguete está barato
+	BOSNIA-HERZEGOVINA ESE PAÍS LEJOS	en la biblioteca bosnia y herzegovina es un pas muy lejano
+	MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER	el malta de ruedas mejor no dolor
+	MI HERMANO+MUJER YA EMBARAZADA	mi hermana está embarazada
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	En mi hermano lavó su ropa sucia
+	PRÓXIMO AÑO LUGAR LAGO-DE-PÁTZCUARO NOSOTROS VIAJAR	el próximo ao al lago de pátzcuaro es viajar
+	JOVEN HOMBRE CORTEJA ELLA SU NOVIO+MUJER	el muchacho corteja a su novia
+	MAÑANA TRABAJO JUAN YO NOSOTROS-DE-DOS ACOMPAÑAR	maana juan y yo nos acompaaremos al trabajo
+	SEMANA PASADA YO PEDIR AVENTÓN LUGAR CASETA	la semana pasada ped un aventón a la caseta
+	SUÉTER BLANCO YO PERDER	yo perd el suéter blanco
+	SEMANA PASADA PASTO MÍ PAPÁ HOZ CORTAR	la semana pasada mi papá cortó la hoz
+	AUSTRALIA DECIR HABER MUCHO CANGURO	en australia hay muchos canguros
+	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
+	MI MAMÁ USA CREMA-DE-COSMÉTICO	mi mamá usa crema para la cara
+	DELEGACIÓN YO YA IR ACTA LEVANTAR	yo fui a levantar un acta a la delegación
+	TODOS IGLESIA GRITAR ¡ALELUYA!	todos en la iglesia gritan aleluya
+	JUGUETE MI YA AHIJADO REGALAR ÉL YO	el regalé un juguete a mi ahijado
+	CAJA PEQUEÑA SU COLOR ROJO	la caja pequea es un color rojo
+	MI CRONÓMETRO PERDER YA	mi cronómetro se perdió
 	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	MUCHO MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	mslg  ESTOY EMOCIONADO IR INJURAR MI NUEVO TRABAJO	estoy emocionado por ingresar a mi nuevo trabajo
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana extremadamente grande
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MUCHO MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	YO Spanish TO MSLg: DOMINGO IR CONFESAR IGLESIA	el domingo me iré a confesar a la iglesia
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	cuando me acabo de bañar siempre me pongo desodorante
-	YO Spanish TO MSLg: DOMINGO IR CONFESAR IGLESIA	el domingo me iré a confesar a la iglesia
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	Y-ESO?	¿ y eso ?
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	SIEMPRE MUCHO DISTRADO	él siempre está muy distraído
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	mslg: medicina es una carrera que exige concentración	la medicina es una carrera que exige concentración
-	LVARO OBREGN YO VIVIR	yo vivo en la liga álvaro obregón
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia simpre dona a teletón
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	SEMANA PASADA YO IR AVENTN CASETA	la semana pasada solicité un aventón a la caseta
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana extremadamente grande
-	mslg Spanish : ESE MUCHACHO BUEN CORREDOR	ese muchacho es muy buen corredor
-	JUGUETE CARRO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	mslg Spanish: ESE CARRO NUEVO LUJOSO	ese carro nuevo es muy lujoso
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	mslg : la construcción de la escuela ya está especializada	la construccción de la escuela ya esté especializada
-	JUGUETE CARRO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí el aventón a la caseta
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	mslg Spanish: ESE CARRO NUEVO LUJOSO	ese carro nuevo es muy lujoso
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	SIEMPRE TELETN MI FAMILIA DONAR DONAR	mi famila siempre dona a teletón
-	YO YA SÉLAR INGLÉS IDIOMA	yo sélo leer en idioma inglés
-	mslg  ESTOY EMOCIONADO IR INJURAR MI NUEVO TRABAJO	estoy emocionado por ingresar a mi nuevo trabajo
-	SIEMPRE NIO SUEO	el niño siempre tienen sueño
-	MUCHO MENSAJAR WHATSAPP T MANDAR M	me mandas el mensaje de whatsapp en la mañana
-	mslg Spanish : HOY YO IR ZOOLOGICO YO VER GORILA	hoy fuí al zoológico y vi un gorila
-	mslg  stoy emocionado por ingresar a mi nuevo trabajo	stoy emocionado por ingresar a mi nuevo trabajo
-	BANDERA MEXICANA TENER OCHO COLORES	la bandera mexicanala tiene ocho colores
-	YO YA COMPRAR WAL-MART BOMBA AIRE PARA MI PAP	hoy compré en wal-mart una bomba de aire para mi papá
-	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	LVARO OBREGN YO VIVIR	yo vivo en la liga álvaro obregón
-	mslg : voy a estudiar hasta secundaria después quiero rabajar	voy a estudiar hasta secundaria  después quiero trabajar
-	MUCHO MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	mslg TUYO OBLIGACIN PAGAR IMPUESTOS	es tu obligación pagar impuestos
-	SEMFORO YO PASAR AHORA MULTA YO CAGAR	me pasé un semáforo ahora tengo que pagar una multa
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre donan a teletón
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
-	SBBLE ESES ESE FEO YO NO-GUSTAR	ese traje es feo no me gusta
-	mslg Spanish: ESE CARRO NUEVO LUJOSO	ese carro nuevo es muy lujoso
-	MUCHO MUCHO PERSONA ABOFETEAR M	esa persona me abofeteó
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia  herzegovina es un país muy lejano
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	MUCHO LLANTA-DE-COCHE T DEBER CAMPARAR	debes cambiarle la llanta del coche
-	mslg : la construcción de la escuela ya está avanzada	la construcción de la escuela ya está avanzada
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	YO Spanish TO MSLg: LEGISLADOR YO PROPARAR NUEVA LSM	el legislador propuso una nueva ley de lsm
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	mslg : nosotros tenemos muchas actividades en la escuela	nosotros tenemos muchas actividades en la escuela
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	MUCHO S DEBER RESPONSABLE T YA ADULTO	tú no debes ser responsable ya eres el adulto
-	MUCHO MÉXICO CIUDAD-DE-MÉ XICO ENORME	la ciudad de méxico es enorme
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	cuando me acabo de bañar siempre me pongo desodorante
-	MUCHO MÉXICO CIUDAD-DE-MÉ XICO ENORME	la ciudad de méxico es enorme
-	SEMFORO YO PASAR AHORA MULTA YO CAGAR	me pasé un semáforo ahora tengo que pagar una multa
-	mslg TUYO OBLIGACIN PAGAR IMPUESTO	es tu obligación pagar impuesto
-	T DECIR SEGURO?	¿ estás seguro de lo que dices ?
-	SIEMPRE BEBÉA EXPRESAR EX PRESAR	el bebéa simpre es muuuy expresivo
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	AYER MUCHO GALLA YO YA IR	ayer fui a la galería
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	mslg : no te juntes con personas enfermas te pueden contagiar	no te juntes con personas enfermas te pueden contagiar
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	MUCHO PERRO MUCHO SED	el perro posee mucha sed
-	BLANCHE TO MSMlg: ADIN PRIMER HOMBRE MUNDO DIOS HACER	adán es el primer hombre creado por dios en el mundo
-	mslg ELLOS PESONA ENFERMO TU ENFRENTARSE T CONTAGIAR PODER	ellos pesonas enfermas te pueden contagiar
-	CARRO NUEVO LUJOSO	ése carro nuevo es muy lujoso
-	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasadaen compré cinta canela en un centro
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	SIEMPRE MUCHO DISTRADO	él simpre está muuuuuuuy distraído
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	mslg : diario manejo mi auto puedo ponerle gasolina	diario manejo mi auto puedo ponerle gasolina
-	MSLG DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELL A ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
-	SEMANA PASADA MAM HOZ CORTAR	la semana pasada mi mamá cortó la hoz
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	JUGUETE CARRO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	SIEMPRE ELLOS DISCUTIR	ellos simpre discuten
-	YO VER IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muuuuuuy grande
-	AYER MUCHO GALLA YO YA IR	ayer fui a la galería
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	MUCHO MÉXICO CIUDAD-DE-MÉ XICO ENORME	la ciudad de méxico es enorme
-	Y-ESO?	¿ y eso ?
-	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
-	MUCHO MUCHO ÉL EJERCER FORTALECER	él hace mucho ejercicio para fortalecerse
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	BANDERA MEXICANA TENER TONOS	la bandera mexicana tiene siete tonos
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
-	mslg Spanish YO NO-FUI COMPUTADORA NO-SIRVE	yo no fuí quien descompuso la computadora
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencimos a mi amigo de ir a la fiestas
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hierba con la hoz
+	SIEMPRE BEBÉ EXPRESAR EXPRESAR	el bebé siempre es muy expresivo
+	SANTIAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en el bolsillo una moneda
+	AUSTRALIA DECIR HABER MUCHO CANGURO	en australia hay muchos canguros
+	MI COMPUTADORA PRENDER NO YO PREOCUPADO	mi computadora no prende estoy preocupado
+	MÍ MAMÁ COMPRAR CALZÓN	mi mamá me compró un calzón
+	HOSPITALACÁ TODA ENFERMERA AMABLE	todas las enfermeras del hospital son muy amables
+	MI ABUELO+MUJER HACER RICO CHOCOLATE	mi abuela hace un chocolate muy rico
+	MAESTRA MATEMÁTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
+	HOY WAL-MART BOMBA AIRE PARA MI PAPÁ YA YO COMPRAR	hoy compré en espagnol el wal-mart una bomba de aire para mi papá
+	SAPO YA CONVERTIR PERSONA PRÍNCIPE	el sapo se convirtió en prncipe
+	MARATÓN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
+	ROSALÍA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
+	YO YA COMPRAR NUEVA ALMOHADA PARA CAMA	compré una almohada nueva para la cama
+	ALGUNAS PERSONAS ANALFABETO	algunas personas son analfabetas
+	ELLA TENER LUNAR BONITO	ella tiene una lunar bonito
+	SIEMPRE CUANDO ACABAR BAÑAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
+	ISABEL TENER SU CORONA ORO	isabel tiene una corona de oro
+	AYER MI AUTOMÓVIL YO ENTREGAR-ENGANCHE	ayer entregué el enganche de mi auto
+	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
+	BARCO CAPITÁN ÉL INTELIGENTE	el capitán del barco es muy inteligente
+	ELLA TENER LUNAR BONITO	ella tiene una lunar bonito
+	YO VIAJE FRANCIA YO EMOCIONAR YA	mi viaje a francia me emocionó
+	HOSPITALACÁ TODA ENFERMERA AMABLE	todas las enfermeras del hospital son muy amables
+	SUÉTER BLANCO YO PERDER	yo perd el suéter blanco
+	MALETA-DE-RUEDAS MEJOR CUERPO NO DOLER	el malta de ruedas mejor no dolor
+	YO DOLOR ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	ALICIA YA VIAJAR SUDÁFRICA	en la espagnol del alicina ya viajó a sudáfrica
+	SACAR LIBRO MATEMTICAS	saquen su libro de matemáticas
+	MI TO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
+	SARAH-M ABUELO+MUJER RICO CHOCOLATE	mi abuela hace un chocolate muy rico
+	SARA MUCHO ALMEJA ENCONTRAR	sara encontró muchas almejas en el mar
+	YA M MADR YA EMBARAZADA	mi madre está embarazada
+	YA M NO GUSTAR AMETRALLADORA	a mí no me gustan esas ametralladoras
 	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí un aventón a la caseta
-	Y-ESO?	¿ y eso ?
-	BLOQUEAR PROTEGER SOL	el bloqueador le protege del sol
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí un aventón a la caseta
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	es fácil aprender esas letras del abecedario
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es joven
-	SIEMPRE ELLOS DISCUTIR	ellos simpre discuten
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasadaen compré cinta canela en un centro
-	YO Spanish TO MSLg: LEGISLADOR YO PROPARAR NUEVA LSM	el legislador propuso una nueva ley de lsm
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
+	BÉLGICA HABER LENAGUAS-SEAS : vgt y lsfb	en bélgica hay siete lenguas de señas: vgt y lsfb
 	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	MSLG DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELL A ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacerle ejercicio para estar sano
-	PALACIO-DE-LOS-DEPORTES YO Y A ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando me acabo de baar simpre me pondré desodorante
-	LVARO OBREGN YO VIVIR	yo vivo en la liga álvaro obregón
-	mslg Spanish : YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchísimas cosas
-	YO YA COMPRAR COCA-COLA ANTÉAYO	yo compré una coca cola anteayer
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	JUGUETE CARRO GUSTAR COLECCIONAR	el juguete carro me gusta coleccionar
-	mslg : miguel quiere declarse a su amiga hermana pero ya atreve	miguel quiere declarse a su amiga-hermana pero ya se atreve
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	es fácil aprender las letras del abecedario
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	el próximo vacaciones iré de viaje a ciudad obregón
-	AYER MUCHO GALLA YO YA IR	ayer fui a la galería
-	SIEMPRE MUCHO DISTRADO	él siempre está muy distraído
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	mslg Spanish : ESE MUCHACHO BUEN CORREDOR	ese muchacho es muy buen corredor
-	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	MUCHO PERRO MUCHO SED	el perro posee mucha sed
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	SIEMPRE MUCHO DISTRADO	él siempre está muuuuuuy distraído
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	mslg : la construcción de la escuela ya está avanzada	la construcción de la escuela ya está avanzada
-	MUCHO MUCHO PERSONA ABOFETEAR M	esa persona me abofeteó
-	mslg YO TENER TRABAJO CONTENTO YO	ya tendré trabajo estoy contento
-	mslg VECINO PEDIR MI CARRO MOVER	el vecino me pidiera mover mi carros
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprenderlo muchas cosas
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	mslg Spanish : miguel desea no declarse a su amiga pero no se atreve	miguel desea declarse a su amiga pero no se atreve
+	SALN YO ENCANTA COMER CACAHUATES CON LIMN	me encanta comer cacahuates con limón y sal
+	PRXIMO VACACIONES IR CIUDAD OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
+	SML GRANDE YO IR JUGAR AFUERA	vamos a jugar afuera
+	SIEMPRE CUANDO ACABAR BAAR YO PONER-DESODORANTE	cuando me acabo de bañar siempre me pongo desodorante
+	SALGO MI MAM USA CREMA-DE-COSMÉTICO	mi mamá usa crema para la cara
+	YA M ABUELO+MUJER CHOCOLATE RICO	mi abuela hace un chocolate muuuy rico
+	SARAH SU MSMLO: AUSTRA SU PAS HERMOSO	austría es un país hermoso
+	SACAR-COPIA ELLOS DEBER	debes sacar una copia
+	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
+	SANTÉAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en su bolsillo una moneda
+	MSLG Spanish YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
+	SALGO YA CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
+	AYER SUIÉTER YO YA COMPRAR	ayer compré el suéter
+	ALMOHADA CMODA ALMOHAD PARA DORMIR	la almohada es muy cómoda para dormir
+	ALMOHADA CMODA ALMOHAD PARA DORMIR	la almohada es muuuuuuuy cómoda para dormir
+	SANTÉAGO MONEDA GUARDAR-BOLSILLO	santiago guarda en su bolsillo una moneda
 	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino simpre es muy desobediente
-	mslg HIJO MI VECINO TENER AUTISMO	la hija de mi vecina tiene autismo
-	mslg HIJO MI VECINO TENER AUTISMO	la hija de mi vecina tiene autismo
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	BANDERA MEXICANA TENER CINCO COLORES	la banderas mexicana tiene cinco colores
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasadala fui a plaza launiversidad
-	SIEMPRE ELLOS DISCUTIR	ellos simpre discute
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	MUCHO CUERLA NIO TENER COMPUTADORA PARA TRABAJAR	en la escuela cada niño tiene una computadora para trabajar
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasadaen fui a plaza universidad
-	mslg Spanish: ESO BONITO S YO GUSTAR	eso es muy bonito sí me gusta
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	MUCHO MUCHO PERSONA ABOFETEAR M	esa persona me abofeteó
-	MUCHO MÉXICO CIUDAD-DE-MÉ XICO ENORME	la ciudad de méxico es enorme
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es joven
-	MUCHO BIBLIOTECA MEXICO GRANDE	la biblioteca de mexico es muy grande
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	BANDERA MÉXICO ESCUDO ESE SOMBRE BONITO	un escudo de la bandera de méxico es sumamente bonito
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	BICICLETA MI HERMANO CAER	mi hermano se cayó de la bicicleta
-	SIEMPRE NIO SUEO	el niño siempre tiene sueño
-	BANDERA MEXICANA TENER TONOS	la bandera mexicana tiene tres tonos
-	Y-ESO?	¿ y eso ?
-	MARATN MI PRIMO MEDALLA ORO YA GANAR	mi primo ganó medalla de oro en el maratón
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre donan a teletón
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana extremadamente grande
-	mslg  ESTOY EMOCIONADO IR INJURAR MI NUEVO TRABAJO	estoy emocionado por ingresar a mi nuevo trabajo
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	mslg : la construcción de la escuela ya está especializada	la construccción de la escuela ya esté especializada
-	MUCHO LLANTA-DE-COCHE T DEBER CAMPARAR	debes cambiarle la llanta del coche
-	MUCHO SUÉTERE BLANCO YO PERDER	el suéteres blanco se perdió
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	PIZZA OCHO ELLOS REBANAR	ellos rebanaron la pizza en ocho partes
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	MUCHO MÉXICO BIBLIOTECA TUYO GRAVE	el biblioteca de méxico es tan grande
-	LVARO OBREGN YO VIVIR	yo vivo en la liga álvaro obregón
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	mslg : barreras de comunicación pueden eliminarse	las barreras de comunicación pueden eliminarse
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	SBADO PASADA HABER ACCIDENTE GRAVE CARRETERA	el sábado pasado hubo el grave accidente en la carreteras
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	T DECIR SEGURO?	¿ estés seguro de lo que dices ?
-	mslg HIJO MI VECINO TENER AUTISMO	la hija de mi vecina tiene autismo
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	T DECIR SEGURO?	¿ estás seguro de lo que dices ?
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	mslg: no te juntes con pesonas enfermas te pueden contagiar	no te juntes con pesonas enfermas te pueden contagiar
-	SIEMPRE HIJO MUCHO DESOBEDECER	el hijo de mi vecino simpre es muuuuuuuy desobediente
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	SBBLE ESES ESE FEO YO NO-GUSTAR	ese traje es feo no me gusta
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	mslg  ESTOY EMOCIONADO IR INJURAR MI NUEVO TRABAJO	estoy emocionada por ingresar a mi nuevo trabajo
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	m NO-GUSTAR AMETRALLADORA	a mí no me gustan las ametralladoras
-	MO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en un archivo del hospital
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	AYER MUCHO GALLA YO YA IR	ayer fui a la galería
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
+	MARATN MI PRIMO MEDALLA ORO GANAR	mi primo ganó medalla de oro en el maratón
+	SALGO YO YA GANAR CAMPEONATO	yo gané el campeonato
+	SALGA YO YA IR ACTA LEVANTAR	yo fui a levantar un acta a la delegación
 	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
-	SIEMPRE MI FAMILIA TELETT YO DONAR	mi familia simpre donan a teleton
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es joven
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	PIZZA OCHO ELLOS REBANAR	ellos rebanaron la pizza en ocho partes
-	MUCHO MÉXICO BIBLIOTECA GRANDE	el biblioteca de méxico es muy grande
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	MSLG DIFCIL APRENDER LETRA ABECEDARIO	es difícil aprender las letras del abecedario
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es joven
-	mslg proximo vaccinaciones iré de viaje aurbe obregón	un proximo vacaciones iré de viaje a urbe obregón
-	LVARO OBREGN YO VIVIR	yo vivo en la liga álvaro obregón
-	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	YO Spanish TO MSLg: LEGISLADOR YO PROPARAR NUEVA LSM	el legislador propuso una nueva ley de lsm
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	MUCHO GRANDE BIBLIOTECA MÉXICO	el biblioteca de méxico es muuuuuy grande
-	SIEMPRE BEBÉA EXPRESAR EX PRESAR	el bebéa siempre es muy expresivo
-	SARA MUCHO ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontró muchas almejas en el mar
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí un aventón a la caseta
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muuuuuuy bonito de verdad
-	PIZZA OCHO ELLOS REBANAR	ellos rebanaron la pizza en ocho partes
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	SEMANA PASADA M PAP HOZ CORTAR	la semana pasada mi papá cortó la hoz
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	mslg : nosotros tenemos muchas actividades en la escuela	nosotros tenemos muchas actividades en la escuela
-	mslg VECINO YO PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
-	mslg : nosotros tenemos muchas actividades en la escuela	nosotros tenemos muchas actividades en la escuela
-	mslg : no te juntes con personas enfermas te pueden contagiar	no te juntes con personas enfermas te pueden contagiar
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	AY! SORPRESA AQU YO VER YA	¡ay qué sorpresa verte aquí
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fuí a plaza universidad
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
-	MO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
-	mslg PERRO DEBAJO MESA	un perro está debajo de la mesa
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	MSLG PARQUE ADENTRO AZCAPOTZALCO NOSOTROS	el parque de azcapotzalco es muy nosotros
-	PALACIO-DE-LOS-DEPORTES YO Y A ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deportes
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	MSLG DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELL A ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	MUCHO MÉXICO CIUDAD-DE-MÉ XICO ENORME	la ciudad de méxico es enorme
-	BICICLETA MI HERMANO CAER	mi hermano se cayó de la bicicleta
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es muy expresivo
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	un escudo de la bandera de méxico es muuuuuuy bonito
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	MSLG DEPORTE RAFTING JOVEN	el deportista de rafting es joven
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	mslg spanish : la almohada es muy comoda para dormir	la almohada es muy comoda para dormir
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	HOY WAL-MART BOMBA AIRE PARA MI PAP YA YO COMPRAR	hoy compré en espagnol en wal-mart una bomba de aire para mi papá
-	CARRO NUEVO LUJOSO	ése carro nuevo es muy lujoso
-	AYER MAM PREPARABADA ATOLE	ayer mi mamá preparaba atole
-	MUCHO MENSAJAR WHATSAPP T MANDAR M	me mandas un mensaje de whatsapp en la mañana
-	YO YA COMPRAR WAL-MART BOMBA AIRE PARA MI PAP	hoy compré en wal-mart una bomba de aire para mi papá
-	mslg spanish : la almohada es muy comoda para dormir	la almohada es muy comoda para dormir
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	MSLG PARQUE ADENTRO AZCAPOTZALCO NOSOTROS	el parque de azcapotzalco es muy nosostros
-	SIEMPRE ELLOS DISCUTIR	ellos simpre discuten
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	MUCHO CUERLA NIO TENER COMPUTADORA PARA TRABAJAR	en la escuela cada niño tiene una computadora para trabajar
-	MAESTRA MATEMTICAS MUCHAS BROMAS	en la maestra de matemáticas dice muchas bromas
-	SIEMPRE NIO SUEO	el nio siempre tiene sueo
-	mslg: medicina es una carrera que exigirá concentración	la medicina es una carrera que exigirá concentración
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	YO NO-FUI VIDRIO ROMPER	yo no fui el vidrio rompió
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	mslg Spanish: ESO BONITO S YO GUSTAR	eso es muy bonito sí me gusta
-	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
-	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
-	mslg : en bélgica hay dos lenguas de seas: vgt y lsfb	en bélgica hay dos lenguas de señas: vgt y lsfb
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	un escudo de la bandera de méxico es muy bonito
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	el cuando me acabo de baar siempre me pongo desodorante
-	LVARO OBREGO YO VIVIR	yo vivo en la liga álvaro obregon
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	mslg Spanish : ESE MUCHACHO BUEN CORREDOR	ese muchacho es muy buen corredor
-	mslg YO YA GANAR CAMPEONATO	yo gané el campeonato
-	mslg Spanish : HOY YO IR ZOOLOGICO YO VER GORILA	hoy fuí al zoológico y vi un gorila
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muuuy bonito de verdad
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercico para estar sano
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	mslg : no te juntes con personas enfermas te pueden contagiar	no te juntes con personas enfermas te pueden contagiar
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué un enganche de mi auto
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	MSLG DESEAR CONQUISTAR ELLA MUJER PERO MIEDO ELL A ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	mslg : es indispensable hacer ejercicos para estar sano	es indispensable hacer ejercicos para estar sano
-	MSLG DIFCIL APRENDER LETRA ABECEDARIO	es difícil aprender las letras del abecedario
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencimos a mi amigo de ir a la fiestas
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	BANDERA MEXICANA TENER TRES COLORES	la banderas mejicana tiene tres colores
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	MUCHO MUCHO ÉL EJERCER FORTALECER	él hace mucho ejercicio para fortalecerse
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	PRXIMO CONFERENCIA MALLERREY	la próxima conferencia será en monterrey
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia  herzegovina es un país muy lejano
-	YO Spanish TO MSLg: DOMINGO IR CONFESAR IGLESIA	el domingo me iré a confesar a la iglesia
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino simpre es muy desobediente
-	mslg : barreras de comunicación pueden eliminarse	las barreras de comunicación pueden eliminarse
-	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	YO YA VER CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
-	MSLG PARQUE ADENTRO AZCAPOTZALCO NOSOTROS	el parque de azcapotzalco es muy nosotros
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	el fácil aprender las letras del abecedario
-	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasadala compré cintas canela en el centro
-	mslg: no te juntes con personas enfermas te podran contagiar	no te juntes con personas enfermas te podrían contagiar
-	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
-	mslg: un domingo pasado hubo un gravsimo accidente en carretera	un domingo pasado hubo un gravísimo accidente en la carretera
-	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	el próximo vacaciones iré de viaje a ciudad obregón
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasadala ped un aventón a la caseta
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	SIEMPRE NIO SUEO	el niño siempre tiene sueño
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada ped un aventón a la caseta
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	mslg NECESITAR EJERCICIO EJERICIO PARA SALUD	es necesario hacer ejercicio para estar sano
-	mslg  ESTOY EMOCIONADO IR INJURAR MI NUEVO TRABAJO	estoy emocionada por ingresar a mi nuevo trabajo
-	BLOQUEAR PROTEGER SOL	el bloqueador me protege del sol
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	mslg spanish : la almohada es muy comoda para dormir	la almohada es muy comoda para dormir
-	YO YA Spanish TOMSLG YA COMPRAR NUEVA PARA CAMA	compré una almohada nueva para la cama
-	SIEMPRE MI FAMILIA TELETN DONAR DONAR	mi familia siempre dona a teletón
-	SIEMPRE CUANDO AMBOS BAAR YO PONER-DESODORANTE	cuando me acabo de bañar siempre me pongo desodorante
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	SIEMPRE NIO SUEO	el niño siempre tiene sueño
-	mslg : en bélgica hay dos lenguas de seas: vgt y lsfb	en bélgica hay dos lenguas de señas: vgt y lsfb
+	T DISCUTAR MI PREGUNTA PODER?	¿ puedes contestar mi pregunta ?
+	SALGO NECESITAR PAPEL PARA AGUA ABSORBER	necesito papel para absorber el agua
+	AYER SUÉTER YO YA COMPRAR	ayer compré un suéter
+	AYER GALLERA YO IR	ayer fui a la galería
+	SALGA YO YA IR ACTA LEVANTAR	yo fui a levantar un acta a la delegación
+	TODO IGLESIA GRITAR ALELUYA!	todos en la iglesia gritan ¡aleluya
+	MUCHO MI HIJO YO ABANDONAR	yo abandoné a mi hijo
+	MAANA YO VIAJAR FRICA	mañana voy a viajar a áfrica
 	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
-	YO YA SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
-	BANDERA MEXICANA TENER DOCE-CoLORES	la bandera mexicana tienen doce colores
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	mslg : la construcción de la escuela ya está avanzada	la construcción de la escuela ya está avanzada
-	YO TENER TRABAJO YA CONTENTO YO	ya tengo trabajo estoy contento
-	mslg YO CONOCER BANGLADESH BONITO-DE-VERDAD	yo conozco bangladesh es muy bonito de verdad
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	MUCHO PERRO DEBAJO MESA	el perro esté debajo de la mesa
-	YO YA COMPRAR WAL-MART BOMBA AIRE PARA MI PAP	hoy compré en wal-mart una bomba de aire para mi papá
-	mslg Spanish : ESE MUCHACHO BUEN CORREDOR	ese muchacho es muy buen corredor
-	MSLG GOBIERNO CUIDAR CIUDADOS	el gobierno cuida a los ciudadanos
-	PRXIMO VACACIONES YO VIAJAR CIUDAD-OBREGN	las próximas vacaciónes iré de viaje a ciudad obregón
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	YO NO-FUI GRAPHIN ROMPER	yo no fui el cristal rompió
-	SIEMPRE NIO SUEO	el niñito siempre tiene sueño
-	PALACIO-DE-LOS-DEPORTE YO YO ANTIER MAGNETO CANTAR AUDITORO YA	antier fui a un concierto de magneto en el palacio de los deporte
-	mslg Spanish: ESO BONITO S YO GUSTAR	eso es muy bonito sí me gusta
-	mslg Spanish : YO NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	SARASALA TRABAJAR ARCHIVO HOSPITAL	rosala trabaja en el archivo del hospital
-	BANDERA MÉXICO ESCUDO ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
-	T DECIR SEGURO?	¿ estás seguro de lo que dices ?
-	mslg : ESE VESTIDO FEO YO NO-GUSTAR	ese vestido es feo no me gusta
-	mslg : el encnató comer cacahuates con limón sal	me encnató comer cacahuates con limón  sal
-	MUJER MUCHO MI JEFE ÉL PAGAR M MITAD	mi jefe me pagó la mitad del salario
-	T DECIR SEGURO?	¿ estás seguro de lo que dices ?
+	T YA CENAR?	¿ ya cenaste ?
+	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
+	MI AMIGO FEBRURO TENER ACTA-DEMANDA	mi amigo febrero tiene un acta de demanda
+	SU HIJO YO YA MUCHO ABANDONAR	él abandonó a su hijo
+	SARAH-MOLG DOCTOR ANOTAR-AGENDA	un doctor anota la cita en la agenda
+	HOY WAL-MART BOMBA AIRE PARA MI PAP YA	hoy compré en wal-mart una bomba de aire para mi papá
+	Spanish to mslg: isabel tiene una corona de plata	isabel tiene una corona de plata
+	MI PAP LLENAR-FORMATO PARA TRAMITAR LICENCIA-DE-MANEJO	mi papá llena el formato para tramitar su licencia de manejo
+	T YA CONOCER ARGENTINA?	¿ tú ya conoces argentina ?
+	SALGO MI AMIGO RODOLFO DADIVOSO	mi amigo rodolfo es muy dadivoso
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	PRXIMO VACACIONES IR CIUDAD OBREGN	las próximas vacaciones iré de viaje a ciudad obregón
+	PLAYA MUCHOS COCOS YO ENCONTRAR	en la playa encontré muchos cocos
+	SALA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospitales
+	SU BEBÉ BONITO ELLA	el bebéa de cesar es muuuy bonito
+	MUCHO PERSONA ABOFETEAR M	esa persona me abofeteó
+	HOY M CELULAR YO YA TENER SALDO	hoy mi celular ya tiene saldo
+	SU PERRO ELLA ABANDONAR ELLAS	ana abandonó a su perro
+	YO M DEL ESPALDA PORQUE AYER MUEBLE YO CARGAR	me duele la espalda porque ayer cargué un mueble
+	SALGO YO YA GANAR CAMPEONATO	yo gané el campeonato
+	YA MSM TI CONFUNDIR TI YA TU MAM PORQUE SE PARECIDAR	te confundo a ti y a tu mamá porque se parecen
+	TODO IGLESIA GRITAR ALELUYA!	todos en la iglesia gritan ¡aleluya
+	SBETEAR MONTAA RUSA NO COBARDE	súbete a la montaña rusa no seas cobarde
+	SECRETO SECRETO YA YA DESCUBRIR	ya descubrí su secreto
+	HOY M CLULAR YO YA TENER SALDO	hoy mi celulares ya tiene saldo
+	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice muchas bromas
+	MUCHO CINTURN-DE-SEGURIDAD MI AUTO NO-HAY	mi auto no tiene cinturón de seguridad
+	BANDERA MEXICANA TENER TRES COLORES	la bandera mexicana tiene tres colores
+	MI CRONMETRO YA PERDER	mi cronómetro se perdió
+	ELLA TENER LUNAR BONITO	ella tienen una lunar bonito
+	YA MSM TI CONFUNDIR TI YA TU MAM PORQUE SE PARECIDAR	te confundo a ti y a tu mamá porque se parecen
+	Spanish tomslg : credencial del ine tiene mi huella	la credencial del ine tiene mi huella
+	SU HIJO YO YA MUCHO ABANDONAR	él abandonó a su hijo
+	Spanish tomslg : credencial del ine tiene mi huellas	la credencial del ine tiene mi huellas
+	Spanish to mslg ELLA TENER CABELLO-LACIO	ella tienen cabello lacio
+	ELLA TENER LUNAR BONITO	ella tiene una lunar bonito
+	AYER SU ROPA SUCIA MI HERMANO LAVAR	ayer mi hermano lavó su ropa sucia
+	YA M ADN PRIMER HOMBRE MUNDO DIOS HACER	adán es el primer hombre creado por dios en el mundo
+	SALA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
+	AYER YA PASEAR SENTIR BIEN	ayer fui a pasear y me senti muy bien
+	AYER MAM PREPARAR ATOLE	ayer mi mamá preparó atole
+	SEMANA PASADA YO PEDIR AVENTN LUGAR CASETA	la semana pasada pedí un aventón a la caseta
+	YO YA COMPRAR COCA-COLA AYER	yo compré una coca cola ayer
+	YA M ADN PRIMER HOMBRE MUNDO DIOS HACER	adán es el primer hombre ideado por dios en el mundo
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cintas canela en el centro
+	SL GRANDE FCIL APRENDER LETRA ABECEDARIO	es fácil aprender las letras del abecedario
+	SBETEAR MONTAA RUSA NO COBARDE	súbete a la montaña rusa no seas cobarde
+	MAANA YO VIAJAR FRICA	mañana voy a viajar a áfrica
+	ESO BONITO S YO GUSTAR	eso es muy bonito sí me gusta
+	T PRESIDENTE MÉXICO QUERER? CARLOS-SALINAS-DE-GORTARI	¿ quién fue un presidente de méxico ? carlos salinas de gorta
+	HOSPITALAC TODOS ENFERMERA AMABLE	todas las enfermeras del hospital son muy amables
+	SALGIA SECUNDARIA YO DONAR CONSTANCIA SALGARIA	ayer me dieron la constancia de la secundaria
+	T PRESIDENTE MÉXICO QUERER? CARLOS-SALINAS-DE-GORTARI	¿ quién fue el presidente de méxico ? carlos salinas de gortari
+	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
+	MI ABUELO TENER RIFLE VIEJO	mi abuelo tiene un rifle viejo
+	Slovaquia ESE PAS LEJOS	eslovaquia es un país que está muy lejos
+	SIEMPRE ELLOS DISCUTIR	ellos siempre discuten
+	T YA CONOCER ARGENTINA?	¿ tú ya desconoces argentina ?
+	SARA YO M GUSTAR FRESAS CON CREMO	me gustan las fresas con crema
+	YA MSNAR VERDAD NO-ELUDAR PREGUNTA	ya dime la verdad no eludas la pregunta
+	SIEMPRE HIJO MI VECINO MUCHO DESOBEDECER	un hijo de mi vecino siempre es tan desobediente
+	MADRUGADA EXPLOSIN YO ESCUCHAR	en la madrugada escuché una explosión
+	MAESTRA MATEMTICAS MUCHAS BROMAS	la maestra de matemáticas dice tantas bromas
+	SACAR-COPIA ELLOS DEBER	debes sacar una copia
+	MUCHO ESCUELA NIO TENER COMPUTADORA PARA TRABAJO	en la escuela cada niño tiene una computadora para trabajar
+	MI PAP LLENAR-FORMATO PARA TRAMITAR LICENCIA-DE-MANEJO	mi papá llena el formato para tramitar su licencia de manejo
+	SIEMPRE LEGISLADOR YA PROPOSER NUEVA LSM	el legislador propuso una nueva ley de lsm
+	YO NO-FUI DIAGNRO ROMPER ROMPER	yo no fui el que rompió el vidrio
+	BANDERA MÉXICO ESE ESE MUCHO BONITO	el escudo de la bandera de méxico es muy bonito
+	MI TO TENER CASA CUERNAVACA	mi tío tiene una casa en cuernavaca
+	MI AMIGO+MUJER MODELO SU REVISTA	mi amiga es modelo de una revista
 	MUCHO PERRO DEBAJO MESA	el perro está debajo de la mesa
-	MSLG FRCIL APRENDER LETRA ABECEDARIO	es fácil aprender las letras del abecedario
-	mslg HIJO MI VECINO TENER AUTISMO	la hija de mi vecina tiene autismo
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
-	mslg: medicina es una carrera que exige concentración	la medicina es una carrera que exige concentración
-	YO YA GANAR SUBCampeonaTO	yo gané el subcampeonato
-	SARA MUCHA ALMEJA ADENTRO MAR ELLA ENCONTRAR	sara encontré muchas almejas en el mar
-	SBIETE MONTAA ROSA NO COBARDE	súbete a la montaña rusa no seas cobarde
-	MUCHO IGLESIA CAMPANA GRANDE	en la iglesia hay una campana muy grande
-	YO YA COMPRAR WAL-MART BOMBA AIRE PARA MI PAP	hoy compré en wal-mart una bomba de aire para mi papá
-	mslg CHARLES-MICHEL-L’ÉPÉE PADRE SORDO	charles-michel de l’épée es un “padre de los sordos”
-	MUCHO PERRO TENER MUCHO SED	el perro tiene mucha sed
-	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasadaen fui a plaza universidad
+	MUCHO SÉ LEER INGLÉS IDIOMA	yo sé leer en idioma inglés
+	M VIAJAR FRANCIA YO EMOCIONAR YA	mi viaje a francia me emocionó
+	ESO BONITO YO GUSTAR	eso es muy bonito sí le gustan
 	SEMANA PASADA YO IR PLAZA UNIVERSIDAD	la semana pasada fui a plaza universidad
-	mslg : necesito dinero para poder pagar la gasolina	necesito dinero para poder pagar la gasolina
-	BLANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
-	SIEMPRE HIJO M VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
-	mslg Spanish: YO QUERER APRENDER MUCHO COSA	yo quiero aprender muchas cosas
-	BLANCHE TO MSMlg: ADIN PRIMER HOMBRE MUNDO DIOS HACER	adán es el primer hombre creado por dios en el mundo
-	mslg Spanish: ESO BONITO S YO GUSTAR	eso es muy bonito sí me gusta
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchos amigos en la escuela
-	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
-	SARAA TRABAJAR ARCHIVO HOSPITAL	rosalía trabaja en el archivo del hospital
-	YO TENER ESCUELA MUCHO AMIGOAMIGO	tengo muchísimos amigos en la escuela
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	MUCHO LLANTA COCHE T DEBER CAMBIAR	debes cambiar la llanta del coche
-	AYER CINE MI PRIMO YA CONQUISTAR ELLA MI AMIGO+MUJER	ayer mi primo conquistó a mi amiga en el cine
-	SIEMPRE BEBÉ EXPRESAR EX PRESAR	el bebé siempre es extremadamente expresivo
-	AY! SORPRESA AQU YO VER YA	¡ay qué sorpresa verte aquí
+	BARCO CAPITN INTELIGENTE	el capitán del barco es muy inteligente
+	SIEMPRE BEBÉ EXPRESAR EX PRESAR	un bebéa siempre es muuuuy expresivo
+	PRXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	MUCHO M PREMINO UNIVERSIDAD YA INGRESAR	mi primo ingresó a la universidades
+	CHINA HABER SOBREPOBILIDAD	en china hay sobrepoblación
+	SIEMPRE MI FAMILIA TELETN DONAR DONARDONAR	mi familia simpre dona a teletón
+	SIEMPRE MAESTRO ALUMNOS REUNIN APARTE	el maestro se reunió aparte con sus alumnos
+	SLGA Spanish YA DEBER RESPONSABLE T YA ADULTO	tú ya debes ser responsable ya eres un adulto
+	SU BEBÉ CÉSAR SU BONITO	el bebé de césar es muy bonito
+	SEMANA PASADA LUGAR PLAZA UNIVERSIDAD	la semana pasadala estuve a plaza universidad
+	MUCHO ESTUDIAR PARA EXAMEN	estudiamos para el examen
+	YA M NO GUSTAR ARAAS	a mí no me gustan las arañas
+	MUCHO CINTURN-DE-SEGURIDAD MI AUTO NO-HAY	mi auto no tiene cinturón de seguridad
+	CHINA HABER SOBREPOBILIDAD	en china hay sobrepoblación
+	MI JEFE ÉL PAGAR M SUELDO MITAD	mi jefe me pagaron la mitad del sueldo
+	SIEMPRE HIJO MI VECINO MUCHO DESOBEDECER	el hijo de mi vecino siempre es muy desobediente
+	M VIAJAR FRANCIA YO EMOCIONAR YA	mi viaje a francia me emocionó
+	PRXIMO-DOMINGO MI HERMANO+MUJER CASAR	mi hermana se casa el próximo domingo
+	MI HERMANO+MUJER EMBARAZADA	mi hermana está embarazada
+	SIEMPRE MAESTRO ALUMNOS REUNIN APARTE	el maestro se reunieron aparte con sus alumnos
+	T DISCUTAR MI PREGUNTA PODER?	¿ puedes contestar mi pregunta ?
+	MI PRIMO YA CONQUISTAR MI AMIGO+MUJER CINE	anoche mi primo conquistó a mi amiga en el cine
+	SECUNDARIA ESTA SERVILLETA SUCIA	esta servilleta está sucia
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy volví al zoológico y vi un gorila
+	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
+	YA DEBER RESPONSABLE T YA IR NIO	tú ya debes ser responsable ya eres el niño
+	SECUNDARIA ESTA SERVILLETA SUCIA	esta servilleta está sucia
+	SUÉTER BLANCO YO YA PERDER	perdí el suéteres blanco
+	SALGO YA CONVENCER MI AMIGO IR FIESTA	convencí a mi amigo de ir a la fiesta
+	BÉLGICA HABER DOS LENAGUAS SEAS : vgt y lsfb	en bélgica hay dos lenguas de señas: vgt y lsfb
+	HOY YO IR ZOOLOGICO YO VER YA GORILA	hoy fuí al zoológico y vi un gorila
+	YA M NO GUSTAR AMETRALLADORA	a mí no me gustan las ametralladoras
+	MUCHO BANCO RETIRAR DINERO YO IR	voy al banco a retirarlo dinero
+	MUCHO ESCUELA NIO TENER COMPUTADORA PARA TRABAJO	en la escuela cada niño tiene una computadora para trabajar
+	SEMANA PASADA CINTA CANELA YO COMPRAR CENTRO	la semana pasada compré cinta canela en el centro
+	MUCHO DIFCIL APRENDER LETRA ABECEDARIO	es difícil aprender las letras del abecedario
+	SARA YO M GUSTAR FRESAS CON CREMO	me gustan las fresas con crema
+	SARAH MUCHO TENER SONIDO GRAVE	el trombón tiene un sonido muy grave
+	YO NO-FUI DIAGNRO ROMPER ROMPER	yo no fui el que rompió el vidrio
+	T MUCHO EJERCER FORTALECER	él hace mucho ejercicio para fortalecerse
+	MI JEFE ÉL PAGAR M SUELDO MITAD	mi jefe me pagó la mitad del sueldo
+	BANDERA MEXICANA TENER TRES COLORES	la banderas mexicana tiene doce colores
+	SALN YO ENCANTA COMER CACAHUATES CON LIMN	me encanta comer cacahuates con limón y sal
+	TODO CORREO-EXPLICAR ARROBA	todos lso correos emplean arroba
+	SALGO Y A NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
+	YA CONQUISTAR ELLA MUJER PERO MIEDO ELLa ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
+	T MUCHO EJERCER FORTALECER	él hace mucho ejercico para fortalecerse
+	T YA CENAR?	¿ ya cenaste ?
+	YA MSNAR VERDAD NO-ELUDAR PREGUNTA	ya dime la verdad no eludas la pregunta
+	Spanish to mslg: villahermosa hace mucho calor	en villahermosa hace mucho calor
+	SMALLY ELLOS ADMIRAR MADONA ELLA	ellos admiran a la vocalista madonna
+	MUCHO MI HIJO YO ABANDONAR	yo abandoné a mi hijo
+	YA MUCHO FILIZ MI HIJO LICENCIA-DE-CONDUCIR ÉL YA	estoy feliz mi hijo ya tiene licencia de conducir
+	YA CONQUISTAR ELLA MUJER PERO MIEDO ELLa ABANDONAR	él desea conquistar a una mujer pero tiene miedo de que lo abandonen
+	SALGO Y A NO-FUI COMPUTADORA NO-SIRVE	yo no fui quien descompuso la computadora
+	AYER MI AUTOMN YO ENTREGAR ENGANCHE	ayer entregué el enganche de mi auto
+	MI AMIGO JULIO TENER ACTA-DEMANDA	mi amigo julio tiene un acta de demanda
+	PRXIMO CONFERENCIA LUGAR MONTERREY	la próxima conferencia será en monterrey
+	MUCHO BANCO YO IR DINERO RETIRAR	voy al banco a retirar dinero
+	VECINO ÉL PEDIR MI CARRO MOVER	el vecino me pidió mover mi carro
+	ISABEL TENER SU CORONA ORO	isabel tiene una corona de oro
+	SACAR LIBRO MATEMTICAS	saquen su libro de matemáticas
+	AYER YA PASEAR SENTIR BIEN	ayer fui a pasear y me sentia tan bien
+	HOSPITALAC TODOS ENFERMERA AMABLE	todas las enfermeras del hospital son muy amables
+	BOSNIA-HERZEGOVINA ESE PAS LEJOS	bosnia y herzegovina es un país muy lejano
+	MARATN MI PRIMO MEDALLA ORO GANAR	mi primo ganó medalla de oro en el maratón
+	MI ABUELO TENER RIFLE VIEJO	mi abuelo tiene un rifle viejo
+	SIEMPRE MI FAMILIA TELETN DONAR DONARDONAR	mi familia siempre dona a teletón
