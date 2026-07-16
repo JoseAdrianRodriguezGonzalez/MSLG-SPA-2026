@@ -7,7 +7,7 @@ wheels/
 results/checkpoint-*/
 outputs/model*/
 *.egg-info
-
+data/
 # Virtual environments
 .venv
 cc.ar.300.bin
